@@ -1,0 +1,389 @@
+{
+  "skill_name": "endocrinology-inpatient-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-27",
+  "source_folder": "内分泌科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "内分泌科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_内分泌科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_内分泌科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "deccbd0cd8e17fa5fb211fa4dc554778dced9b0ae14fca1bc580b96dbbd4c502",
+      "reference_sha256": "be99aa925e4b1d93ef64a71c88c5b0d60f8d533a26370ed3c8b85e2334f25a78",
+      "paragraphs": 204,
+      "tables": 0,
+      "text_nodes": 175,
+      "text_characters": 7884,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "8b0a5e528a859dca2cabf7b663dac6492752baf7960bc71635ca3a2bc322ab9b"
+    },
+    {
+      "id": "01",
+      "title": "内分泌科病历书写助手最高执行指令",
+      "asset": "assets/01_内分泌科病历书写助手最高执行指令.docx",
+      "reference": "references/01_内分泌科病历书写助手最高执行指令.md",
+      "asset_sha256": "502c4010149d13c5b57414db569fb5ec43b769e356e1c7bb4730925f94025d85",
+      "reference_sha256": "203d6c34fd53f548956a62ef76d2149d76eee04530022494fb69cbef2e9382a6",
+      "paragraphs": 134,
+      "tables": 0,
+      "text_nodes": 124,
+      "text_characters": 5688,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "e51755d270fb679ca0c420f12018e76cc7f46d2c3a85462249423b5c12429990"
+    },
+    {
+      "id": "02",
+      "title": "内分泌科基础医学文书与通用病程模板库",
+      "asset": "assets/02_内分泌科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_内分泌科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "c01c4cc1fd52fd766d20437a93321ce37d7646eb2961f915cc43d8f5f70fa057",
+      "reference_sha256": "6c0c6815137e2b9e3c5219ff5239f8c0cc8f25b4a48a867309e2344922e9d077",
+      "paragraphs": 483,
+      "tables": 0,
+      "text_nodes": 482,
+      "text_characters": 18457,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "bdfd4be11f7181de8820c53df9ee28f603311d45a8a01b3dd6825835f0243b34"
+    },
+    {
+      "id": "03",
+      "title": "内分泌科专科查体症状评估与内分泌轴定位模板库",
+      "asset": "assets/03_内分泌科专科查体症状评估与内分泌轴定位模板库.docx",
+      "reference": "references/03_内分泌科专科查体症状评估与内分泌轴定位模板库.md",
+      "asset_sha256": "274a15881bfb24d764ec2a5cd47effb317ef9fe66c673bccf5fd450aa8e79f1f",
+      "reference_sha256": "7eec285dc3d76931fa24a2b4e1cb1c2f7e42a2bb34c0940522069da08c9a83e3",
+      "paragraphs": 82,
+      "tables": 0,
+      "text_nodes": 81,
+      "text_characters": 3783,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "52a764ec07d057b5dcced4243a935fd5d72bf08c3e0364e224390257d761db39"
+    },
+    {
+      "id": "04",
+      "title": "内分泌科检验激素影像及特殊检查结果分析模板库",
+      "asset": "assets/04_内分泌科检验激素影像及特殊检查结果分析模板库.docx",
+      "reference": "references/04_内分泌科检验激素影像及特殊检查结果分析模板库.md",
+      "asset_sha256": "50a4029d675028b5c13e34f1b3187a716bd697c8f8faa5e817385be26e0de983",
+      "reference_sha256": "17796ec691f259960b859f2a84854229ad8a24dfab6348d8511fff9c7b23166d",
+      "paragraphs": 145,
+      "tables": 0,
+      "text_nodes": 135,
+      "text_characters": 6170,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "9936497b081942c049f67fb7e5c7ba307702be74e37df150025fcb3c8c245674"
+    },
+    {
+      "id": "05",
+      "title": "内分泌功能试验动态监测及特殊诊疗操作文书模板库",
+      "asset": "assets/05_内分泌功能试验动态监测及特殊诊疗操作文书模板库.docx",
+      "reference": "references/05_内分泌功能试验动态监测及特殊诊疗操作文书模板库.md",
+      "asset_sha256": "33802e31df85b12c7b82c1fcd87356fa4afb1d7bea0cc4e2a4cc304a4a946f85",
+      "reference_sha256": "2a2aeeab8afb99466280a8a6f05f24835aea5b332008be773c05276f41910946",
+      "paragraphs": 325,
+      "tables": 0,
+      "text_nodes": 322,
+      "text_characters": 11143,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "d806c5e0b766701e667d4ef76b326d334663f37078d20f78f8c54ec6389a3fdb"
+    },
+    {
+      "id": "06",
+      "title": "内分泌急危重症异常病情及并发症病程模板库",
+      "asset": "assets/06_内分泌急危重症异常病情及并发症病程模板库.docx",
+      "reference": "references/06_内分泌急危重症异常病情及并发症病程模板库.md",
+      "asset_sha256": "7e9b91f9d5827af3aee1b2823d58ba754552b344faee326fd4d3edca7f936b85",
+      "reference_sha256": "e97659a39850e0d1b4e7b0b47dce7103d55a69b55603dfba72c6e15f856421cc",
+      "paragraphs": 339,
+      "tables": 0,
+      "text_nodes": 337,
+      "text_characters": 10530,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "d6fb86ddef2a7286af958970567c4e7883fefe9c7323e6a548eabe922841e2db"
+    },
+    {
+      "id": "07",
+      "title": "内分泌科治疗决策药物调整及医嘱表达规则库",
+      "asset": "assets/07_内分泌科治疗决策药物调整及医嘱表达规则库.docx",
+      "reference": "references/07_内分泌科治疗决策药物调整及医嘱表达规则库.md",
+      "asset_sha256": "67a11e364b9354b3af36648274a83ef4cdf03f290e2eff8985f8ae3bdaae151f",
+      "reference_sha256": "ee42bf5209b40ba3be2fc58d8cd79bf5bd47e292faa58df01a759a324846047a",
+      "paragraphs": 185,
+      "tables": 0,
+      "text_nodes": 180,
+      "text_characters": 7389,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "589d988b07a4b7f8d39f45babb556f7c59a31ea7aa5932a4b4273c159da0cf6d"
+    },
+    {
+      "id": "08",
+      "title": "内分泌科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_内分泌科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_内分泌科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "fc893bf45469e0ff55be818dec6cae79a673f0d8c73089af3a34f0d817ce38b8",
+      "reference_sha256": "6caf065e85ffcbe19d0b58b963914f3e8d98076f8ed9361949e998e07a0a2ced",
+      "paragraphs": 416,
+      "tables": 0,
+      "text_nodes": 413,
+      "text_characters": 12614,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "5e4001686bddf4bb77da048eb13d63dfedb5f42400b6a86346344135f97777c2"
+    },
+    {
+      "id": "09",
+      "title": "内分泌科慢病管理患者教育出院及长期随访模板库",
+      "asset": "assets/09_内分泌科慢病管理患者教育出院及长期随访模板库.docx",
+      "reference": "references/09_内分泌科慢病管理患者教育出院及长期随访模板库.md",
+      "asset_sha256": "d541b6203dcd781b4782c00262fa7ab4d555f75da468ef3fa319b2ec695eb50c",
+      "reference_sha256": "773d3b06dd921abc1d3949a50636a55ea42f59cba250e4facd34e837303f31d2",
+      "paragraphs": 200,
+      "tables": 0,
+      "text_nodes": 197,
+      "text_characters": 8320,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "46cecf1defad176ff7d429a8b8b276def07bda5a3a948733d25f01519c6ef645"
+    },
+    {
+      "id": "10",
+      "title": "内分泌科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_内分泌科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_内分泌科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "98c8ec447aa5ff53fa3fff7f05bf38305e615cf2abdcbb699f54822929bbff16",
+      "reference_sha256": "4332ea06c75126a9cb8f8a5709964763c5ca44c8843f412c9848d615bad3cf0a",
+      "paragraphs": 485,
+      "tables": 0,
+      "text_nodes": 462,
+      "text_characters": 15125,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "6f46c529c946277d769fde730818e22a7895412a9bb923e5526cfc38a589b979"
+    },
+    {
+      "id": "11",
+      "title": "内分泌科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_内分泌科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_内分泌科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "85f56818d804d0122898e63665f244d4eeee6426262b5812279a9ed556d8ec03",
+      "reference_sha256": "8644b12572c1c470ef4b6f02222aea3dc2eb3c72c7552f2b6566565844643852",
+      "paragraphs": 135,
+      "tables": 0,
+      "text_nodes": 125,
+      "text_characters": 5676,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "3571d67b48ba14ad5e0b92ea7d39aa7f38a3290b50b5fa8810b62011ac2bd4e9"
+    },
+    {
+      "id": "101",
+      "title": "2型糖尿病及慢性并发症专病模板库",
+      "asset": "assets/101_2型糖尿病及慢性并发症专病模板库.docx",
+      "reference": "references/101_2型糖尿病及慢性并发症专病模板库.md",
+      "asset_sha256": "28582a8f744445872c0e44e72c0185bbf7d81c9d51edb410b4a34cf89291ec35",
+      "reference_sha256": "296606a081fd3a66e0f256a75e6a08d1eedf1dd030082ee4c616acbd48b095b7",
+      "paragraphs": 1251,
+      "tables": 0,
+      "text_nodes": 1247,
+      "text_characters": 64943,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "68320565fc081619ed634d669b67f9a67ca54b4463722a08e9ba20ac6b27fbe5"
+    },
+    {
+      "id": "102",
+      "title": "1型糖尿病特殊类型糖尿病及特殊人群管理模板库",
+      "asset": "assets/102_1型糖尿病特殊类型糖尿病及特殊人群管理模板库.docx",
+      "reference": "references/102_1型糖尿病特殊类型糖尿病及特殊人群管理模板库.md",
+      "asset_sha256": "d4da22b42be8c3fe195b5936b763fe12a647c5fe31b3c667855c5502bfd027d7",
+      "reference_sha256": "7937407dfa4e7d2d948f5ec90dafdaf635ad4cc8ac163081ee1c496703b76dbc",
+      "paragraphs": 1135,
+      "tables": 0,
+      "text_nodes": 1131,
+      "text_characters": 58686,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "6a4253e1c091bc1229f6ed2926339c0e885a85995e5f922c1bed0039dfb21ccb"
+    },
+    {
+      "id": "103",
+      "title": "甲状腺疾病专病模板库",
+      "asset": "assets/103_甲状腺疾病专病模板库.docx",
+      "reference": "references/103_甲状腺疾病专病模板库.md",
+      "asset_sha256": "7a2a829a648557ab07a9274ebfcdc9753d5ae256c8a13c936d35d21eaa7417fc",
+      "reference_sha256": "adf742dddaf87a799b0a29f330c1dfb69c011c6431d2355e4c69dc16fdd9594c",
+      "paragraphs": 1123,
+      "tables": 0,
+      "text_nodes": 1121,
+      "text_characters": 52825,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "74235024a64aa36cda8180194d71e6a8fc55a6faf469f500448f8128b59e8d6d"
+    },
+    {
+      "id": "104",
+      "title": "下丘脑垂体疾病专病模板库",
+      "asset": "assets/104_下丘脑垂体疾病专病模板库.docx",
+      "reference": "references/104_下丘脑垂体疾病专病模板库.md",
+      "asset_sha256": "718a274b4828fe6542e6bb6d17d1d61e4c8b4c3278cece6e28b9382d45554a93",
+      "reference_sha256": "9a2d7d9e3db7fa10796a0915672b0d137cd01594ac458944d2648e8bef8a0bd7",
+      "paragraphs": 1123,
+      "tables": 0,
+      "text_nodes": 1121,
+      "text_characters": 54769,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "a984599c28ee61a54232238b53f645a847a8dd3eaf31ca4ba7c63de3e7102122"
+    },
+    {
+      "id": "105",
+      "title": "肾上腺疾病与内分泌性高血压专病模板库",
+      "asset": "assets/105_肾上腺疾病与内分泌性高血压专病模板库.docx",
+      "reference": "references/105_肾上腺疾病与内分泌性高血压专病模板库.md",
+      "asset_sha256": "ad5c8f2ece3fb27485a75f63095a96d7c521dc1a817a9d9a386f16482487cd63",
+      "reference_sha256": "83dfa3f91cf6d77d0cc30c611d9de7526a6089cb8cafca173982374152c6ab95",
+      "paragraphs": 1083,
+      "tables": 0,
+      "text_nodes": 1078,
+      "text_characters": 59139,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "8df357d4ef7577d85efe70e63e3dcce4e327e7a9dfbe20722c413706afde51d9"
+    },
+    {
+      "id": "106",
+      "title": "甲状旁腺钙磷代谢骨质疏松及骨代谢疾病模板库",
+      "asset": "assets/106_甲状旁腺钙磷代谢骨质疏松及骨代谢疾病模板库.docx",
+      "reference": "references/106_甲状旁腺钙磷代谢骨质疏松及骨代谢疾病模板库.md",
+      "asset_sha256": "ca241c67df2c93768a1aa9182e4e80dcddbc97f26d6959691ba0fe76326e0538",
+      "reference_sha256": "ded00c874cbbf79d7f55676f75ac26f6398804b16be91a1953262f25b8ef997f",
+      "paragraphs": 1129,
+      "tables": 0,
+      "text_nodes": 1126,
+      "text_characters": 57787,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ac5fe8a5595002004a9dd9ac1492a09d355dee4ce3c627b5ed758b0c77d614d5"
+    },
+    {
+      "id": "107",
+      "title": "肥胖症血脂异常高尿酸血症及代谢综合征模板库",
+      "asset": "assets/107_肥胖症血脂异常高尿酸血症及代谢综合征模板库.docx",
+      "reference": "references/107_肥胖症血脂异常高尿酸血症及代谢综合征模板库.md",
+      "asset_sha256": "6186e0a026d00e2d54d8a5609a28c704af36854557feafbdd4c2324df3dbd56a",
+      "reference_sha256": "0485c7dcefab363210ed287f64fbc607c7de7e875008ea6fb099f06dc7ab6d61",
+      "paragraphs": 1193,
+      "tables": 0,
+      "text_nodes": 1189,
+      "text_characters": 58523,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "7f9fc20222d5dd01cb7f80796489a8aade9982c88012ac5d2ec8b53f68a02b5c"
+    },
+    {
+      "id": "108",
+      "title": "性腺生殖内分泌神经内分泌肿瘤及罕见内分泌疾病模板库",
+      "asset": "assets/108_性腺生殖内分泌神经内分泌肿瘤及罕见内分泌疾病模板库.docx",
+      "reference": "references/108_性腺生殖内分泌神经内分泌肿瘤及罕见内分泌疾病模板库.md",
+      "asset_sha256": "414c16bfb6302412693fddd50f5960a6a2938c8c6f5ba8a534804e3e3ad36b55",
+      "reference_sha256": "367aa2a51120856b0688377267fd5c1c0fa780abe9e6755d00bab925737588f6",
+      "paragraphs": 1135,
+      "tables": 0,
+      "text_nodes": 1131,
+      "text_characters": 59968,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "1cd39e4c8485e1873bc331cfff936c96122404f2163121b3c36cb8d96a808fdc"
+    }
+  ]
+}

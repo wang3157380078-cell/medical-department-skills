@@ -1,0 +1,369 @@
+{
+  "skill_name": "gastroenterology-inpatient-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-27",
+  "source_folder": "消化内科含胃肠镜AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "消化内科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_消化内科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_消化内科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "3fd7449b46a6e61712bd1ae78d4d378d9a90f09653925c457ad62b96b88c6369",
+      "reference_sha256": "f213cb6e16eb9b13e472fb8e42377ab3c52522896fe7d8c025c310996f32d8ed",
+      "paragraphs": 159,
+      "tables": 0,
+      "text_nodes": 157,
+      "text_characters": 6737,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "754d27318eb3d6ff30f6b9026d64e124980bcbdd68160795efbdb868c9ad82c8"
+    },
+    {
+      "id": "01",
+      "title": "消化内科病历书写助手最高执行指令",
+      "asset": "assets/01_消化内科病历书写助手最高执行指令.docx",
+      "reference": "references/01_消化内科病历书写助手最高执行指令.md",
+      "asset_sha256": "d2003f8b15418df39785ac28d828117681ea35332d2f040c348086781d731a4e",
+      "reference_sha256": "8ae2b60247c2dd67db0a2471ac1e08b1bd23205a8cb55123dcf00b23105bcfe8",
+      "paragraphs": 95,
+      "tables": 0,
+      "text_nodes": 93,
+      "text_characters": 4832,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "8d54973b7d59a37da0052aa424492ebaf17170432d97a1260ade99779e6b1cdf"
+    },
+    {
+      "id": "02",
+      "title": "消化内科基础医学文书与通用病程模板库",
+      "asset": "assets/02_消化内科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_消化内科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "2e129741a6581bac83124e2e230322090b9cccf52ce67627af697ad66b024366",
+      "reference_sha256": "71a74d67f107b7c316fdb76f146b4c7d986134c20ac8c77f439db10c3850fb9e",
+      "paragraphs": 397,
+      "tables": 0,
+      "text_nodes": 395,
+      "text_characters": 10249,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "701a9cc8a484e3bce2f8e86691b1e1fe95a9e281b8fae1711ccd1d195aafe566"
+    },
+    {
+      "id": "03",
+      "title": "消化系统专科查体症状评估与疾病分型模板库",
+      "asset": "assets/03_消化系统专科查体症状评估与疾病分型模板库.docx",
+      "reference": "references/03_消化系统专科查体症状评估与疾病分型模板库.md",
+      "asset_sha256": "c53aa3438d98baf6c1a6f0e0493a54df3b6eb6c3a6db8aa60e4e6653b8a505fc",
+      "reference_sha256": "df52b39a250bca1787a6a133d03b18e20eec62e9524d3552ce5c7c1e90a7fe0b",
+      "paragraphs": 204,
+      "tables": 0,
+      "text_nodes": 202,
+      "text_characters": 8180,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "eeba36289a81a5aef468faeb6c8077654e39e9df45a7f83454db887694f373ea"
+    },
+    {
+      "id": "04",
+      "title": "消化内科检验影像胃肠镜病理及特殊检查结果分析模板库",
+      "asset": "assets/04_消化内科检验影像胃肠镜病理及特殊检查结果分析模板库.docx",
+      "reference": "references/04_消化内科检验影像胃肠镜病理及特殊检查结果分析模板库.md",
+      "asset_sha256": "f24843b6a77a9081c5652bb6a40526b0fbf1b6ffab97e370bd30aeb11eb66406",
+      "reference_sha256": "82d19aca621ac84dc6470a5e2343add068ad3e2a24298a69f115db2d2298e73a",
+      "paragraphs": 175,
+      "tables": 0,
+      "text_nodes": 173,
+      "text_characters": 8069,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "54e63a33cc69afea5b866eab9199d9c40af87dd0ae6b6fdf9cec422ed3270b51"
+    },
+    {
+      "id": "05",
+      "title": "胃肠镜及消化内镜诊疗操作与围操作期医学文书模板库",
+      "asset": "assets/05_胃肠镜及消化内镜诊疗操作与围操作期医学文书模板库.docx",
+      "reference": "references/05_胃肠镜及消化内镜诊疗操作与围操作期医学文书模板库.md",
+      "asset_sha256": "acf3acccc42641b4c9aaa2bfac822ca01fbef472b38232ea290ef9c393519c2d",
+      "reference_sha256": "dab044898da2e27923fd16b09281cef86611703405e84dc4cb7697c2b10e5bc7",
+      "paragraphs": 521,
+      "tables": 0,
+      "text_nodes": 519,
+      "text_characters": 20858,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "9b32755a9437f47a33c96101c2a4e2c6bd211681b85308059a4a4088fe9afa2b"
+    },
+    {
+      "id": "06",
+      "title": "消化内科急危重症内镜并发症及异常病情模板库",
+      "asset": "assets/06_消化内科急危重症内镜并发症及异常病情模板库.docx",
+      "reference": "references/06_消化内科急危重症内镜并发症及异常病情模板库.md",
+      "asset_sha256": "7c2e389b381302a9811dbc349954922291d783a46d96d81f5df28b833f9f4910",
+      "reference_sha256": "dcd97b19d69fb05c1b392f640b6546b3e067ea9a51bcb2345bfa2392d89f6a2f",
+      "paragraphs": 353,
+      "tables": 0,
+      "text_nodes": 351,
+      "text_characters": 14594,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "5d66391e339cf86b80371032c9dc5b350c39b72556b3fb09823931456ced3c6c"
+    },
+    {
+      "id": "07",
+      "title": "消化内科治疗决策用药营养支持及医嘱表达规则库",
+      "asset": "assets/07_消化内科治疗决策用药营养支持及医嘱表达规则库.docx",
+      "reference": "references/07_消化内科治疗决策用药营养支持及医嘱表达规则库.md",
+      "asset_sha256": "7b6db7ccab1a6876e445fe5f2dde4a807c83bcfcb88a7f27e74b0eef9f8fe482",
+      "reference_sha256": "9a33a253241a4663776560b66b42d9725a73da7a5a4bcbaebaf58655dd1f9975",
+      "paragraphs": 215,
+      "tables": 0,
+      "text_nodes": 213,
+      "text_characters": 9234,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "58e0622034892fc25ca608312eda2dda25e03f8c5f95bc33f4f686747a17a75f"
+    },
+    {
+      "id": "08",
+      "title": "消化内科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_消化内科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_消化内科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "eb3b21b472b216d24cd566f8f8456d895bf9533c6a005f436fb3804162a0179e",
+      "reference_sha256": "bc0ac3ce681b57ac4ab3762c79f443fcc7e16392f421c4e3ccf8285aa790af9a",
+      "paragraphs": 374,
+      "tables": 0,
+      "text_nodes": 372,
+      "text_characters": 18511,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "83fb51fa6543938497d2a20dfcb46088e22fb9f2337b96eadc8d8da0b7219b60"
+    },
+    {
+      "id": "09",
+      "title": "消化系统慢病管理营养康复及出院随访模板库",
+      "asset": "assets/09_消化系统慢病管理营养康复及出院随访模板库.docx",
+      "reference": "references/09_消化系统慢病管理营养康复及出院随访模板库.md",
+      "asset_sha256": "3becfad3f3d3b54a2dd73758b47a05daada0f1d4e905759d0e11ea05475611c8",
+      "reference_sha256": "3cae614e6ccda6ace219fa777b218f61185570de3dee5efb3e4e08100be83f2b",
+      "paragraphs": 206,
+      "tables": 0,
+      "text_nodes": 204,
+      "text_characters": 8657,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "fdbce9f735dcdf56349728574147c5f061eac26250523bdaa9ac181225005a3e"
+    },
+    {
+      "id": "10",
+      "title": "消化内科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_消化内科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_消化内科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "b02437590e9f12c6737621b77346a4c81c476cf77b77bb99290c66ac764b854f",
+      "reference_sha256": "00b4f81755554338e122c8189a10b9c831b8a87461ff9010a1d43657aec810dc",
+      "paragraphs": 749,
+      "tables": 0,
+      "text_nodes": 747,
+      "text_characters": 30273,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "6faaadceb05fba0361181abc655beb5f6ec2390ab64eb4edc2e2c493a6812375"
+    },
+    {
+      "id": "11",
+      "title": "消化内科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_消化内科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_消化内科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "8d54cecd5482d75a71dbc3b49323d4f8a58e132058296a2c1f222636af68d97d",
+      "reference_sha256": "ebe783134b9eca36d294e29f9b49c4984f2ab6ad977545927d8c08a2ecede04b",
+      "paragraphs": 104,
+      "tables": 0,
+      "text_nodes": 102,
+      "text_characters": 6082,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "983aa094a001a79c3fab4b4ff9dce394a539e89a7f0e35fdbe634c0a6a45a790"
+    },
+    {
+      "id": "101",
+      "title": "食管疾病胃食管反流与食管功能障碍专病模板库",
+      "asset": "assets/101_食管疾病胃食管反流与食管功能障碍专病模板库.docx",
+      "reference": "references/101_食管疾病胃食管反流与食管功能障碍专病模板库.md",
+      "asset_sha256": "7ae658bfd41d7059deb78c4b2361e4fb59934b214c3d47bf5697a4516f90b069",
+      "reference_sha256": "ecff5c67e5379c3a781046c5575bff86f9b9f02177a505c38691e65fd40c1e50",
+      "paragraphs": 431,
+      "tables": 0,
+      "text_nodes": 429,
+      "text_characters": 16261,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "36faf10660a5cd2fb02fddb495f7a4e7a3263ba9a22b1bf1b10a9a90c320a6f9"
+    },
+    {
+      "id": "102",
+      "title": "胃十二指肠疾病消化性溃疡及幽门螺杆菌专病模板库",
+      "asset": "assets/102_胃十二指肠疾病消化性溃疡及幽门螺杆菌专病模板库.docx",
+      "reference": "references/102_胃十二指肠疾病消化性溃疡及幽门螺杆菌专病模板库.md",
+      "asset_sha256": "f34570b7f35263363146861ffdd3e81137f1d6b095d36c8b676f48da01ef591b",
+      "reference_sha256": "fed14e96f06c7f9318a9a8433f07e893d8c6d579310e920a2fb29f0c217bca17",
+      "paragraphs": 436,
+      "tables": 0,
+      "text_nodes": 434,
+      "text_characters": 16599,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "07e5b8010dcc60b3d9013cfcaaa81c531b5c3843da834e09786b8b7fb7930e12"
+    },
+    {
+      "id": "103",
+      "title": "小肠结肠疾病肠道感染及胃肠功能性疾病模板库",
+      "asset": "assets/103_小肠结肠疾病肠道感染及胃肠功能性疾病模板库.docx",
+      "reference": "references/103_小肠结肠疾病肠道感染及胃肠功能性疾病模板库.md",
+      "asset_sha256": "6d032184e16f96c574ab66c2af02872b7fa0f7523bf450992ad0af77d99ba3f7",
+      "reference_sha256": "ebe3630a961db5ae48382115b62198fe2733ade1ea276490a6045110f131f618",
+      "paragraphs": 522,
+      "tables": 0,
+      "text_nodes": 520,
+      "text_characters": 19365,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "3a3bb6bbba3df7d7d2a8dac332dcd554b10437650ad5a004418c6c588fc0234e"
+    },
+    {
+      "id": "104",
+      "title": "炎症性肠病及慢性肠道炎症专病模板库",
+      "asset": "assets/104_炎症性肠病及慢性肠道炎症专病模板库.docx",
+      "reference": "references/104_炎症性肠病及慢性肠道炎症专病模板库.md",
+      "asset_sha256": "4138607a8a7fea91e5cb12372cb536906db7bdec97f58bf1ac4863ebdee34689",
+      "reference_sha256": "bac01372448ca49d365664219636a293ddf1d62f9861122fb02d1c651174cb60",
+      "paragraphs": 432,
+      "tables": 0,
+      "text_nodes": 430,
+      "text_characters": 16153,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "4ab3d7b5a9e708bf622036c6634e13eba184218f833dd95bd9d13cce32c7a991"
+    },
+    {
+      "id": "105",
+      "title": "肝脏疾病肝硬化门静脉高压及腹水专病模板库",
+      "asset": "assets/105_肝脏疾病肝硬化门静脉高压及腹水专病模板库.docx",
+      "reference": "references/105_肝脏疾病肝硬化门静脉高压及腹水专病模板库.md",
+      "asset_sha256": "20ed149001f342c320fb52c8103adc8309fcb442d8626a1435b212a929cd3175",
+      "reference_sha256": "814fbfdc5c6d007b2ade64a68513689125d0727cf93b309577a2f4e4f87c1096",
+      "paragraphs": 531,
+      "tables": 0,
+      "text_nodes": 529,
+      "text_characters": 19876,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "f3e98250f8fd2ae5f0ceae89498f09d142f2f7d4c7046373dd1ece50bdc43b9b"
+    },
+    {
+      "id": "106",
+      "title": "胆道胰腺疾病及ERCP与EUS诊疗专病模板库",
+      "asset": "assets/106_胆道胰腺疾病及ERCP与EUS诊疗专病模板库.docx",
+      "reference": "references/106_胆道胰腺疾病及ERCP与EUS诊疗专病模板库.md",
+      "asset_sha256": "d3e90f6d9e010e9601d4ebd3bfce3cc0551effd05e0f88e1de48d474d6f718d8",
+      "reference_sha256": "c333f3c6af1d683525ccd001316f3fa36b9539cf7a37957ce7e9ccc635ffa30e",
+      "paragraphs": 527,
+      "tables": 0,
+      "text_nodes": 525,
+      "text_characters": 19610,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "19ac3f067f6c9ad9c7440d413940b9ad2f4b7c4f18b69242ed8e0b96262627b6"
+    },
+    {
+      "id": "107",
+      "title": "消化道出血消化系统急症及重症专病模板库",
+      "asset": "assets/107_消化道出血消化系统急症及重症专病模板库.docx",
+      "reference": "references/107_消化道出血消化系统急症及重症专病模板库.md",
+      "asset_sha256": "441effd53eafbf2cab746990014c1f40fa34c96be64ac53a63e3b53eac5c7698",
+      "reference_sha256": "6124b4fbd5f02ef906f0b950a9b4ae1f21b80c4401f2a67f3c913e3490d5d89d",
+      "paragraphs": 451,
+      "tables": 0,
+      "text_nodes": 449,
+      "text_characters": 16894,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "832f3fc37ca61086dbcb2d9ed313c135e10aec7004a7106faf4b28e12febc6fa"
+    },
+    {
+      "id": "108",
+      "title": "消化道息肉癌前病变早期肿瘤及内镜切除专病模板库",
+      "asset": "assets/108_消化道息肉癌前病变早期肿瘤及内镜切除专病模板库.docx",
+      "reference": "references/108_消化道息肉癌前病变早期肿瘤及内镜切除专病模板库.md",
+      "asset_sha256": "459ab090f50d183e41fe3de69f9adc6c4d5104c85120d60686fe63ddb4eed2d0",
+      "reference_sha256": "6e061bc07ec56d4e3c65d479152a14f0bb2bf6f6f41831e3d042caea528bec68",
+      "paragraphs": 624,
+      "tables": 0,
+      "text_nodes": 622,
+      "text_characters": 23305,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "41eccd05d0a9db19372058dc0ee826494002fc9ded2adccd6e1ff189f1f4ce94"
+    }
+  ]
+}

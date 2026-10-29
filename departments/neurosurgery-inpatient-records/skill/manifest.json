@@ -1,0 +1,369 @@
+{
+  "skill_name": "neurosurgery-inpatient-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-27",
+  "source_folder": "神经外科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "神经外科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_神经外科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_神经外科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "ad6b41d3d058c1d20bb5264952a39609cf90e3a9bd1164fa23ece4927e78b544",
+      "reference_sha256": "f30b8def491ea372201f65c0bcc103619eda49050984153e6dd71b284915148c",
+      "paragraphs": 104,
+      "tables": 0,
+      "text_nodes": 117,
+      "text_characters": 7566,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "bbb727e5a14685f70c662735f7d8ab56074b1fe98d90441cd0058a9d7a502f06"
+    },
+    {
+      "id": "01",
+      "title": "神经外科病历书写助手最高执行指令",
+      "asset": "assets/01_神经外科病历书写助手最高执行指令.docx",
+      "reference": "references/01_神经外科病历书写助手最高执行指令.md",
+      "asset_sha256": "9ce9588511bc46258384165a27706abf6e9f8b1a2580ed15fde189099c59c067",
+      "reference_sha256": "dd73aa6ed89e94b11815a6d13323b36e9fef5ca80e4cec7be35025abefc11152",
+      "paragraphs": 104,
+      "tables": 0,
+      "text_nodes": 116,
+      "text_characters": 5262,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "f8ccfc084e79aef902c0a430baf9e78dfba09323388103afc2d18ac9bf7db932"
+    },
+    {
+      "id": "02",
+      "title": "神经外科基础医学文书与通用病程模板库",
+      "asset": "assets/02_神经外科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_神经外科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "9e3def7dd729d7f2aa891c378ac60fba0d3b6d58941efa4cde1cd72ccb826581",
+      "reference_sha256": "28cfa5ea50a1067437ff710ce0e7f5a4ebd2ecf372a411c5f5032a00bbe98a94",
+      "paragraphs": 450,
+      "tables": 0,
+      "text_nodes": 493,
+      "text_characters": 11047,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "15b93b5abba2e4f2ff9b730a8d9eb61b47eab0aad1dd133964a553b388f95dba"
+    },
+    {
+      "id": "03",
+      "title": "神经系统专科查体意识评估与神经定位模板库",
+      "asset": "assets/03_神经系统专科查体意识评估与神经定位模板库.docx",
+      "reference": "references/03_神经系统专科查体意识评估与神经定位模板库.md",
+      "asset_sha256": "c2308ff15764f581f6b6ed0321982b82978b690fdeb820973ddc3d802820d536",
+      "reference_sha256": "edacc0545aa513612f15d96e85fd0739138d669d69eac38b12b659f5e34da4f7",
+      "paragraphs": 181,
+      "tables": 0,
+      "text_nodes": 226,
+      "text_characters": 6980,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "7685a72cd4e67501ac9b19f8e11cb8f7d7a4c161dfc1216755e731e10f61abe3"
+    },
+    {
+      "id": "04",
+      "title": "神经外科影像检验电生理病理及特殊检查分析模板库",
+      "asset": "assets/04_神经外科影像检验电生理病理及特殊检查分析模板库.docx",
+      "reference": "references/04_神经外科影像检验电生理病理及特殊检查分析模板库.md",
+      "asset_sha256": "4ae410444e22c56c9de695af69a30fba820ef95c30724e2116232724533210b3",
+      "reference_sha256": "d5071a2b520e1065673b6a8a937b6d00f1197e1fa83f15f34c78d41080168790",
+      "paragraphs": 217,
+      "tables": 0,
+      "text_nodes": 263,
+      "text_characters": 7527,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "262d704f3fdd4789a1feea369da7670a9806dcb7bc7dc9cdeac9be3be9c68c2c"
+    },
+    {
+      "id": "05",
+      "title": "神经外科高频术式与围手术期医学文书模板库",
+      "asset": "assets/05_神经外科高频术式与围手术期医学文书模板库.docx",
+      "reference": "references/05_神经外科高频术式与围手术期医学文书模板库.md",
+      "asset_sha256": "3f2e994883e2153595d8843cfed9ef87a97fd986fc9f868d5c50ae87488d719a",
+      "reference_sha256": "237eccfb335f8ffdad657503c2bc525465d5b6c8687b7e4252502665ae069bb7",
+      "paragraphs": 3669,
+      "tables": 0,
+      "text_nodes": 3719,
+      "text_characters": 103863,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "05cf6a320e1a15a3dd972d90abfa44bb8646273d1a7e0565db77ae9524b47a2b"
+    },
+    {
+      "id": "06",
+      "title": "神经外科术后并发症异常病情及神经危重症模板库",
+      "asset": "assets/06_神经外科术后并发症异常病情及神经危重症模板库.docx",
+      "reference": "references/06_神经外科术后并发症异常病情及神经危重症模板库.md",
+      "asset_sha256": "9bfbfff8f897523fa76a2129ae9556e9257b440e121b3d2975307fc1077ad7d5",
+      "reference_sha256": "c7f9b6fd4a14eb4afc564fd41c9f60e2e622bb7c42796e0ce2f974b9f4a1d961",
+      "paragraphs": 336,
+      "tables": 0,
+      "text_nodes": 378,
+      "text_characters": 11948,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "319521dcce7010d3e1106576fadc0a46142b9bd3ee4efa69c036374bc5a5ea33"
+    },
+    {
+      "id": "07",
+      "title": "神经外科治疗决策围手术期用药及医嘱表达规则库",
+      "asset": "assets/07_神经外科治疗决策围手术期用药及医嘱表达规则库.docx",
+      "reference": "references/07_神经外科治疗决策围手术期用药及医嘱表达规则库.md",
+      "asset_sha256": "d5badef26251a303704eef81b2e0d2559d08aff78365c844ba74043f9f3cd4b6",
+      "reference_sha256": "16531c88c00a4d36413014a289e1680de61003db6cdaa6c758895c63cfe2f87d",
+      "paragraphs": 155,
+      "tables": 0,
+      "text_nodes": 186,
+      "text_characters": 7404,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "25075deee9690cc3a5c906100610e3d13f69d27caf1ff6254d8133b1ffd3a6be"
+    },
+    {
+      "id": "08",
+      "title": "神经外科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_神经外科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_神经外科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "206cf34263c1591a4d85d8eac6cb9d5acecb4a2f230c557065bb98b504c88a30",
+      "reference_sha256": "fbabaf63a417f7be6104a6ae83e07e5d9c5a5aa9d7a06aa718371bbd9408febb",
+      "paragraphs": 349,
+      "tables": 0,
+      "text_nodes": 376,
+      "text_characters": 15824,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "f1e1a1bd25fc690644cbdafb27bc1e4d548fae44acb6e75a4c0d0783f69a3647"
+    },
+    {
+      "id": "09",
+      "title": "神经外科术后康复脑脊液引流管理及出院随访模板库",
+      "asset": "assets/09_神经外科术后康复脑脊液引流管理及出院随访模板库.docx",
+      "reference": "references/09_神经外科术后康复脑脊液引流管理及出院随访模板库.md",
+      "asset_sha256": "2504d0783390080c9b43ffe5c87d4bc2a6695209b1a5afab5728537f7b989217",
+      "reference_sha256": "fede87901658941ff9c2e8b7dfcd6b0e07db8ec050a9517884ab225bc0e26196",
+      "paragraphs": 173,
+      "tables": 0,
+      "text_nodes": 206,
+      "text_characters": 7930,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "39c209c62a384db18073d530b2a79a4ebb44d8157168af6ccebccccff83b36bc"
+    },
+    {
+      "id": "10",
+      "title": "神经外科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_神经外科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_神经外科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "1af5699a17519a986c4dae426f04c242c7c9ad7780f7a244867a30bf9259f17a",
+      "reference_sha256": "651df41c4aaf774f101f56c1714d072351172602b6723bf4f9631defe8233277",
+      "paragraphs": 553,
+      "tables": 0,
+      "text_nodes": 604,
+      "text_characters": 23228,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "6c4a5b166837b6ac1cc7d170eaff842b3923aead09d792feae5d7d26e8776be1"
+    },
+    {
+      "id": "11",
+      "title": "神经外科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_神经外科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_神经外科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "1f8aa5d3f09c23fbb506933f6c04acdf13d64266c799d1926106683e8a9fb5a6",
+      "reference_sha256": "43f8214bfc4fedc35d3995c10a98cea987b8ddd59c49136f74b00dcb2313440f",
+      "paragraphs": 111,
+      "tables": 0,
+      "text_nodes": 132,
+      "text_characters": 6875,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "632d3d68a9899b91a4017872051b8939af548d175d95dadebed72b2fdf6bbf23"
+    },
+    {
+      "id": "101",
+      "title": "颅脑创伤及创伤性颅内出血专病模板库",
+      "asset": "assets/101_颅脑创伤及创伤性颅内出血专病模板库.docx",
+      "reference": "references/101_颅脑创伤及创伤性颅内出血专病模板库.md",
+      "asset_sha256": "f0b3d8e57c67fcae7ccb5991cab9bea0af20f69ef0dd8b5c52eb8baa5b568866",
+      "reference_sha256": "0601231b69a3c67b98d1115cd160db90444d4b62510b7b6cb45a8b73cc35d509",
+      "paragraphs": 740,
+      "tables": 0,
+      "text_nodes": 778,
+      "text_characters": 27736,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "b6dd3f3f583a9df9e8b0064c9004212c5110553670a94724dd7d86d3a7dab462"
+    },
+    {
+      "id": "102",
+      "title": "脑出血颅内动脉瘤及脑血管外科专病模板库",
+      "asset": "assets/102_脑出血颅内动脉瘤及脑血管外科专病模板库.docx",
+      "reference": "references/102_脑出血颅内动脉瘤及脑血管外科专病模板库.md",
+      "asset_sha256": "f20fedee663bcb9642d0587f1fefe3462094d6ef4280a7315fc69114918de614",
+      "reference_sha256": "e9d503c93efdf60df599c6ede027ef9c304cb6505fb41e3889eb073f1435764e",
+      "paragraphs": 827,
+      "tables": 0,
+      "text_nodes": 863,
+      "text_characters": 31161,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "59a955f62d0ab73df4ef1c69080a1f2172f80abdb8f2aca815a3d39806a2444e"
+    },
+    {
+      "id": "103",
+      "title": "胶质瘤脑膜瘤脑转移瘤及颅内肿瘤专病模板库",
+      "asset": "assets/103_胶质瘤脑膜瘤脑转移瘤及颅内肿瘤专病模板库.docx",
+      "reference": "references/103_胶质瘤脑膜瘤脑转移瘤及颅内肿瘤专病模板库.md",
+      "asset_sha256": "66fb1cf19b37b9ce9847e28f0e6fa1d87f0da71ad7487d3936e9890f43025e0e",
+      "reference_sha256": "2110187f371777d3c0a82c75408ca9e9d7dbcb1e84f564be46e7e112e3681de6",
+      "paragraphs": 644,
+      "tables": 0,
+      "text_nodes": 678,
+      "text_characters": 24277,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "717dd498879920497a47ac92cdab1c2af6d05644d5d0b5b5b7f6bca3c7a509f8"
+    },
+    {
+      "id": "104",
+      "title": "颅底垂体鞍区及后颅窝疾病专病模板库",
+      "asset": "assets/104_颅底垂体鞍区及后颅窝疾病专病模板库.docx",
+      "reference": "references/104_颅底垂体鞍区及后颅窝疾病专病模板库.md",
+      "asset_sha256": "862b9fadd181741b7a48a3e1dc44aaa773b7ef6fbcee2b9a35638af094f288d1",
+      "reference_sha256": "eed176dd46590878efaafd7c8d49ed3f353e07cecbebcfb07714ec42fc8ad27f",
+      "paragraphs": 648,
+      "tables": 0,
+      "text_nodes": 683,
+      "text_characters": 24458,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "49af0cb72fff8bc87ef933f173460adef7bd7e29764ab360677ed5ff58718bce"
+    },
+    {
+      "id": "105",
+      "title": "脊柱脊髓与周围神经外科专病模板库",
+      "asset": "assets/105_脊柱脊髓与周围神经外科专病模板库.docx",
+      "reference": "references/105_脊柱脊髓与周围神经外科专病模板库.md",
+      "asset_sha256": "8036d0ae9d9fdb9efd92846ed69acf2a89e8ecb687a8cfdcf25ea89c8253380c",
+      "reference_sha256": "77323643e5243ef75c6cde1367972fdd85cf13dc669482f4813a4ffccbb38a6f",
+      "paragraphs": 739,
+      "tables": 0,
+      "text_nodes": 775,
+      "text_characters": 28105,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "7ba031c6670c81d03468dbf3c0a64d6d3125b81f6fa62e3e584759372ab72367"
+    },
+    {
+      "id": "106",
+      "title": "脑积水脑脊液循环障碍及中枢神经感染外科专病模板库",
+      "asset": "assets/106_脑积水脑脊液循环障碍及中枢神经感染外科专病模板库.docx",
+      "reference": "references/106_脑积水脑脊液循环障碍及中枢神经感染外科专病模板库.md",
+      "asset_sha256": "cdcb60db20a6dd5a01b41c6e8aa444910c11c76d4f27004824b18622fc498441",
+      "reference_sha256": "a7067a893df82fefae7537d286fc910827f70284548fbe3843b8321a1513dd48",
+      "paragraphs": 644,
+      "tables": 0,
+      "text_nodes": 678,
+      "text_characters": 25008,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "b5c1b9682c69b183eab8857477d34db7f91d40be390df9b9cc7d8f4bb1b5ab65"
+    },
+    {
+      "id": "107",
+      "title": "功能神经外科癫痫外科及神经调控专病模板库",
+      "asset": "assets/107_功能神经外科癫痫外科及神经调控专病模板库.docx",
+      "reference": "references/107_功能神经外科癫痫外科及神经调控专病模板库.md",
+      "asset_sha256": "bebb9af03861fb12060fb032fa391e63df4b384a6e0933bd8ce081a7b3cfeca0",
+      "reference_sha256": "69c4d7f02cdda1ed0820f8d6a714b8ac9969af2696f9f2f519747820b773764e",
+      "paragraphs": 636,
+      "tables": 0,
+      "text_nodes": 667,
+      "text_characters": 24013,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "b3f2730d1a6c9733f148a6a6390beb38e70ffef323e3020f2f6b9fa34676e444"
+    },
+    {
+      "id": "108",
+      "title": "儿童神经外科先天畸形及复杂特殊病例模板库",
+      "asset": "assets/108_儿童神经外科先天畸形及复杂特殊病例模板库.docx",
+      "reference": "references/108_儿童神经外科先天畸形及复杂特殊病例模板库.md",
+      "asset_sha256": "b26fa95aac97dbb29d85f069a153cb11684cb3d3738dccc22c47f73968104c4c",
+      "reference_sha256": "e557b501b708052a3d30036bc2c8a0a049f6ae972982997a9f3e78bd71a57d25",
+      "paragraphs": 823,
+      "tables": 0,
+      "text_nodes": 858,
+      "text_characters": 31821,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "3d7eaeb6991952fd0ee0f04fbd8cab94de2a994d6a371b899b5932f11430372d"
+    }
+  ]
+}

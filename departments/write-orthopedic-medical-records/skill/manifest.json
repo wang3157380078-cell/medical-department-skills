@@ -1,0 +1,409 @@
+{
+  "skill_name": "write-orthopedic-medical-records",
+  "version": "2.0.1",
+  "source_date": "2026-10-25",
+  "conversion": "complete-word-xml-text-v1",
+  "source_directory": "/Users/wangbin/Desktop/病历模板库skill/骨科AI病历书写系统（V2.0）",
+  "modules": [
+    {
+      "id": "00",
+      "level": 1,
+      "title": "骨科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_骨科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_骨科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "8ac5aa75fde8af0ca24739ddd41373ca616e32105d93b2d390797574799c4529",
+      "reference_sha256": "352e32e345e37aa5c2af86088cbe66b265cac2073e35df7c0dd75b5b6a82980b",
+      "bytes": 45661,
+      "paragraphs": 146,
+      "tables": 1,
+      "text_nodes": 146,
+      "text_characters": 4208,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "6582234f33420d23a9683c5683978b9881af35344e0d1fb650e61943a2c88c8e"
+    },
+    {
+      "id": "01",
+      "level": 1,
+      "title": "骨科病历书写助手最高执行指令",
+      "asset": "assets/01_骨科病历书写助手最高执行指令.docx",
+      "reference": "references/01_骨科病历书写助手最高执行指令.md",
+      "asset_sha256": "dcd13741890e40da9159c2341163a753bdcb4e8f893e2162feda56396a46a541",
+      "reference_sha256": "6827ff959022f4b8a88b517423595552d78988b48c1f684fe3e1eef77efb6060",
+      "bytes": 43988,
+      "paragraphs": 92,
+      "tables": 1,
+      "text_nodes": 92,
+      "text_characters": 4487,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "bb453c2e04e489a22eeec26d02fcd5937f0570eaa26c619ffc195ec8f83566ea"
+    },
+    {
+      "id": "02",
+      "level": 2,
+      "title": "骨科基础医学文书与通用病程模板库",
+      "asset": "assets/02_骨科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_骨科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "5facef17bb6eb6ee17bc2e27447a7f6accb2c56524732fa93b07f9fb23a2f908",
+      "reference_sha256": "8deb29f04f1d2e82cf1dc26b0d8e692b507db1e62ae80b72b0fb9fb0c6d5d4b6",
+      "bytes": 46310,
+      "paragraphs": 315,
+      "tables": 0,
+      "text_nodes": 315,
+      "text_characters": 9707,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "b3a857a63967ffda1758ea510792a345d010e6dd867feeabacf97634dbb1cd89"
+    },
+    {
+      "id": "03",
+      "level": 2,
+      "title": "骨科专科检查与解剖定位模板库",
+      "asset": "assets/03_骨科专科检查与解剖定位模板库.docx",
+      "reference": "references/03_骨科专科检查与解剖定位模板库.md",
+      "asset_sha256": "a33eca57e053e165919ef6985c34620c1bc86e16484855cbf55ee7f8f8237f85",
+      "reference_sha256": "ba44fec2aa59a4e6cde101e338c240fdc2d7daf5a399f2e7f9afae954fb4811d",
+      "bytes": 50887,
+      "paragraphs": 217,
+      "tables": 0,
+      "text_nodes": 217,
+      "text_characters": 13515,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "57d5238fc6a21fa2f0a2807530ee65a3c90dfd0c32a04f875b428d3d5e206580"
+    },
+    {
+      "id": "04",
+      "level": 2,
+      "title": "骨科检验影像病理及特殊检查结果分析模板库",
+      "asset": "assets/04_骨科检验影像病理及特殊检查结果分析模板库.docx",
+      "reference": "references/04_骨科检验影像病理及特殊检查结果分析模板库.md",
+      "asset_sha256": "5bbc70750ce395f149ee197376a0c17513254646ba74d373ba57989549f69d33",
+      "reference_sha256": "bb70e25eeee6db3f2e19742c6bf7545c9ae1fd516b078aaccf8d1e98e48e1341",
+      "bytes": 52626,
+      "paragraphs": 166,
+      "tables": 0,
+      "text_nodes": 166,
+      "text_characters": 13358,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "12c844ef215d9e42a3737ddd5f2692e13fa813435ca23746520f39417220d6f4"
+    },
+    {
+      "id": "05",
+      "level": 2,
+      "title": "骨科高频术式与围手术期医学文书模板库",
+      "asset": "assets/05_骨科高频术式与围手术期医学文书模板库.docx",
+      "reference": "references/05_骨科高频术式与围手术期医学文书模板库.md",
+      "asset_sha256": "d8463c58a8b360c4055502a7a4480993b196050f9d4da92743a8f349cd00f1f6",
+      "reference_sha256": "4c1b812678ad7d2fdb2a7366f862a9e58089f8af7e546e27a81bdbd29ee52633",
+      "bytes": 58226,
+      "paragraphs": 572,
+      "tables": 0,
+      "text_nodes": 572,
+      "text_characters": 29556,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "eb8a596d69178cf08ba86417db5f4735d4ca260d27fa1e4ae844a66eaeb3cbe2"
+    },
+    {
+      "id": "06",
+      "level": 2,
+      "title": "骨科并发症异常病情及危急重症病程模板库",
+      "asset": "assets/06_骨科并发症异常病情及危急重症病程模板库.docx",
+      "reference": "references/06_骨科并发症异常病情及危急重症病程模板库.md",
+      "asset_sha256": "37cb37932c1ea0f98aefa1b5d681650f439e879e03ee62f73fa53bb18576c21e",
+      "reference_sha256": "4e87c728ca4911fbb1fb021a9dd317576790e56fcf2054beb705ba2004287106",
+      "bytes": 52857,
+      "paragraphs": 231,
+      "tables": 0,
+      "text_nodes": 231,
+      "text_characters": 14888,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "29d274f4a0adef9d0009e950aa8076429865f69e4a177d0401aa753bc9a63a4a"
+    },
+    {
+      "id": "07",
+      "level": 2,
+      "title": "骨科治疗决策围手术期用药及医嘱表达规则库",
+      "asset": "assets/07_骨科治疗决策围手术期用药及医嘱表达规则库.docx",
+      "reference": "references/07_骨科治疗决策围手术期用药及医嘱表达规则库.md",
+      "asset_sha256": "371920466776499db91e53ded6c09f7a805b34238970d1c0e1923f70eb42486c",
+      "reference_sha256": "c0d14fa2ab4ae528f878980ebce256bf03181d14f8b036bff19c6805d01c1f91",
+      "bytes": 51506,
+      "paragraphs": 179,
+      "tables": 1,
+      "text_nodes": 179,
+      "text_characters": 11193,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "2eedad39085bbe1dc46842b7f527abb37f6a060af3aa8c7bbb62bdda612c798b"
+    },
+    {
+      "id": "08",
+      "level": 2,
+      "title": "骨科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_骨科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_骨科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "7e327c467a9f94834061061c5e68eb2d6ac8020ab75fe9eaff0e9aab662f9d66",
+      "reference_sha256": "de91e4e439637a1df2384ba20967d2f9336451bcbc59dcb4df2d7f6f4d213fb2",
+      "bytes": 51059,
+      "paragraphs": 362,
+      "tables": 0,
+      "text_nodes": 362,
+      "text_characters": 18938,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "a7ef31ab76f7ada528f0d5f40a64344477dbd43511d0a2654a277156dc8073ba"
+    },
+    {
+      "id": "09",
+      "level": 2,
+      "title": "骨科康复功能锻炼负重管理及出院随访模板库",
+      "asset": "assets/09_骨科康复功能锻炼负重管理及出院随访模板库.docx",
+      "reference": "references/09_骨科康复功能锻炼负重管理及出院随访模板库.md",
+      "asset_sha256": "1dc45fae1073fa1868965b3af5e8a22adb0b88b11a7c04e3ba0959c1aee922a2",
+      "reference_sha256": "ecfbfb1cc7397bba15f10253c449c03345a1fa5da21a963e470d32aec4e6f80f",
+      "bytes": 51444,
+      "paragraphs": 196,
+      "tables": 1,
+      "text_nodes": 196,
+      "text_characters": 10929,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "3b45ef74158ff66219feea24478b054e84f2c4e5ed77ee36ab1d7d68957291b0"
+    },
+    {
+      "id": "10",
+      "level": 2,
+      "title": "骨科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_骨科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_骨科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "153f18955a272e410e28fcc21f7a4012516f56eef79003b169e79ef86c77f11a",
+      "reference_sha256": "5e92cd6fb0c9756cae4136d5cc59684bcaf643139393fd9d972ea28af4233780",
+      "bytes": 48795,
+      "paragraphs": 415,
+      "tables": 1,
+      "text_nodes": 415,
+      "text_characters": 11858,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "5b0c8eab175f04e24e81e5effa309b2572b286d94f0c0b746d0bc10b9ff8762a"
+    },
+    {
+      "id": "11",
+      "level": 2,
+      "title": "骨科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_骨科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_骨科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "bc01d75af7c52096062371d453ff28b9d37ae9f7db6c825c858cd273a69a0acf",
+      "reference_sha256": "dbfaa682cc7926b2319f5ccd3cedec27187b6547424c66ceb4e3b58a59afaad8",
+      "bytes": 45818,
+      "paragraphs": 145,
+      "tables": 1,
+      "text_nodes": 145,
+      "text_characters": 5404,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "201ec97dcb5c364c6113be7740b33b6d5d05ef3d047d4c454a6fe57e195eed6b"
+    },
+    {
+      "id": "101",
+      "level": 3,
+      "title": "创伤骨科专病模板库",
+      "asset": "assets/101_创伤骨科专病模板库.docx",
+      "reference": "references/101_创伤骨科专病模板库.md",
+      "asset_sha256": "4471afbb6dde403bcb1a60468517ee6c98c6546be4b0fe22e5c54811cffa63d7",
+      "reference_sha256": "e3325a3ff13364d84d5dbbbe1ef75fab38e14fc4a4d2afed238a071fe90e8a4f",
+      "bytes": 57901,
+      "paragraphs": 771,
+      "tables": 0,
+      "text_nodes": 771,
+      "text_characters": 30439,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "f7f0c2ce932e052da9199b4dc3bb8b6b63d21d1396e9a34c69885b6313663c49"
+    },
+    {
+      "id": "102",
+      "level": 3,
+      "title": "脊柱外科专病模板库",
+      "asset": "assets/102_脊柱外科专病模板库.docx",
+      "reference": "references/102_脊柱外科专病模板库.md",
+      "asset_sha256": "37e3fe69dfa4d7d7f3436fb38ade61a190df35dd9584ed269932cad8fbe69f21",
+      "reference_sha256": "fba3f82a230c655851fa73b7b8416d71f9e5fe4e6c23bdbc81751f8d7179d572",
+      "bytes": 57019,
+      "paragraphs": 688,
+      "tables": 0,
+      "text_nodes": 688,
+      "text_characters": 26859,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "6c111171cdc79aff5ce87b8583e906b21c70bdeee55b23b5705f81c6f3f2a6de"
+    },
+    {
+      "id": "103",
+      "level": 3,
+      "title": "关节外科专病模板库",
+      "asset": "assets/103_关节外科专病模板库.docx",
+      "reference": "references/103_关节外科专病模板库.md",
+      "asset_sha256": "dd2fa8c7a1a274282c073bcac7f86f99a489490cddfb3edc4b8333d9ace5cb35",
+      "reference_sha256": "34e27c8f68083d178efe42d6a819c8a88ca494a91d1dfc41b8fe44dfcf585061",
+      "bytes": 55228,
+      "paragraphs": 589,
+      "tables": 0,
+      "text_nodes": 589,
+      "text_characters": 22686,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "18fad5a364855fdc2bb0f0b3c457505eb99d89c4b2d4f7090e3a18c03602457b"
+    },
+    {
+      "id": "104",
+      "level": 3,
+      "title": "运动医学与关节镜专病模板库",
+      "asset": "assets/104_运动医学与关节镜专病模板库.docx",
+      "reference": "references/104_运动医学与关节镜专病模板库.md",
+      "asset_sha256": "4e1018544635d6de745514b12b5db7b6368b1d333a9448a73d2dd810613cc060",
+      "reference_sha256": "d9153fec70d851fe2f0acbcf1023cdf742555644a22d13f23ffad35cb126e560",
+      "bytes": 53105,
+      "paragraphs": 573,
+      "tables": 0,
+      "text_nodes": 573,
+      "text_characters": 20712,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "dd07244c47306e4b3b093bb2763ca2655297288010d46355ed80daeaea0d5e26"
+    },
+    {
+      "id": "105",
+      "level": 3,
+      "title": "手足显微外科及周围神经损伤专病模板库",
+      "asset": "assets/105_手足显微外科及周围神经损伤专病模板库.docx",
+      "reference": "references/105_手足显微外科及周围神经损伤专病模板库.md",
+      "asset_sha256": "a1fc04fe72077b35af48402b04bceaeacd8cfc9f500411227bc78ceeffea0bd0",
+      "reference_sha256": "2f6d207a0cd098aa4d9ac1129ee08291430e5b8351a1d6f6e0044f969e749fb4",
+      "bytes": 53915,
+      "paragraphs": 594,
+      "tables": 0,
+      "text_nodes": 594,
+      "text_characters": 21249,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "be914dc5f7028c2d7f9305cc2e9ebf3994c8f18c5df117242dea7d3f49b2b758"
+    },
+    {
+      "id": "106",
+      "level": 3,
+      "title": "骨与关节感染骨折相关感染及骨髓炎专病模板库",
+      "asset": "assets/106_骨与关节感染骨折相关感染及骨髓炎专病模板库.docx",
+      "reference": "references/106_骨与关节感染骨折相关感染及骨髓炎专病模板库.md",
+      "asset_sha256": "94ed4260b27b4c0a04cb81cae9cb7c0f1be5748b87521c0fafc02a1a667fcf59",
+      "reference_sha256": "9d93330f6e106ae27454e305985bb6f210fa21abd1f0eaa05f76946af8e8c667",
+      "bytes": 54347,
+      "paragraphs": 603,
+      "tables": 1,
+      "text_nodes": 603,
+      "text_characters": 21381,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "3186d952b034c8c103fbbe7badbb4d4d3694c832356d05088d7ffc8fe5f71f6f"
+    },
+    {
+      "id": "107",
+      "level": 3,
+      "title": "骨肿瘤软组织肿瘤及骨病专病模板库",
+      "asset": "assets/107_骨肿瘤软组织肿瘤及骨病专病模板库.docx",
+      "reference": "references/107_骨肿瘤软组织肿瘤及骨病专病模板库.md",
+      "asset_sha256": "fb255ba7b83699c4516747d7f350a150a49bd3d787b637b919f4d7c4154570d0",
+      "reference_sha256": "a7baee2ef680243f71bf2fcb07548c91a82ea445b999e0a683b273bdddd7bf4c",
+      "bytes": 53214,
+      "paragraphs": 600,
+      "tables": 0,
+      "text_nodes": 600,
+      "text_characters": 20644,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "033eda14def55290d60e63952eb853afb068d99952c0a9fd4a110a995f30614d"
+    },
+    {
+      "id": "108",
+      "level": 3,
+      "title": "儿童骨科及儿童骨折专病模板库",
+      "asset": "assets/108_儿童骨科及儿童骨折专病模板库.docx",
+      "reference": "references/108_儿童骨科及儿童骨折专病模板库.md",
+      "asset_sha256": "ec2a6abf7f6bed23ae6e498048db3ae18622abd274f2de5764320329a3d34b5c",
+      "reference_sha256": "8ccf7e4dadc75b37f522c5a716e0e21a6c642a3feee228187b2fd61b177380e7",
+      "bytes": 55319,
+      "paragraphs": 731,
+      "tables": 0,
+      "text_nodes": 731,
+      "text_characters": 25156,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "3e47489a9e282f01563dc50503c42df70184999578c2ac2a67a1db4cf0a3c1ee"
+    }
+  ]
+}

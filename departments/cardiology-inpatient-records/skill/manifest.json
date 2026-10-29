@@ -1,0 +1,369 @@
+{
+  "skill_name": "cardiology-inpatient-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-27",
+  "source_folder": "心内科",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "心内科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00心内科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00心内科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "78de1011ee09e4ba3c619e865dede78f2e187fec24e91a2c14fc51fa4d8a65a3",
+      "reference_sha256": "db997449747357d23598da43cf4e80c14c77490f97fcee19aa01db9d68d3592c",
+      "paragraphs": 98,
+      "tables": 0,
+      "text_nodes": 143,
+      "text_characters": 5339,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "1a1e81c710fa7d96600cf603b3d2a7c85cf688c201a071702eb59cc634e933a2"
+    },
+    {
+      "id": "01",
+      "title": "心内科病历书写助手最高执行指令",
+      "asset": "assets/01心内科病历书写助手最高执行指令.docx",
+      "reference": "references/01心内科病历书写助手最高执行指令.md",
+      "asset_sha256": "85816cb4f54e3c9f6231641c6a2c3238e805506ffb78f22a48bdaad8775b2e23",
+      "reference_sha256": "dd7eca8d77974d051452ab58a0c2727eb973b7af2a8ca3232b380a28b99d42af",
+      "paragraphs": 119,
+      "tables": 0,
+      "text_nodes": 184,
+      "text_characters": 5516,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "aa1c3ddc297e4a05d2ab03b9e82a2f356ad4d37d64d9854951e75f2ee1b7da96"
+    },
+    {
+      "id": "02",
+      "title": "心内科基础医学文书与通用病程模板库",
+      "asset": "assets/02心内科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02心内科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "5e9710334f910a9a44e2d97524fe4c69260dbe8591c471bd1025aa2e33e20c34",
+      "reference_sha256": "72a46fb7b87983436eb11b5c2e679e08c6758725be97c9bb2c23e3b198b22ed1",
+      "paragraphs": 465,
+      "tables": 0,
+      "text_nodes": 563,
+      "text_characters": 11350,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "88da8f2c61db625b367d9c009c7c9d43a0ce638082665287963e19b7bc5ee9f2"
+    },
+    {
+      "id": "03",
+      "title": "心内科病史采集与心血管专科检查模板库",
+      "asset": "assets/03心内科病史采集与心血管专科检查模板库.docx",
+      "reference": "references/03心内科病史采集与心血管专科检查模板库.md",
+      "asset_sha256": "b3c8b30fa85c779bd2bd4369276efae8da12b3e8eb6c349af1686995f447bd9d",
+      "reference_sha256": "577fe7ac52f7afcf9be2422d5bb39e151faff412ce2b062310fe43a3fdeea140",
+      "paragraphs": 176,
+      "tables": 0,
+      "text_nodes": 230,
+      "text_characters": 4362,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "fe78acb3f8dd9d8b68cbe308285bdeaa70bb895ece6157e7ccde77dcc1442baa"
+    },
+    {
+      "id": "04",
+      "title": "心内科检验影像心电及特殊检查结果分析模板库",
+      "asset": "assets/04心内科检验影像心电及特殊检查结果分析模板库.docx",
+      "reference": "references/04心内科检验影像心电及特殊检查结果分析模板库.md",
+      "asset_sha256": "3c120001b12ae066dd54a90819d3d02c1dbb298d9f94d601ddfdc27081eca380",
+      "reference_sha256": "066bb672d354fe771d21b4f101f43ecf959f0a1e9b003b4b46aa8f1328574abb",
+      "paragraphs": 266,
+      "tables": 0,
+      "text_nodes": 343,
+      "text_characters": 9670,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "963a06ebf35dae8861fe14d9ca3892f97c3c74c6da8a5700b9f4fa951f4eeac2"
+    },
+    {
+      "id": "05",
+      "title": "心内科介入操作与围术期医学文书模板库",
+      "asset": "assets/05心内科介入操作与围术期医学文书模板库.docx",
+      "reference": "references/05心内科介入操作与围术期医学文书模板库.md",
+      "asset_sha256": "b8774a2b6b1e573e173bc2fda9dabe80337a2b8ce8f887d3dfdacbdfb23837a6",
+      "reference_sha256": "791587078afe1220ee5306f65084a16aa699278aad0f6b4d1a9bc770c6044124",
+      "paragraphs": 240,
+      "tables": 0,
+      "text_nodes": 292,
+      "text_characters": 7019,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "86809b03b08dec67e1a9784ed0ad4ad8bf5e6661de7119539f52a9afdca3133f"
+    },
+    {
+      "id": "06",
+      "title": "心内科异常病情并发症与危急重症病程模板库",
+      "asset": "assets/06心内科异常病情并发症与危急重症病程模板库.docx",
+      "reference": "references/06心内科异常病情并发症与危急重症病程模板库.md",
+      "asset_sha256": "53f756a13d54f6d970d06c82962f18478b8b46a194967aa5d71a64cda38fc54c",
+      "reference_sha256": "2b2bf6537da0aca8aa9d5997eec798504bc88be1f00fdf1b289ba71b5abfc575",
+      "paragraphs": 286,
+      "tables": 0,
+      "text_nodes": 382,
+      "text_characters": 9106,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "d192a337255203a73c264426bddf199f27ff363593e37c361d8e954d5bf36bc1"
+    },
+    {
+      "id": "07",
+      "title": "心内科治疗决策药物管理与医嘱表达规则库",
+      "asset": "assets/07心内科治疗决策药物管理与医嘱表达规则库.docx",
+      "reference": "references/07心内科治疗决策药物管理与医嘱表达规则库.md",
+      "asset_sha256": "f226c2b8dfad1edf1a022c9da6713fd9e6fcb7ccb42627487683ad399f184a73",
+      "reference_sha256": "1f03fb6a79be86cdaee0622f682f77741dbbff2d25d0a523295866f88e71d96b",
+      "paragraphs": 272,
+      "tables": 0,
+      "text_nodes": 351,
+      "text_characters": 9341,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "49874c059bfcbd9205d3ce7d3cf981b980e0bb41ef332abb711645c273a77b5d"
+    },
+    {
+      "id": "08",
+      "title": "心内科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08心内科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08心内科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "2c3be4d496881f05e5e8e49809450217869e401f6abd5f243e4e173244ae9f53",
+      "reference_sha256": "4516a3c75287e7bef934e7fe2ca3ea5eae65a373d87de3ecb798deb97c2b06bc",
+      "paragraphs": 369,
+      "tables": 0,
+      "text_nodes": 440,
+      "text_characters": 13088,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "dad870eacc72bd131a5b9bc31b626b3ce637b57052368933ba4d3548d2d062f3"
+    },
+    {
+      "id": "09",
+      "title": "心血管康复二级预防与出院随访模板库",
+      "asset": "assets/09心血管康复二级预防与出院随访模板库.docx",
+      "reference": "references/09心血管康复二级预防与出院随访模板库.md",
+      "asset_sha256": "216128c0448e2d0b90d004d5ebc385f134c36b57a13545c7958bd0428af60d0b",
+      "reference_sha256": "c409e1b67b26e7140062f517ef78da7064b24d3cb311b8b1faa243ff3cae3636",
+      "paragraphs": 261,
+      "tables": 0,
+      "text_nodes": 349,
+      "text_characters": 7226,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "930e0fe8f8002c259808336298d936d77db4f2f816b6ccdd587631b21c968ab1"
+    },
+    {
+      "id": "10",
+      "title": "心内科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10心内科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10心内科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "9a63c0b423e6e5605c38b436d17b625a5a17a4875bbb75e0bfcc84cb0eb35b8e",
+      "reference_sha256": "95e27cd93991181e5530426c96e06d317ff753ffb2abe63640eae81b33d66f22",
+      "paragraphs": 257,
+      "tables": 0,
+      "text_nodes": 356,
+      "text_characters": 11176,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "34dfe8a5dfaeb0c19dd2e4a97bd37309270722eaec9d87337d6fc97d0dc01761"
+    },
+    {
+      "id": "11",
+      "title": "心内科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11心内科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11心内科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "0e5676cae80596cfec4afa897e392321b7d3da29e9c24caea4446d1ee6e635bd",
+      "reference_sha256": "7f0d98da7a87ef4699803c66fe071583b346d720b83bf2089ac46259ccbef916",
+      "paragraphs": 103,
+      "tables": 0,
+      "text_nodes": 145,
+      "text_characters": 4103,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "04f2866884c3e49cbbe88674db7abb8959be60cb0bd3fb323b25b6d7457fcdb7"
+    },
+    {
+      "id": "101",
+      "title": "冠心病急性冠状动脉综合征与心肌梗死专病模板库",
+      "asset": "assets/101冠心病急性冠状动脉综合征与心肌梗死专病模板库.docx",
+      "reference": "references/101冠心病急性冠状动脉综合征与心肌梗死专病模板库.md",
+      "asset_sha256": "c2f46ed3b0dee3b1861f4ca51d8136724d8beab184f0bab570c02ab63da79c95",
+      "reference_sha256": "f10e5ede03f6190065c4edc94758c35f2478499cfb0bcc10c450eb2c0d244d13",
+      "paragraphs": 438,
+      "tables": 0,
+      "text_nodes": 534,
+      "text_characters": 18979,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "05ea60dacdf56a4619a1b2e11b787d184120259730a6f614f27c4b4c78803215"
+    },
+    {
+      "id": "102",
+      "title": "心力衰竭心肌病与心肌炎专病模板库",
+      "asset": "assets/102心力衰竭心肌病与心肌炎专病模板库.docx",
+      "reference": "references/102心力衰竭心肌病与心肌炎专病模板库.md",
+      "asset_sha256": "061df094760f53ab306c0438679264b1bf0c98783aba119be2912ee9654e7051",
+      "reference_sha256": "aeb756bec1b2cf8d59f7d2f9298436df90419fab05c6f4546b6d3cfbfb48d3ff",
+      "paragraphs": 511,
+      "tables": 0,
+      "text_nodes": 625,
+      "text_characters": 21511,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "55b473a02c5a203bead36dd5416683968f13c74ca91d13263b2ef2d62b1ce0c3"
+    },
+    {
+      "id": "103",
+      "title": "心律失常晕厥与心脏电生理专病模板库",
+      "asset": "assets/103心律失常晕厥与心脏电生理专病模板库.docx",
+      "reference": "references/103心律失常晕厥与心脏电生理专病模板库.md",
+      "asset_sha256": "1c1d97ad9692e1e24e7b60ac2ef13b0147528e0ac09aa02ce245b4d7fceaf747",
+      "reference_sha256": "bd56b27198486f07565e676fdc32e52803948b67fe8cd36eccd790c2d350eee0",
+      "paragraphs": 665,
+      "tables": 0,
+      "text_nodes": 815,
+      "text_characters": 26757,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "b86d563e30d33bc8651b0cba2d81db553895594936f7105b4af879b656959780"
+    },
+    {
+      "id": "104",
+      "title": "高血压主动脉及周围血管疾病专病模板库",
+      "asset": "assets/104高血压主动脉及周围血管疾病专病模板库.docx",
+      "reference": "references/104高血压主动脉及周围血管疾病专病模板库.md",
+      "asset_sha256": "3c53b72749296d8ff2dd295e7b438ce1297c564a955386abf3ff0b4194e4396e",
+      "reference_sha256": "c6e6cc8c88d072eda7da6db578ffd71c5c60d9b76bc3ae1139823155d9b91668",
+      "paragraphs": 499,
+      "tables": 0,
+      "text_nodes": 613,
+      "text_characters": 20265,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "b2b4cea76d523106cc49cb8d929a2cbdb8841c95b3f0576052f31f0056b73645"
+    },
+    {
+      "id": "105",
+      "title": "心脏瓣膜病感染性心内膜炎与心包疾病专病模板库",
+      "asset": "assets/105心脏瓣膜病感染性心内膜炎与心包疾病专病模板库.docx",
+      "reference": "references/105心脏瓣膜病感染性心内膜炎与心包疾病专病模板库.md",
+      "asset_sha256": "c20f5dd8f30a9d2a4d1ddc8271c6d7089cbe2d760e5656b0610c05427c323723",
+      "reference_sha256": "55bf8003eb8dceb3b1001d19a0810df8bc0869195910410b4e4f171540b9070d",
+      "paragraphs": 673,
+      "tables": 0,
+      "text_nodes": 823,
+      "text_characters": 27840,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "5648dcfddfc68bb06558ba6e15aae1c37c1b9c1880d92d7a17e460f9601bc7e5"
+    },
+    {
+      "id": "106",
+      "title": "肺循环疾病肺动脉高压与肺栓塞专病模板库",
+      "asset": "assets/106肺循环疾病肺动脉高压与肺栓塞专病模板库.docx",
+      "reference": "references/106肺循环疾病肺动脉高压与肺栓塞专病模板库.md",
+      "asset_sha256": "95767830aefb5a9ac1ba9895dc8c1b047cdb2833547ce6be2f3eed5fc8f2a81e",
+      "reference_sha256": "24be10dbd42286e9c4e03e9ec7a56c092f7d43c30abfd9196405326b7b80cb02",
+      "paragraphs": 349,
+      "tables": 0,
+      "text_nodes": 427,
+      "text_characters": 14560,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "fb20cd584f29770232e81e8d7f938fa04ed90c109c3b3cf6fbc52991437cf715"
+    },
+    {
+      "id": "107",
+      "title": "心血管介入手术及植入器械围术期专病模板库",
+      "asset": "assets/107心血管介入手术及植入器械围术期专病模板库.docx",
+      "reference": "references/107心血管介入手术及植入器械围术期专病模板库.md",
+      "asset_sha256": "449f4d80640c2b4e082b65d1c5eb4c0b36e1c6515d9d2e31c9ad264f8a11cb4d",
+      "reference_sha256": "db740e4de6910d35b87089822ae93a1aad8e8dd707e4af0b772cbab6fce9c1f1",
+      "paragraphs": 693,
+      "tables": 0,
+      "text_nodes": 843,
+      "text_characters": 29353,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "d4da0cda8d502d26e90b074719f461758db5b001e57c290b2120977504e0ec2b"
+    },
+    {
+      "id": "108",
+      "title": "心血管急危重症与CCU管理专病模板库",
+      "asset": "assets/108心血管急危重症与CCU管理专病模板库.docx",
+      "reference": "references/108心血管急危重症与CCU管理专病模板库.md",
+      "asset_sha256": "a834edd13032adb8734315ac38a423f927a88a009069f61ba8bd5300a267e8a2",
+      "reference_sha256": "e4d3b8acb5be53ca98f1daaaca5b02d2e98bdeecf5dadfafd41765631adb8d7e",
+      "paragraphs": 523,
+      "tables": 0,
+      "text_nodes": 637,
+      "text_characters": 22208,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "f5e76742419bf76ff2b368596b44d9c99ec583cde1017e348bf6bca4e9b874c8"
+    }
+  ]
+}

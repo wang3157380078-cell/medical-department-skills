@@ -1,0 +1,369 @@
+{
+  "skill_name": "thyroid-breast-surgery-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-27",
+  "source_folder": "普外科甲状腺甲旁乳腺AI病历系统V2.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "甲状腺甲旁乳腺AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_甲状腺甲旁乳腺AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_甲状腺甲旁乳腺AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "03ac0e60316f7f2d3836eb0b33eb7332e45fed16fc89d65a0ee5c7d36af35719",
+      "reference_sha256": "d50620e0723d9f958173383b8c9ed083d51a29a2b972b255d764f97edc109346",
+      "paragraphs": 154,
+      "tables": 0,
+      "text_nodes": 198,
+      "text_characters": 9027,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "98e3d43928b4db55afc2e6e810b5259e2a762425059835c624462fdb011488f9"
+    },
+    {
+      "id": "01",
+      "title": "甲状腺甲旁乳腺病历书写助手最高执行指令",
+      "asset": "assets/01_甲状腺甲旁乳腺病历书写助手最高执行指令.docx",
+      "reference": "references/01_甲状腺甲旁乳腺病历书写助手最高执行指令.md",
+      "asset_sha256": "4f8fbf8efd7a3a14ef98a8859a979db5d5f8d4e80ed2178659182081024a6a3e",
+      "reference_sha256": "710d46db2ff1075b95a7717669399eef14c18583ac5d046faf54e1dee0f0ed22",
+      "paragraphs": 82,
+      "tables": 0,
+      "text_nodes": 102,
+      "text_characters": 5123,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "9f37c1b4b8023502a289e2d029ecaa042954ea72056dda0f2cc85c015a77fcb7"
+    },
+    {
+      "id": "02",
+      "title": "甲状腺甲旁乳腺基础医学文书与通用病程模板库",
+      "asset": "assets/02_甲状腺甲旁乳腺基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_甲状腺甲旁乳腺基础医学文书与通用病程模板库.md",
+      "asset_sha256": "719f23902cfe0549682bff8a99603dbd88fd2d0980f8663090499a8a2c104e02",
+      "reference_sha256": "5d76390ad1a51b07649390b097ea0879fba5af5f30ea5b98e23b901d38853976",
+      "paragraphs": 264,
+      "tables": 0,
+      "text_nodes": 304,
+      "text_characters": 12795,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "3a2673a8a40d087b82521df5a6cb993bcef1f69badba3da22ea45a9ba328ca89"
+    },
+    {
+      "id": "03",
+      "title": "甲状腺甲旁乳腺专科检查与体格检查模板库",
+      "asset": "assets/03_甲状腺甲旁乳腺专科检查与体格检查模板库.docx",
+      "reference": "references/03_甲状腺甲旁乳腺专科检查与体格检查模板库.md",
+      "asset_sha256": "73404c33d4f2be77e615d7a4053e821aafedc2b192c149c791d087477e3c980f",
+      "reference_sha256": "013951fc811d5a8dd94fa78f216f38d85c5d2eb72e4d9741bf5336967824488e",
+      "paragraphs": 211,
+      "tables": 0,
+      "text_nodes": 246,
+      "text_characters": 10677,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "a2fa4932d7be863de78c82ed81f5078a9c5eb0d4a132ed00285dcead70fedc55"
+    },
+    {
+      "id": "04",
+      "title": "甲状腺甲旁乳腺检验影像病理及特殊检查分析模板库",
+      "asset": "assets/04_甲状腺甲旁乳腺检验影像病理及特殊检查分析模板库.docx",
+      "reference": "references/04_甲状腺甲旁乳腺检验影像病理及特殊检查分析模板库.md",
+      "asset_sha256": "757cad70ed9279e04b378397b0ae5bf4192a6d19f02be1f77fde5b1382228fdc",
+      "reference_sha256": "7f113e879067e0fc584d6182a7a054912640e5359ada89ef2f08c7172e3a7a7e",
+      "paragraphs": 233,
+      "tables": 0,
+      "text_nodes": 271,
+      "text_characters": 12293,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "2f2a5828eb23c747dac89eea1cd265f3111ea0b7e3358d46ad617961162db68a"
+    },
+    {
+      "id": "05",
+      "title": "甲状腺甲旁乳腺高频术式与围手术期医学文书模板库",
+      "asset": "assets/05_甲状腺甲旁乳腺高频术式与围手术期医学文书模板库.docx",
+      "reference": "references/05_甲状腺甲旁乳腺高频术式与围手术期医学文书模板库.md",
+      "asset_sha256": "754a305686ed4558f331c470c92faee53a3977f65ac16b5059611fb199215d01",
+      "reference_sha256": "cbddc8bc96c9c98dfed8533652f19758410650fa36dcb5509703bed2765c9fbc",
+      "paragraphs": 519,
+      "tables": 0,
+      "text_nodes": 555,
+      "text_characters": 46557,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "3f2597e50750bf51ca5f4120a2debc8a340203df8623d2344ed654778afe243d"
+    },
+    {
+      "id": "06",
+      "title": "甲状腺甲旁乳腺术后并发症异常病情及危急情况病程模板库",
+      "asset": "assets/06_甲状腺甲旁乳腺术后并发症异常病情及危急情况病程模板库.docx",
+      "reference": "references/06_甲状腺甲旁乳腺术后并发症异常病情及危急情况病程模板库.md",
+      "asset_sha256": "0ef2c24b28a9bab91f01e7dad7094a6fd0c3ac258b25ed847817f1675c1a3a29",
+      "reference_sha256": "9ac9c1c8113a66ec1c969e9f313207e811cf27c8ae50adfd70493fff60e75339",
+      "paragraphs": 447,
+      "tables": 0,
+      "text_nodes": 499,
+      "text_characters": 34153,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "e40c18f2d4e81fbfd651bd329e16aa47662e9086725afa730a0c6e120e05ab9e"
+    },
+    {
+      "id": "07",
+      "title": "甲状腺甲旁乳腺治疗决策围手术期用药及医嘱表达规则库",
+      "asset": "assets/07_甲状腺甲旁乳腺治疗决策围手术期用药及医嘱表达规则库.docx",
+      "reference": "references/07_甲状腺甲旁乳腺治疗决策围手术期用药及医嘱表达规则库.md",
+      "asset_sha256": "1a53a4b1bde5e2687ae9fb4dda3fbbe1b5d782b26c21ec8a6a55c681e5a23817",
+      "reference_sha256": "610f538659054c2bc162347e4c34ed5013951e0afc62bfd7da469b9258a45088",
+      "paragraphs": 172,
+      "tables": 0,
+      "text_nodes": 202,
+      "text_characters": 10093,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "f6ea6b4bf82bd62eccd11f2e6ce16e706bd97cc36bb32cfe99e222b5c584b83e"
+    },
+    {
+      "id": "08",
+      "title": "甲状腺甲旁乳腺三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_甲状腺甲旁乳腺三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_甲状腺甲旁乳腺三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "40010784eed0f096ed1bc87b3a6c8c6d3d3cda631ef92cc511fa091f2d618dba",
+      "reference_sha256": "47a7c1566dbbde555ef7f51dc4558e087d534c148523ba90b17acfc39ffe699e",
+      "paragraphs": 379,
+      "tables": 0,
+      "text_nodes": 450,
+      "text_characters": 35583,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "9853d3a1dc537db5e3b9e10eb0430ee594564fe6f4cf8a9492032ed6154bca25"
+    },
+    {
+      "id": "09",
+      "title": "甲状腺甲旁乳腺术后恢复功能康复及出院随访模板库",
+      "asset": "assets/09_甲状腺甲旁乳腺术后恢复功能康复及出院随访模板库.docx",
+      "reference": "references/09_甲状腺甲旁乳腺术后恢复功能康复及出院随访模板库.md",
+      "asset_sha256": "0e17ee31b3a589b02df8a3259f009ebbdc3eb9aca65cf19787e50443a172b257",
+      "reference_sha256": "ba015fc4126ee14c0ca37b9bbe29833d18c7ef0211866e626f0e053601247e10",
+      "paragraphs": 181,
+      "tables": 0,
+      "text_nodes": 212,
+      "text_characters": 10149,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "427f53babe4ebff7a78a957f1471da6fafcb16caf9dfd5874581f93f93b7841d"
+    },
+    {
+      "id": "10",
+      "title": "甲状腺甲旁乳腺病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_甲状腺甲旁乳腺病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_甲状腺甲旁乳腺病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "e3f747b333758ca3e087ddbc6370426c181e545f2a2903a0ad173c54ff30a210",
+      "reference_sha256": "d2bafd7976294925f15e22307b4129ea56aaadf6851b11a98b9bfe71440a65c8",
+      "paragraphs": 585,
+      "tables": 0,
+      "text_nodes": 666,
+      "text_characters": 23120,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "769063e30012e2ed5e8d9156ded93712304e94467a9be95152629168676f5541"
+    },
+    {
+      "id": "11",
+      "title": "甲状腺甲旁乳腺AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_甲状腺甲旁乳腺AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_甲状腺甲旁乳腺AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "3fd46d580956d9fac40118e4b15cd2958dda8dea9fb5d27fbf9debc2785a926e",
+      "reference_sha256": "c56bdf741378f9f40488f255a29f0a7d0aa8458a7f478d364ec169fc8b385bc4",
+      "paragraphs": 103,
+      "tables": 0,
+      "text_nodes": 130,
+      "text_characters": 6591,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "c13a185f21d3c47516dfd08fc6c4fda887b795c42ffb69d924a772c12cab55ce"
+    },
+    {
+      "id": "101",
+      "title": "甲状腺结节良性疾病及功能异常外科专病模板库",
+      "asset": "assets/101_甲状腺结节良性疾病及功能异常外科专病模板库.docx",
+      "reference": "references/101_甲状腺结节良性疾病及功能异常外科专病模板库.md",
+      "asset_sha256": "d1a230bb6a5433d8ad598566921561a7452ebfff6917f993062c90ef24d70f1a",
+      "reference_sha256": "7922f74375f9f2b967470a4a2930ed0252da317a21f338fdb13ce2d33bb6681c",
+      "paragraphs": 851,
+      "tables": 0,
+      "text_nodes": 869,
+      "text_characters": 48031,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "0474a6da7ca83dc6256922ee8745ed24bee1721f49575a131984ae41475494ea"
+    },
+    {
+      "id": "102",
+      "title": "甲状腺恶性肿瘤及颈部淋巴结疾病专病模板库",
+      "asset": "assets/102_甲状腺恶性肿瘤及颈部淋巴结疾病专病模板库.docx",
+      "reference": "references/102_甲状腺恶性肿瘤及颈部淋巴结疾病专病模板库.md",
+      "asset_sha256": "940b1c4fdd1a4d2c1647f561c74b7df745aacb51232a82b95b28629aed96baa9",
+      "reference_sha256": "7a16123751566d787d6e0103b6073981fe0e65c2754e77aff8e47492030ba856",
+      "paragraphs": 662,
+      "tables": 0,
+      "text_nodes": 677,
+      "text_characters": 37386,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "dcc2c17ee6a921a278fa4961d9d7819a0304568113345a41c9bd675854348ffe"
+    },
+    {
+      "id": "103",
+      "title": "甲状旁腺疾病与钙磷代谢异常外科专病模板库",
+      "asset": "assets/103_甲状旁腺疾病与钙磷代谢异常外科专病模板库.docx",
+      "reference": "references/103_甲状旁腺疾病与钙磷代谢异常外科专病模板库.md",
+      "asset_sha256": "d346f2f68126051f3738a85747902405eb77f149147bac6d7bcead67a281e189",
+      "reference_sha256": "9fa5f5b7fe91080aed45a1ee180b7bbeef824e8a098878645531af5b7953b522",
+      "paragraphs": 660,
+      "tables": 0,
+      "text_nodes": 675,
+      "text_characters": 37467,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "27478dd5a7f2d7620d66c7a7045db0a9e94607948a0bc59b7b62edc4262a8eb0"
+    },
+    {
+      "id": "104",
+      "title": "复杂甲状腺甲旁腺疾病再次手术与特殊病例模板库",
+      "asset": "assets/104_复杂甲状腺甲旁腺疾病再次手术与特殊病例模板库.docx",
+      "reference": "references/104_复杂甲状腺甲旁腺疾病再次手术与特殊病例模板库.md",
+      "asset_sha256": "20912902476bbbb74a1fb7cd057a1c62d9f6fa4b45a99f8970155205181e08da",
+      "reference_sha256": "54ef5591f46c285a343e50a29686b17b625b1e0b81880344b255e6fd7c7bb85d",
+      "paragraphs": 599,
+      "tables": 0,
+      "text_nodes": 613,
+      "text_characters": 33768,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "1218095931a5ce0332a10e2dfcdcda461ad46449d602d97aa6f9263aecee9428"
+    },
+    {
+      "id": "105",
+      "title": "乳腺良性高危及炎症性疾病专病模板库",
+      "asset": "assets/105_乳腺良性高危及炎症性疾病专病模板库.docx",
+      "reference": "references/105_乳腺良性高危及炎症性疾病专病模板库.md",
+      "asset_sha256": "6d3c5ba4665ec3ad66e83080e8560bfa649de7a3d1da358038edcb165b4e61c7",
+      "reference_sha256": "62c640513be317aea03163c25fff73529ba4695f026608bf580f8ff71c71b709",
+      "paragraphs": 737,
+      "tables": 0,
+      "text_nodes": 754,
+      "text_characters": 49697,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "71e5e3fc70fd5642f35e899d9d09ec92efef7f87b74623cedfa31d897ed82336"
+    },
+    {
+      "id": "106",
+      "title": "乳腺癌初诊分期手术与腋窝管理专病模板库",
+      "asset": "assets/106_乳腺癌初诊分期手术与腋窝管理专病模板库.docx",
+      "reference": "references/106_乳腺癌初诊分期手术与腋窝管理专病模板库.md",
+      "asset_sha256": "d7b9424cbec22345cb47c101abeef13dfa044f327ebaa8ebd83676918d9de730",
+      "reference_sha256": "6b67c4de0f8bf92c8df39c811f8a191ad659ff0c96d11798fddfb3104aabb710",
+      "paragraphs": 738,
+      "tables": 0,
+      "text_nodes": 755,
+      "text_characters": 50389,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "ff8ba95e44b69ecaa6e3c3b8e9653f2aaf9a524e3d4755702982e3de51fb1fba"
+    },
+    {
+      "id": "107",
+      "title": "乳腺癌新辅助治疗复发转移与综合治疗衔接模板库",
+      "asset": "assets/107_乳腺癌新辅助治疗复发转移与综合治疗衔接模板库.docx",
+      "reference": "references/107_乳腺癌新辅助治疗复发转移与综合治疗衔接模板库.md",
+      "asset_sha256": "c6f5f337f3c5555c1714cd84d17d4edf89fe77df70736d6cda8e15308c4694c1",
+      "reference_sha256": "c1014a44dfe57ca58de09488170e92241b62c56679f3cb97d2d1d6aa39662576",
+      "paragraphs": 675,
+      "tables": 0,
+      "text_nodes": 691,
+      "text_characters": 45591,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "d5d19eb6310230d7f06eeba2f1dd1d26da6c355bd8c50afbd8db5cc3960ba0f7"
+    },
+    {
+      "id": "108",
+      "title": "乳房重建男性乳腺及复杂特殊病例模板库",
+      "asset": "assets/108_乳房重建男性乳腺及复杂特殊病例模板库.docx",
+      "reference": "references/108_乳房重建男性乳腺及复杂特殊病例模板库.md",
+      "asset_sha256": "499c7703db50974a6a32ebd55f803362429ede6a57b6314a9c83cded2a6fe848",
+      "reference_sha256": "961c0da1d83ddbe7ee6b563ea9b885efd4f39a7dd91c2c614d2eeb18b3908a94",
+      "paragraphs": 800,
+      "tables": 0,
+      "text_nodes": 818,
+      "text_characters": 52952,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "7bc3bf17ba03a8f9ec1b37c6ffbed2f0f9a427094363f0cd69afaeb9369ced62"
+    }
+  ]
+}

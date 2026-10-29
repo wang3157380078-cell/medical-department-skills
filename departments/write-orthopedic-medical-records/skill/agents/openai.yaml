@@ -1,0 +1,4 @@
+interface:
+  display_name: "骨科AI病历书写助手V2.0"
+  short_description: "依据真实患者资料编写骨科病历，按V2.0模块路由并进行最终质控"
+  default_prompt: "使用 $write-orthopedic-medical-records，根据我提供的真实病例资料完成所需骨科医学文书。"

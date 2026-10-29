@@ -1,0 +1,389 @@
+{
+  "skill_name": "pulmonology-inpatient-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-27",
+  "source_folder": "呼吸内科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "呼吸内科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_呼吸内科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_呼吸内科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "183565a961861ce939f6878893d0e5146553daf2ced3d6e298d06e9c05e04f68",
+      "reference_sha256": "641de65aafeec0ea99cbf2db4cc15151d634c83cea8f474fc12d375ea13ac9fc",
+      "paragraphs": 99,
+      "tables": 0,
+      "text_nodes": 97,
+      "text_characters": 5916,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "f6cf40766a783723fa9ad0d8d2d98da3256fce268962253a2cdc42908eab82ef"
+    },
+    {
+      "id": "01",
+      "title": "呼吸内科病历书写助手最高执行指令",
+      "asset": "assets/01_呼吸内科病历书写助手最高执行指令.docx",
+      "reference": "references/01_呼吸内科病历书写助手最高执行指令.md",
+      "asset_sha256": "c26777165a74fe2b67e7ad6254b5d7303f0e11892e296efc27a26f697e1ba8d8",
+      "reference_sha256": "f012391a562462317e9cec324dd82c6d626ee85ba04b9ea673fb52451a5df776",
+      "paragraphs": 99,
+      "tables": 0,
+      "text_nodes": 97,
+      "text_characters": 4176,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "6a78f4500e87e5478101353cf43c73de2dc4f5735bb6ed6ed900035b06d596ca"
+    },
+    {
+      "id": "02",
+      "title": "呼吸内科基础医学文书与通用病程模板库",
+      "asset": "assets/02_呼吸内科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_呼吸内科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "380a8fa947769bff9ef6918f7adde5b30012ad4c95b675c57e6cc79eca802fb3",
+      "reference_sha256": "2d0b99e4cdcc339af0f881f6921e6608edd20449ebcdff3471d8fab4703ab4a0",
+      "paragraphs": 470,
+      "tables": 0,
+      "text_nodes": 468,
+      "text_characters": 12061,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "50e7293dff04609c4fc34ba3afcb1e985b4c3370c4f7cb8db265772e209e7cca"
+    },
+    {
+      "id": "03",
+      "title": "呼吸系统专科查体症状评估与呼吸功能检查模板库",
+      "asset": "assets/03_呼吸系统专科查体症状评估与呼吸功能检查模板库.docx",
+      "reference": "references/03_呼吸系统专科查体症状评估与呼吸功能检查模板库.md",
+      "asset_sha256": "9960c793f7974f0498bbef42acae677f7cc4a21bbb91a57df9def69d27f89444",
+      "reference_sha256": "a0c0fc1aed837d4fdc9cab15e08f1557077c151044286550337ea123b631762c",
+      "paragraphs": 132,
+      "tables": 0,
+      "text_nodes": 130,
+      "text_characters": 6460,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "e5c646bc4a4c5971787c6a0b8ff5210bd77d1a57d0635d531a17745d17338dd8"
+    },
+    {
+      "id": "04",
+      "title": "呼吸内科检验血气肺功能影像病原学及病理分析模板库",
+      "asset": "assets/04_呼吸内科检验血气肺功能影像病原学及病理分析模板库.docx",
+      "reference": "references/04_呼吸内科检验血气肺功能影像病原学及病理分析模板库.md",
+      "asset_sha256": "727ea067474963f1ac1740de5702bbd57d1e75926a9998a85ea03a137387308d",
+      "reference_sha256": "9f1a85ff166cd065aa38ebb5bf5ef4e85f3451307a22fed4999dfed852b87bcb",
+      "paragraphs": 99,
+      "tables": 0,
+      "text_nodes": 97,
+      "text_characters": 7215,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "7260181945f344bcb40d7880834a551b47b8a43516b5fb5a1cb8abb15dfaf17d"
+    },
+    {
+      "id": "05",
+      "title": "呼吸介入支气管镜胸膜操作与呼吸支持医学文书模板库",
+      "asset": "assets/05_呼吸介入支气管镜胸膜操作与呼吸支持医学文书模板库.docx",
+      "reference": "references/05_呼吸介入支气管镜胸膜操作与呼吸支持医学文书模板库.md",
+      "asset_sha256": "72643585b3e057c8851aa0a3d9637df9c53cb148011eb1a62411a471f4c098bb",
+      "reference_sha256": "179a7d092ebd0c68388e9eb8807725a364798f154dc211cc10eda7ac91174077",
+      "paragraphs": 429,
+      "tables": 0,
+      "text_nodes": 427,
+      "text_characters": 21076,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "c97dab92a76dd1ee8a2dd44a3f472ea0984ea9741ec18d1c340d619a6ad3e2a3"
+    },
+    {
+      "id": "06",
+      "title": "呼吸内科急危重症异常病情及并发症病程模板库",
+      "asset": "assets/06_呼吸内科急危重症异常病情及并发症病程模板库.docx",
+      "reference": "references/06_呼吸内科急危重症异常病情及并发症病程模板库.md",
+      "asset_sha256": "558ea7124b8183c4419848b6c4cfd976e1eba6a239650376d5776fb4915b947a",
+      "reference_sha256": "37a7a8135656d3fedee4f794be4040f37ac59398b3bcdce1f7a5e728745f5bbc",
+      "paragraphs": 316,
+      "tables": 0,
+      "text_nodes": 314,
+      "text_characters": 15015,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ba83cb93d6d8af586a1cc2f1c44af5d3ca877bca0a97aca9a5f1f479b598a55e"
+    },
+    {
+      "id": "07",
+      "title": "呼吸内科治疗决策呼吸支持用药及医嘱表达规则库",
+      "asset": "assets/07_呼吸内科治疗决策呼吸支持用药及医嘱表达规则库.docx",
+      "reference": "references/07_呼吸内科治疗决策呼吸支持用药及医嘱表达规则库.md",
+      "asset_sha256": "8232a72c3511ceb974de0a32d03732779b4f2cadc51c47a00c3c872afb52f17b",
+      "reference_sha256": "efa018eb7d76ada0c53e6d16df912f1391cd50a281ceec9ec657bbda573dfbca",
+      "paragraphs": 240,
+      "tables": 0,
+      "text_nodes": 238,
+      "text_characters": 11097,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "9c75d7425bc5ab2612d4241eddc9ace4a8930348e70efe5c09e6581d5f700411"
+    },
+    {
+      "id": "08",
+      "title": "呼吸内科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_呼吸内科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_呼吸内科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "4f48cae6d5fdb1ad234dfbd184434d9f143ccad55498c6594bebe4be58af5694",
+      "reference_sha256": "408eb61230182ce32ff35e688fabd06e8f9098f23dec215c98cc259f3b99bffd",
+      "paragraphs": 343,
+      "tables": 0,
+      "text_nodes": 341,
+      "text_characters": 18401,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "06ae61f02aaf58c2cba5723dff95daccc679a140bebe84492854bdf9124ca426"
+    },
+    {
+      "id": "09",
+      "title": "呼吸康复长期氧疗慢病管理及出院随访模板库",
+      "asset": "assets/09_呼吸康复长期氧疗慢病管理及出院随访模板库.docx",
+      "reference": "references/09_呼吸康复长期氧疗慢病管理及出院随访模板库.md",
+      "asset_sha256": "55df3e323f0bfbf110cfe556dd4bb316ac1eebdd202e712e71792b289c5af005",
+      "reference_sha256": "3b0642019935627ea2af546228cfdb235359223c3aab43d4bc2e5573e0e46826",
+      "paragraphs": 156,
+      "tables": 0,
+      "text_nodes": 154,
+      "text_characters": 7236,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "74e94cb3f551f3a89e5c08c3ee9c24ba9d2ff748b398863fbc0047b57ed3dcf2"
+    },
+    {
+      "id": "10",
+      "title": "呼吸内科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_呼吸内科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_呼吸内科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "ef0ba967357aaea4f38894e0d1f4553534647822a1b298c411de2f5c6f226c50",
+      "reference_sha256": "8e6b1cda02f3a6243cab99216b69686171373a730ef31f2cf07715562e08f68d",
+      "paragraphs": 114,
+      "tables": 0,
+      "text_nodes": 112,
+      "text_characters": 6018,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "4ee0f515ab1f490a2cdb89e7135473200d5d517d984e12860e02865efab04547"
+    },
+    {
+      "id": "11",
+      "title": "呼吸内科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_呼吸内科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_呼吸内科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "30ab02604ae72a687511146d6a32afbd6ce0186517953742ad7385b1a03d2108",
+      "reference_sha256": "3e706960b5635304abc113ca8300dbc96602beefc623e6e8637d62c5325df4a6",
+      "paragraphs": 88,
+      "tables": 0,
+      "text_nodes": 86,
+      "text_characters": 4338,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "5ff538b0419ab48ab7b2ab40575d4915e32588e0f46440041de4dc7dfd055534"
+    },
+    {
+      "id": "101",
+      "title": "慢性阻塞性肺疾病肺气肿及急性加重专病模板库",
+      "asset": "assets/101_慢性阻塞性肺疾病肺气肿及急性加重专病模板库.docx",
+      "reference": "references/101_慢性阻塞性肺疾病肺气肿及急性加重专病模板库.md",
+      "asset_sha256": "28233f908f02f0495b5dd8b0bbaa7f3cf6f7efc61ceb40407f6b9777f4d3c0e0",
+      "reference_sha256": "7feaad4cc52b5e62247f913996c733c1253347893171116ddf7caf2c54e59419",
+      "paragraphs": 293,
+      "tables": 0,
+      "text_nodes": 291,
+      "text_characters": 10987,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "f50d45b7f4c24a93e94a39aedbcb9c046f348732401e1bfb844b8094e2a94870"
+    },
+    {
+      "id": "102",
+      "title": "支气管哮喘支气管扩张及其他慢性气道疾病模板库",
+      "asset": "assets/102_支气管哮喘支气管扩张及其他慢性气道疾病模板库.docx",
+      "reference": "references/102_支气管哮喘支气管扩张及其他慢性气道疾病模板库.md",
+      "asset_sha256": "c6d0748a1bf7eee93170da770fe4c2d71766da8349efc0d0ba779e9fff001bb8",
+      "reference_sha256": "1e215054679dc13fe53fc16662ec925632f3f9b2d9b060da54041459f1bc4575",
+      "paragraphs": 397,
+      "tables": 0,
+      "text_nodes": 395,
+      "text_characters": 12520,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "3240b3e279bb86fef7d5e264deb424aae8d0cd1aac842a30c8d5ef7263bc8b0f"
+    },
+    {
+      "id": "103",
+      "title": "肺炎肺结核及其他呼吸系统感染性疾病模板库",
+      "asset": "assets/103_肺炎肺结核及其他呼吸系统感染性疾病模板库.docx",
+      "reference": "references/103_肺炎肺结核及其他呼吸系统感染性疾病模板库.md",
+      "asset_sha256": "5915f182198c36005598a4bab7b85375c418d9b5999da84d85c6810706dc0804",
+      "reference_sha256": "7dee1b6ee2776e23ce63e7610ef944307fbd65bdf02ba0374f1af9bd95a28d77",
+      "paragraphs": 630,
+      "tables": 0,
+      "text_nodes": 628,
+      "text_characters": 19649,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "863508f86cf9e5660ec2df549f9d8559b9c7865ed128ad3f2f37292774233524"
+    },
+    {
+      "id": "104",
+      "title": "肺结节肺癌及纵隔相关疾病专病模板库",
+      "asset": "assets/104_肺结节肺癌及纵隔相关疾病专病模板库.docx",
+      "reference": "references/104_肺结节肺癌及纵隔相关疾病专病模板库.md",
+      "asset_sha256": "e5c3285f4844e5aea50fbe7d34e4505842a397d0e06ae6fdd5f7e05aa55c7fce",
+      "reference_sha256": "869f282f31912c76f2031f81b9e0a239e47957ceea2309c472cd02271829f47c",
+      "paragraphs": 288,
+      "tables": 0,
+      "text_nodes": 286,
+      "text_characters": 9264,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "42641cb443cee47db05d195a4bc3e13e3110e2e903caae7ad1b4e21092935656"
+    },
+    {
+      "id": "105",
+      "title": "间质性肺疾病肺纤维化及职业性肺疾病模板库",
+      "asset": "assets/105_间质性肺疾病肺纤维化及职业性肺疾病模板库.docx",
+      "reference": "references/105_间质性肺疾病肺纤维化及职业性肺疾病模板库.md",
+      "asset_sha256": "2e9b969712ef806eb4f2933ea4eef9b95c75cac692d769ef294ff9daaae7d966",
+      "reference_sha256": "01a5623f2c4031c8e643dcdc188048d6364c9f9e654ec91cdefdc12336890979",
+      "paragraphs": 400,
+      "tables": 0,
+      "text_nodes": 398,
+      "text_characters": 12640,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "3d7c4c3ce66ae85351690c49408d2b0a55303b6dd5ae75b83f8fdc6ee961f78f"
+    },
+    {
+      "id": "106",
+      "title": "肺栓塞肺动脉高压肺血管病及咯血专病模板库",
+      "asset": "assets/106_肺栓塞肺动脉高压肺血管病及咯血专病模板库.docx",
+      "reference": "references/106_肺栓塞肺动脉高压肺血管病及咯血专病模板库.md",
+      "asset_sha256": "c4f4b3d883e85a2884de6cf74112bfc3a0f698e959d055aebb0a31cdc5973a55",
+      "reference_sha256": "1e3fee76e6507f9cce254049f891b440bcee6d98d539653c207f85110873ed0f",
+      "paragraphs": 401,
+      "tables": 0,
+      "text_nodes": 399,
+      "text_characters": 12641,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "1126a80079fc57337b3f1179ea46cf98f36553463e4a9e0949f7b15c8ed299d7"
+    },
+    {
+      "id": "107",
+      "title": "胸膜疾病胸腔积液气胸及胸膜介入专病模板库",
+      "asset": "assets/107_胸膜疾病胸腔积液气胸及胸膜介入专病模板库.docx",
+      "reference": "references/107_胸膜疾病胸腔积液气胸及胸膜介入专病模板库.md",
+      "asset_sha256": "838d12acd949a98e9860ef9bb6b5b8d6a908b582ff88a792d09da78d9be54907",
+      "reference_sha256": "e4973bebea530091924fedc27712ea570a512120799d1a75159844eb783a1173",
+      "paragraphs": 509,
+      "tables": 0,
+      "text_nodes": 507,
+      "text_characters": 14461,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "d0b80dc96a88779d4c11855bdb703eed339d254fed59b4392b56937af98f8c31"
+    },
+    {
+      "id": "108",
+      "title": "睡眠呼吸障碍慢性呼吸衰竭及复杂特殊肺疾病模板库",
+      "asset": "assets/108_睡眠呼吸障碍慢性呼吸衰竭及复杂特殊肺疾病模板库.docx",
+      "reference": "references/108_睡眠呼吸障碍慢性呼吸衰竭及复杂特殊肺疾病模板库.md",
+      "asset_sha256": "ca93fe55e93e4140729e1d7d115340023ae362f568e7d328d63814c4c498e0b7",
+      "reference_sha256": "d3ed2a4b2a74a05b4d8403cda8afc515e475770aa0ed5ef014ad5eadda0e985d",
+      "paragraphs": 399,
+      "tables": 0,
+      "text_nodes": 397,
+      "text_characters": 12510,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "b581b318e2583584a4ace99178e2acbd96a65b4483b1d0171fe16050c760b61c"
+    }
+  ]
+}

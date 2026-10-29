@@ -1,0 +1,369 @@
+{
+  "skill_name": "general-surgery-inpatient-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-27",
+  "source_folder": "普外科（肝胆胰脾胃肠肛肠）AI病历书写系统V2.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "普外科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_普外科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_普外科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "9c135c02c229be55b721c122eccd3b8edf645e19e3ba87f02052f091a078e541",
+      "reference_sha256": "d046584d2aa4837471533fc27e1e7324683c1f83206ba20bf3ff155b01a960cc",
+      "paragraphs": 249,
+      "tables": 0,
+      "text_nodes": 251,
+      "text_characters": 9826,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "746cd09a7603f0ed13ab1eb691fe37a339c5c95af6376e4af5133b06b6fd373f"
+    },
+    {
+      "id": "01",
+      "title": "普外科病历书写助手最高执行指令",
+      "asset": "assets/01_普外科病历书写助手最高执行指令.docx",
+      "reference": "references/01_普外科病历书写助手最高执行指令.md",
+      "asset_sha256": "57ab21329037f839e59c74ee3d49a3862900ff36d22168c65684e9327d2acb61",
+      "reference_sha256": "108da27bc62f68f630c9fc8764e3f6670d786513c1cc340359231b0d829c68e2",
+      "paragraphs": 67,
+      "tables": 0,
+      "text_nodes": 69,
+      "text_characters": 4010,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "d76edf8251acbe35b30d2ec1eb3b80030f6ed76e026b0abdc6d523505173c5b3"
+    },
+    {
+      "id": "02",
+      "title": "普外科基础医学文书与通用病程模板库",
+      "asset": "assets/02_普外科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_普外科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "17489d9cf2eca8a65e637df29a2ca47cfda81ec8926609248c6b3ac1936f8c12",
+      "reference_sha256": "12c34929208b11b4e775e1a44eb53f57ece6ae99aa7f229d5017fa24d7a7550c",
+      "paragraphs": 379,
+      "tables": 0,
+      "text_nodes": 381,
+      "text_characters": 13503,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "db13842a3fd73baee2a5217d73adb8ea00d4fd4ec4cc863e17564e84d4131f94"
+    },
+    {
+      "id": "03",
+      "title": "普外科专科检查与腹部体格检查模板库",
+      "asset": "assets/03_普外科专科检查与腹部体格检查模板库.docx",
+      "reference": "references/03_普外科专科检查与腹部体格检查模板库.md",
+      "asset_sha256": "578cd8d48341840d77ff44a4a2985d4b41c88a8c2aad93b75ed40e3ed5125534",
+      "reference_sha256": "407a202bfe757f9f53aeda38d057b9ff7f6f41af745bac735758a8b0e253bc12",
+      "paragraphs": 162,
+      "tables": 0,
+      "text_nodes": 164,
+      "text_characters": 4960,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "4da6bf4072ad26795d023fa0d177a9661a39525b26b04c7986b8bf4ba3770d01"
+    },
+    {
+      "id": "04",
+      "title": "普外科检验影像内镜病理及特殊检查结果分析模板库",
+      "asset": "assets/04_普外科检验影像内镜病理及特殊检查结果分析模板库.docx",
+      "reference": "references/04_普外科检验影像内镜病理及特殊检查结果分析模板库.md",
+      "asset_sha256": "9ba05e81b7a6d61f2479af16cfbf2b3f19d84a97ba8b0e3a0dda5e13ae41998a",
+      "reference_sha256": "3a891055a08bae6bd8a3863cf96ac1ee59375c14459a342c82348e1a95e6b41c",
+      "paragraphs": 174,
+      "tables": 0,
+      "text_nodes": 176,
+      "text_characters": 6662,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "e5c6b6205f70ef0920baba7b8656c9e2130c86839f9db5313422c8c8c267ed08"
+    },
+    {
+      "id": "05",
+      "title": "普外科高频术式与围手术期医学文书模板库",
+      "asset": "assets/05_普外科高频术式与围手术期医学文书模板库.docx",
+      "reference": "references/05_普外科高频术式与围手术期医学文书模板库.md",
+      "asset_sha256": "666af04b090ed5f4b27c9e19e1696d607ce9ba0dcb58711796c3fc820dabd244",
+      "reference_sha256": "5c80810ef884347ee7dfcce5e5d555bcfcf42adc83220c7043afda918f0b503d",
+      "paragraphs": 4492,
+      "tables": 0,
+      "text_nodes": 4494,
+      "text_characters": 122220,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "a5cdcbc68367561e1ab30cf35f9d1b0b68d4e3e79bf74fe13bf422b610f20dcd"
+    },
+    {
+      "id": "06",
+      "title": "普外科术后并发症异常病情及危急重症病程模板库",
+      "asset": "assets/06_普外科术后并发症异常病情及危急重症病程模板库.docx",
+      "reference": "references/06_普外科术后并发症异常病情及危急重症病程模板库.md",
+      "asset_sha256": "4f60ab8abd6fb04ec15a9991fb83f209f5f69315fb643147fd15be63d1307631",
+      "reference_sha256": "25ce63106101ff0e6d48a915d48e455d6626e20afa05f0405b0eb7757e85d320",
+      "paragraphs": 471,
+      "tables": 0,
+      "text_nodes": 473,
+      "text_characters": 18552,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "a5af984ee61bfc2cda4f0aae7256970d60c6b3d8c2712f2efa3f661b9151b131"
+    },
+    {
+      "id": "07",
+      "title": "普外科治疗决策围手术期用药及医嘱表达规则库",
+      "asset": "assets/07_普外科治疗决策围手术期用药及医嘱表达规则库.docx",
+      "reference": "references/07_普外科治疗决策围手术期用药及医嘱表达规则库.md",
+      "asset_sha256": "74ab7b880066679b2ebeae9dcc4d70c8b21150b2d2779dfe34e2de83600da9ff",
+      "reference_sha256": "5a84fd2f56dd19c04a3c665c3cca735ff6c744313be8bd9608bf8f9711574f67",
+      "paragraphs": 190,
+      "tables": 0,
+      "text_nodes": 192,
+      "text_characters": 7381,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "6d6f20a05980140922ff054d18b4be4d02b6c11a4f407f66390a6550b5042c3b"
+    },
+    {
+      "id": "08",
+      "title": "普外科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_普外科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_普外科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "e5572e44647daf500a51d5de9451fb3c10101efdb039527f4ff0488ff8228e07",
+      "reference_sha256": "58b588ed1c0f47022006aadd22d88eaa6046c0d382f6ac00841596426cf0e8cd",
+      "paragraphs": 347,
+      "tables": 0,
+      "text_nodes": 349,
+      "text_characters": 14076,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "0a8d3c130fca17f10ed4947047608d72416e25316dd776b1ae4283e056c56aa3"
+    },
+    {
+      "id": "09",
+      "title": "普外科术后恢复营养管道造口及出院随访模板库",
+      "asset": "assets/09_普外科术后恢复营养管道造口及出院随访模板库.docx",
+      "reference": "references/09_普外科术后恢复营养管道造口及出院随访模板库.md",
+      "asset_sha256": "156dd3fdb0af1be9a8d17e57e384e67ed15e43a3a373387610ad78968a23dcb6",
+      "reference_sha256": "26adc1d254c3df8c67d202335a570f076f15b6900f98fb9da141d97b6162248f",
+      "paragraphs": 142,
+      "tables": 0,
+      "text_nodes": 144,
+      "text_characters": 5256,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "4cec9ea52d208a944a0d144676486610caf6921fca51f3485349fd6f0de25f7f"
+    },
+    {
+      "id": "10",
+      "title": "普外科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_普外科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_普外科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "2b2d89976fb75ae62124eed58b9a62828657b8f153a2cd1890c67192ae5f1143",
+      "reference_sha256": "09fa9b0f153d75864de653d02ae38b7191bf0dd3e4cf2eae51204a09f970eb7f",
+      "paragraphs": 637,
+      "tables": 0,
+      "text_nodes": 639,
+      "text_characters": 21916,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "b46f0f30999cb490e8ae49f044157395e8afbc2d80ba405506872a5161e5675e"
+    },
+    {
+      "id": "11",
+      "title": "普外科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_普外科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_普外科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "f998303ee09b0e0adbe323e6ab685bc463c810542c72a17dbcda86c8f4c83a79",
+      "reference_sha256": "6aa250b3f75f0075dd62fc20c816b5c462081ff7ffa53d1395ddf9ba36e02f00",
+      "paragraphs": 75,
+      "tables": 0,
+      "text_nodes": 77,
+      "text_characters": 4437,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "9aeae43a50edb4f2d24d138e37aa3947b74f7856e0d9dc0fef9b567f7ab0750d"
+    },
+    {
+      "id": "101",
+      "title": "肝脏外科专病模板库",
+      "asset": "assets/101_肝脏外科专病模板库.docx",
+      "reference": "references/101_肝脏外科专病模板库.md",
+      "asset_sha256": "b0b12fff2dd92971f63dee27f11f39fc750754fedc1ada2fb85ab870e96e6297",
+      "reference_sha256": "e302f6385fb173823054245621303058371eed1ad9a3fbd743349ef756cf7563",
+      "paragraphs": 550,
+      "tables": 0,
+      "text_nodes": 552,
+      "text_characters": 21111,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "df7e6621674a800d6f97ab063d63a7640a79c7ac215e7472382ea90cbca1fda3"
+    },
+    {
+      "id": "102",
+      "title": "胆囊胆道外科专病模板库",
+      "asset": "assets/102_胆囊胆道外科专病模板库.docx",
+      "reference": "references/102_胆囊胆道外科专病模板库.md",
+      "asset_sha256": "6a193a581ad45964974b7e909ceb480f39378a01b0a8680dc2275d6d24371042",
+      "reference_sha256": "4e871302edeabcb21572360178c291ef996fc4fb1059acfe013d46976d475803",
+      "paragraphs": 553,
+      "tables": 0,
+      "text_nodes": 555,
+      "text_characters": 20880,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "66adb7f7e0a13aaf9f9fb9c513af733dbb0a4095b148eae5e0390c7708b8baf1"
+    },
+    {
+      "id": "103",
+      "title": "胰腺外科专病模板库",
+      "asset": "assets/103_胰腺外科专病模板库.docx",
+      "reference": "references/103_胰腺外科专病模板库.md",
+      "asset_sha256": "64e826a2bffb230b8001ecf05e9d166904b6a51393a1371321924d498a904c6d",
+      "reference_sha256": "f7140589cd7a20163efa5c8f1c1bb3738c35056e74a45bb0b370d3b43959d9df",
+      "paragraphs": 498,
+      "tables": 0,
+      "text_nodes": 500,
+      "text_characters": 19886,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "5158718afcfecc3b679ba8fa276dcdc0cf8498e6cd556203bbba581062c735b8"
+    },
+    {
+      "id": "104",
+      "title": "脾脏外科及门静脉高压相关外科专病模板库",
+      "asset": "assets/104_脾脏外科及门静脉高压相关外科专病模板库.docx",
+      "reference": "references/104_脾脏外科及门静脉高压相关外科专病模板库.md",
+      "asset_sha256": "72719e2076907a6856012dd5c55602a5131a41b918f9b7291ab79811afa53050",
+      "reference_sha256": "f3f72f3a7875e4eb5084afb2ac3d12b6dc222ccc9c71994b97f9b247f10d98e7",
+      "paragraphs": 402,
+      "tables": 0,
+      "text_nodes": 404,
+      "text_characters": 15593,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "66498ed16f72947f2c86cdd89e8e4f29064fddd8c0ffce94f6134b1c9376a9b5"
+    },
+    {
+      "id": "105",
+      "title": "胃与十二指肠外科专病模板库",
+      "asset": "assets/105_胃与十二指肠外科专病模板库.docx",
+      "reference": "references/105_胃与十二指肠外科专病模板库.md",
+      "asset_sha256": "1826fa58a39c3513bbb0ac8939d40b03af0f302e9472d6a87798206636e68004",
+      "reference_sha256": "2d05f134cf6966c0782bde5cb4e376c007e2d683a0121f5c86eee34c17cc1003",
+      "paragraphs": 476,
+      "tables": 0,
+      "text_nodes": 478,
+      "text_characters": 17983,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "052c69e946ca1b027f9250c5c797b5c845833f1415a875e95d9d02ba74e7daf3"
+    },
+    {
+      "id": "106",
+      "title": "小肠结肠外科专病模板库",
+      "asset": "assets/106_小肠结肠外科专病模板库.docx",
+      "reference": "references/106_小肠结肠外科专病模板库.md",
+      "asset_sha256": "b1216f8a9dbb923702167d723a29c74ba2ad275497211991aacff90a10bff5da",
+      "reference_sha256": "e2d7fef752d9cc0ba2cbb63087439d4cf9d53e585e3c9f6e4086df8d271bf121",
+      "paragraphs": 564,
+      "tables": 0,
+      "text_nodes": 566,
+      "text_characters": 21409,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "47ee18eeefbc310fd2f6cf0d2dcaffac0a0ead5d3bf419f6796370231a822d09"
+    },
+    {
+      "id": "107",
+      "title": "直肠肛管及肛周疾病专病模板库",
+      "asset": "assets/107_直肠肛管及肛周疾病专病模板库.docx",
+      "reference": "references/107_直肠肛管及肛周疾病专病模板库.md",
+      "asset_sha256": "4fbb532279439cc4b3c945b7fe635d98274d19d046fd0e630a901fe3e71757e8",
+      "reference_sha256": "b992dfe1de13054478a608dbda6e0312e1f5c3ef902b8f00c28c3ed5803199dd",
+      "paragraphs": 564,
+      "tables": 0,
+      "text_nodes": 566,
+      "text_characters": 21421,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "c14194cd495aba0af0a4684820c7d38ce93f74d6547379b928209516117a0d07"
+    },
+    {
+      "id": "108",
+      "title": "普外科急腹症疝腹壁与腹部创伤专病模板库",
+      "asset": "assets/108_普外科急腹症疝腹壁与腹部创伤专病模板库.docx",
+      "reference": "references/108_普外科急腹症疝腹壁与腹部创伤专病模板库.md",
+      "asset_sha256": "f118cc775b5337964dd4a8239b15ad0725de834e77ade41df3d2004d374cd095",
+      "reference_sha256": "5f618ed06f7d2d931f4cf4b00774e7cc6514d9937d30f29b6aa9296a8c2259b8",
+      "paragraphs": 561,
+      "tables": 0,
+      "text_nodes": 563,
+      "text_characters": 21177,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "3e1ed449dbf8e00df3932f05d6b8a6d4303130176418eee9d278a9da8d4eb505"
+    }
+  ]
+}
