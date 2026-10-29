@@ -2,6 +2,8 @@
 
 本公开仓库按科室独立组织。每个 `departments/<科室标识>/` 含完整的 `skill/` 与原始 `plugin.zip`；修改、选择或复制某科室时无需改动其他目录。
 
+## 科室目录（共13科）
+
 | 科室 | 独立目录 | 精确调用名称 |
 |---|---|---|
 | 骨科 | [`write-orthopedic-medical-records`](departments/write-orthopedic-medical-records/) | `$write-orthopedic-medical-records` |
@@ -14,7 +16,6 @@
 | 消化内科（含胃肠镜） | [`gastroenterology-inpatient-records`](departments/gastroenterology-inpatient-records/) | `$gastroenterology-inpatient-records` |
 | 普外科（肝胆胰脾胃肠肛肠） | [`general-surgery-inpatient-records`](departments/general-surgery-inpatient-records/) | `$general-surgery-inpatient-records` |
 | 普外科（甲状腺甲旁腺乳腺） | [`thyroid-breast-surgery-records`](departments/thyroid-breast-surgery-records/) | `$thyroid-breast-surgery-records` |
-
 | 肾内科 | [`nephrology-inpatient-records`](departments/nephrology-inpatient-records/) | `$nephrology-inpatient-records` |
 | 泌尿外科 | [`urology-inpatient-records`](departments/urology-inpatient-records/) | `$urology-inpatient-records` |
 | 麻醉科 | [`anesthesiology-medical-records`](departments/anesthesiology-medical-records/) | `$anesthesiology-medical-records` |
