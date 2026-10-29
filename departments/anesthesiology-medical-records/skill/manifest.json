@@ -1,0 +1,389 @@
+{
+  "skill_name": "anesthesiology-medical-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-29",
+  "source_folder": "麻醉科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "麻醉科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_麻醉科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_麻醉科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "981b13a110ac62707c11dbabb0141888a4ffeb4e60bf6c3296deb32616cbda5f",
+      "reference_sha256": "961d6a7942204793db2ff9c721c37927e38d8074939914b7cbfe0eea4841e72f",
+      "paragraphs": 209,
+      "tables": 2,
+      "text_nodes": 207,
+      "text_characters": 6745,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "c6fd9d4c21beb95e5bdc971203b2ca0509273a06c7fdffb1cd68722ed82d1abd"
+    },
+    {
+      "id": "01",
+      "title": "麻醉科病历书写助手最高执行指令",
+      "asset": "assets/01_麻醉科病历书写助手最高执行指令.docx",
+      "reference": "references/01_麻醉科病历书写助手最高执行指令.md",
+      "asset_sha256": "29207ee8c35e756a6d63b497b9e400907b8e828ea68619fa64e319ed90572129",
+      "reference_sha256": "b29a8c12eed14aa3803c5e0f31c4fd75b934e5ae7a55a61cce7d276d4e62a8b0",
+      "paragraphs": 95,
+      "tables": 0,
+      "text_nodes": 95,
+      "text_characters": 4525,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "5ce7d2c8905b825259c362f6110e7a1f8cdb02a1f0b4b06539f28b6ede311c70"
+    },
+    {
+      "id": "02",
+      "title": "麻醉科基础医学文书术前访视及通用记录模板库",
+      "asset": "assets/02_麻醉科基础医学文书术前访视及通用记录模板库.docx",
+      "reference": "references/02_麻醉科基础医学文书术前访视及通用记录模板库.md",
+      "asset_sha256": "37cbaf0e1d30fd67d3c1ec9998f6947c5c2ad2f25605f8586636fdb3bf77b556",
+      "reference_sha256": "65ee8f6f3375176f413b45e6bfaa9d1d1d64c5fe1c11f1e6c79cadf9455a21ff",
+      "paragraphs": 336,
+      "tables": 0,
+      "text_nodes": 336,
+      "text_characters": 15542,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "b65aa372f07e2baef77d809e7e7e6ff37bfd187efce37f43781ce349c6b00682"
+    },
+    {
+      "id": "03",
+      "title": "麻醉术前评估气道检查与围手术期风险分层模板库",
+      "asset": "assets/03_麻醉术前评估气道检查与围手术期风险分层模板库.docx",
+      "reference": "references/03_麻醉术前评估气道检查与围手术期风险分层模板库.md",
+      "asset_sha256": "4e2562da2979121bd6cb10eeb53a194409511d53050b6b5fffddd12965eb9e14",
+      "reference_sha256": "a21b5a5e1bd140a56a8ebe1fa2b3a9de389dd6a70847f9a8278675f34cb16c61",
+      "paragraphs": 173,
+      "tables": 1,
+      "text_nodes": 172,
+      "text_characters": 9784,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "de532870884fd37cdab676dbeaf93c316adadd8d0aea250f85a1b5b673ccbffb"
+    },
+    {
+      "id": "04",
+      "title": "麻醉科检验心肺功能监测血气及特殊检查分析模板库",
+      "asset": "assets/04_麻醉科检验心肺功能监测血气及特殊检查分析模板库.docx",
+      "reference": "references/04_麻醉科检验心肺功能监测血气及特殊检查分析模板库.md",
+      "asset_sha256": "d4da7e3372eb2bac4f8258e8ad5ec07a8c2f334b772720195928437112a88ea9",
+      "reference_sha256": "2af03a543d875a6ef2d993b6219ddba5a97ec94b1338791cc344d90354a18e01",
+      "paragraphs": 163,
+      "tables": 0,
+      "text_nodes": 163,
+      "text_characters": 10947,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "8f8fec70743b60a11745189fc6b6a6cce98c9c9ddcf43b66e7308f15c956488f"
+    },
+    {
+      "id": "05",
+      "title": "麻醉技术实施气道操作术中记录及围麻醉期文书模板库",
+      "asset": "assets/05_麻醉技术实施气道操作术中记录及围麻醉期文书模板库.docx",
+      "reference": "references/05_麻醉技术实施气道操作术中记录及围麻醉期文书模板库.md",
+      "asset_sha256": "66a3471be91606c6e7da2412f8be939bed2b0e4fed7b9bc2d155fd7012415cda",
+      "reference_sha256": "0e22bb36ff7c47ba0fe9ff081255937d98ba0838c2d6b69c032418f2dabd7018",
+      "paragraphs": 574,
+      "tables": 0,
+      "text_nodes": 574,
+      "text_characters": 14576,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "77505c76663c8ac710fa6e1fdc5ccdce2a0c5fb8eec56dd9420766bf1a815bf9"
+    },
+    {
+      "id": "06",
+      "title": "麻醉危急事件异常病情及麻醉相关并发症病程模板库",
+      "asset": "assets/06_麻醉危急事件异常病情及麻醉相关并发症病程模板库.docx",
+      "reference": "references/06_麻醉危急事件异常病情及麻醉相关并发症病程模板库.md",
+      "asset_sha256": "af777a3a46500c9c724d9974c3434ad68cce97ea00a5eea00450e1212175f7a4",
+      "reference_sha256": "16cfa9c8461a344bc34926f9690f35270c1db1382aa20f24c340254e5a544ea4",
+      "paragraphs": 312,
+      "tables": 0,
+      "text_nodes": 312,
+      "text_characters": 14752,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "0beaccd4f9ec414b3d94112f4466df0a3a76bbe148bb52562bad70acd5c5669d"
+    },
+    {
+      "id": "07",
+      "title": "麻醉药物输液输血呼吸循环管理及医嘱表达规则库",
+      "asset": "assets/07_麻醉药物输液输血呼吸循环管理及医嘱表达规则库.docx",
+      "reference": "references/07_麻醉药物输液输血呼吸循环管理及医嘱表达规则库.md",
+      "asset_sha256": "26b65dce5c079d4e2113b98f33ff4094702d0be2fcd5884b69a0c6a6c2e6295b",
+      "reference_sha256": "495c1c33e8c2dfc888cb4de191cd18b6c7f757f123a36c32be5aac1d63e840fb",
+      "paragraphs": 142,
+      "tables": 1,
+      "text_nodes": 141,
+      "text_characters": 8390,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "a366327cfa9e7c2fd6b6d985a8fa1b57d02441571c6cbe1ae82506ad0060bfea"
+    },
+    {
+      "id": "08",
+      "title": "麻醉科三级医师评估查房及重大麻醉决策模板库",
+      "asset": "assets/08_麻醉科三级医师评估查房及重大麻醉决策模板库.docx",
+      "reference": "references/08_麻醉科三级医师评估查房及重大麻醉决策模板库.md",
+      "asset_sha256": "1d77b5e10b15f06c0f831061f20b112f88478f7e0abed61d29ab715f6a846fff",
+      "reference_sha256": "bbe8da7f14b692203d72ad6c579c531cba5541217b8964a3b57dba03873231f3",
+      "paragraphs": 335,
+      "tables": 0,
+      "text_nodes": 335,
+      "text_characters": 12830,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ff4bf8de0adf74c6c9d782548d304c2bba33c7966f489213abb1db1e65f10f3c"
+    },
+    {
+      "id": "09",
+      "title": "麻醉后恢复室术后镇痛麻醉随访及交接管理模板库",
+      "asset": "assets/09_麻醉后恢复室术后镇痛麻醉随访及交接管理模板库.docx",
+      "reference": "references/09_麻醉后恢复室术后镇痛麻醉随访及交接管理模板库.md",
+      "asset_sha256": "71793e47c9c417d64d1356515cf58aaf5ef6ce106a8655de26a543b5ea0201c5",
+      "reference_sha256": "fbb76c3f77ebb1082bfe0d7a639bcecd7c5f7725b8688952d3027cfbd705a438",
+      "paragraphs": 309,
+      "tables": 1,
+      "text_nodes": 308,
+      "text_characters": 12015,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "0c45b13d8ddc03c395337669f6d1bc752314a094925e1e7543c879d57e45f235"
+    },
+    {
+      "id": "10",
+      "title": "麻醉科病历最终质控事件时间轴及记录一致性审查库",
+      "asset": "assets/10_麻醉科病历最终质控事件时间轴及记录一致性审查库.docx",
+      "reference": "references/10_麻醉科病历最终质控事件时间轴及记录一致性审查库.md",
+      "asset_sha256": "9596c03c3eee4cbad7fbfc8d1b62be896bd60226bdd3cce31c0d32bf6f9f0fed",
+      "reference_sha256": "49aa6d0642fc74e6cf2d6bb4a39e514c488c476b3c5c8ee2621a0fcb1e73a9e9",
+      "paragraphs": 343,
+      "tables": 0,
+      "text_nodes": 343,
+      "text_characters": 16161,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "4d0050f2d7b5ee2e257505c088987def171b49dfd6830ce462e3e764be7351c2"
+    },
+    {
+      "id": "11",
+      "title": "麻醉科AI自动调用路由与麻醉病例状态管理规则库",
+      "asset": "assets/11_麻醉科AI自动调用路由与麻醉病例状态管理规则库.docx",
+      "reference": "references/11_麻醉科AI自动调用路由与麻醉病例状态管理规则库.md",
+      "asset_sha256": "7c02899f53e9d66f4091935615eb5a0816f707a847a92a96b8a8cbf00eab5915",
+      "reference_sha256": "1edc3c3b55fbc7cea3e1d8d735d4b5bb97857bba3a7ec51bf0797c75c4926b55",
+      "paragraphs": 226,
+      "tables": 3,
+      "text_nodes": 223,
+      "text_characters": 6074,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ee53881edfc9d8ca8447fc48f4f878a11bada95d9bc035b4f90d2d38eb43aae2"
+    },
+    {
+      "id": "101",
+      "title": "全身麻醉困难气道及呼吸管理专病技术模板库",
+      "asset": "assets/101_全身麻醉困难气道及呼吸管理专病技术模板库.docx",
+      "reference": "references/101_全身麻醉困难气道及呼吸管理专病技术模板库.md",
+      "asset_sha256": "4024d6d5ccc6475e820766683e4b8e1cc93e651ba91291119693394597e5314c",
+      "reference_sha256": "f6bcb135b480557e0c299119efec319c70b739708d8f635a01a3529fc14b8809",
+      "paragraphs": 542,
+      "tables": 0,
+      "text_nodes": 542,
+      "text_characters": 39580,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "7a4c9a9723f2301046145c142ee45169afe7701136a2da15e55df7babc1aed24"
+    },
+    {
+      "id": "102",
+      "title": "椎管内麻醉区域神经阻滞及局部麻醉技术模板库",
+      "asset": "assets/102_椎管内麻醉区域神经阻滞及局部麻醉技术模板库.docx",
+      "reference": "references/102_椎管内麻醉区域神经阻滞及局部麻醉技术模板库.md",
+      "asset_sha256": "891fe07be4b826e20c5f1c1225f8454f1a58f645c9222bf9169565bb17a35da2",
+      "reference_sha256": "d1575249b3a41e2fdcc4469015aed05d5c95645a40584644ca56d8f559d27b9d",
+      "paragraphs": 500,
+      "tables": 0,
+      "text_nodes": 500,
+      "text_characters": 35833,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ae2c56a23160a81d678b218c0a5d5a94ae5a019e9196b0d61d942b30fe79c542"
+    },
+    {
+      "id": "103",
+      "title": "心脏大血管胸科手术及高风险循环麻醉模板库",
+      "asset": "assets/103_心脏大血管胸科手术及高风险循环麻醉模板库.docx",
+      "reference": "references/103_心脏大血管胸科手术及高风险循环麻醉模板库.md",
+      "asset_sha256": "dcc9e59055ece93a419260fbb8a63c9de13ef4a49004776d3f647c9b90a9b771",
+      "reference_sha256": "c67090c20197f143152655710c29e6718483a0e970247ed2cb3243518ced2fd4",
+      "paragraphs": 482,
+      "tables": 0,
+      "text_nodes": 482,
+      "text_characters": 34346,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "f068874e69e1edd99858623881152f7beafac39268a508f618d01bd1dc78b961"
+    },
+    {
+      "id": "104",
+      "title": "神经外科脊柱手术及神经保护麻醉模板库",
+      "asset": "assets/104_神经外科脊柱手术及神经保护麻醉模板库.docx",
+      "reference": "references/104_神经外科脊柱手术及神经保护麻醉模板库.md",
+      "asset_sha256": "5ff823ed76e85b8d7beb7deadc2f9fd633804b55f91e2dc91e73d9998a3a7675",
+      "reference_sha256": "cb65f0cc2c6abdfd1c81bcab86a9f9f77fc693823bfb9be0b92ad96839ea55c4",
+      "paragraphs": 440,
+      "tables": 0,
+      "text_nodes": 440,
+      "text_characters": 30985,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ea1be9d2c46b8098f17e0853f298edf90a00ea35072bc33001710da55df3134d"
+    },
+    {
+      "id": "105",
+      "title": "产科妇科麻醉及围产期特殊麻醉模板库",
+      "asset": "assets/105_产科妇科麻醉及围产期特殊麻醉模板库.docx",
+      "reference": "references/105_产科妇科麻醉及围产期特殊麻醉模板库.md",
+      "asset_sha256": "99efc1ebd0b5b0158849b45e16696fdb646415b9757583106cfdcf312456ad0f",
+      "reference_sha256": "5fccb782b99b5c7445df16eaec28db77e8f97a11d9a19f8c2a8b15cb079bb2c6",
+      "paragraphs": 440,
+      "tables": 0,
+      "text_nodes": 440,
+      "text_characters": 30650,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ebd58f516dab6d6693f9b529ab19de2af782597029b29b1516fd46d21cdabc2b"
+    },
+    {
+      "id": "106",
+      "title": "小儿老年肥胖及特殊基础疾病患者麻醉模板库",
+      "asset": "assets/106_小儿老年肥胖及特殊基础疾病患者麻醉模板库.docx",
+      "reference": "references/106_小儿老年肥胖及特殊基础疾病患者麻醉模板库.md",
+      "asset_sha256": "02aef9860b91b180d00afaad665343a473203790da0cc020b5c40acb12a0e038",
+      "reference_sha256": "0061f72a2527d87f3dfd2c6e163011166ef634ff1a0451b9a48aa01dc4495bee",
+      "paragraphs": 486,
+      "tables": 0,
+      "text_nodes": 486,
+      "text_characters": 34619,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "46224d323387f7790bc20db00c8137d13f3c88958789ab426aaa97896ef56167"
+    },
+    {
+      "id": "107",
+      "title": "急诊创伤危重症麻醉及抢救复苏模板库",
+      "asset": "assets/107_急诊创伤危重症麻醉及抢救复苏模板库.docx",
+      "reference": "references/107_急诊创伤危重症麻醉及抢救复苏模板库.md",
+      "asset_sha256": "626b06ebba4f39456402af58ebec1421ccc9fd385ea1b7b17c8ed43652d11af2",
+      "reference_sha256": "8675f211b39d98d5795178f92ee63a6f96323ec8c2e7c26512971c641c9688c7",
+      "paragraphs": 466,
+      "tables": 0,
+      "text_nodes": 466,
+      "text_characters": 32858,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "1803b944d1d42506d21e4256c9277ee8e2b680d94f1480bc5a3b49ce1c666b0e"
+    },
+    {
+      "id": "108",
+      "title": "手术室外麻醉日间麻醉舒适化诊疗及特殊镇痛模板库",
+      "asset": "assets/108_手术室外麻醉日间麻醉舒适化诊疗及特殊镇痛模板库.docx",
+      "reference": "references/108_手术室外麻醉日间麻醉舒适化诊疗及特殊镇痛模板库.md",
+      "asset_sha256": "0aad99e0e45471f7e4b4684692668e3f465fc0c634841b2f03622acef9a373b4",
+      "reference_sha256": "94cdda39ca6c0dfdee289ed279118ea492052e15dbc5f79cb848b21080dc4039",
+      "paragraphs": 506,
+      "tables": 0,
+      "text_nodes": 506,
+      "text_characters": 35447,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "9bb22d21ad9a3fd6eb8ab14f4e5078e8ece495bc549accd83418511ecc0cb677"
+    }
+  ]
+}

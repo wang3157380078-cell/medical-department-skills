@@ -15,9 +15,13 @@
 | 普外科（肝胆胰脾胃肠肛肠） | [`general-surgery-inpatient-records`](departments/general-surgery-inpatient-records/) | `$general-surgery-inpatient-records` |
 | 普外科（甲状腺甲旁腺乳腺） | [`thyroid-breast-surgery-records`](departments/thyroid-breast-surgery-records/) | `$thyroid-breast-surgery-records` |
 
+| 肾内科 | [`nephrology-inpatient-records`](departments/nephrology-inpatient-records/) | `$nephrology-inpatient-records` |
+| 泌尿外科 | [`urology-inpatient-records`](departments/urology-inpatient-records/) | `$urology-inpatient-records` |
+| 麻醉科 | [`anesthesiology-medical-records`](departments/anesthesiology-medical-records/) | `$anesthesiology-medical-records` |
+
 ## 单独接入
 
-从目标目录下载 `plugin.zip`，按目标平台的插件安装流程导入；或将目标目录的 `skill/` 完整复制为相应环境的独立 Skill 目录，并以表中的名称明确调用。不能只复制 `SKILL.md`：它还引用本目录中的 `references/` 等文件。不同 AI 平台的安装和发现方式各异，GitHub 连接本身不会自动安装或执行 Skill。
+从目标目录下载 `plugin.zip`，按目标平台的插件安装流程导入；新增三科还提供单科 `skill.zip`；或将目标目录的 `skill/` 完整复制为相应环境的独立 Skill 目录，并以表中的名称明确调用。不能只复制 `SKILL.md`：它还引用本目录中的 `references/` 等文件。不同 AI 平台的安装和发现方式各异，GitHub 连接本身不会自动安装或执行 Skill。
 
 各科目录彼此独立，运行时只选择需要的科室；宿主 AI 的自动调用、上下文和其他已安装插件由宿主控制，不能保证所有平台绝不会调用其他技能。GitHub 的访问权限通常按仓库授予，并非按文件夹隔离；若不同使用者只能访问各自科室，应另建权限独立的仓库。
 

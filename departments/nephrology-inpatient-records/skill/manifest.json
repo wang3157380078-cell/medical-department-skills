@@ -1,0 +1,369 @@
+{
+  "skill_name": "nephrology-inpatient-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-29",
+  "source_folder": "肾内科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "肾内科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_肾内科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_肾内科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "dd7dd5703b3e45539053b8dfeedc03da3212d1364467a9b31742cc78171f429e",
+      "reference_sha256": "ccdea3ecfb9d10b6243fdbbc93df0dfcacf97accd1a54b32f5f98a41b13e329d",
+      "paragraphs": 138,
+      "tables": 0,
+      "text_nodes": 136,
+      "text_characters": 6680,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "c3b5866c2f9490a4a8e8c572e2e89a6b0552546db66b24f771d1b97adfaa1f0c"
+    },
+    {
+      "id": "01",
+      "title": "肾内科病历书写助手最高执行指令",
+      "asset": "assets/01_肾内科病历书写助手最高执行指令.docx",
+      "reference": "references/01_肾内科病历书写助手最高执行指令.md",
+      "asset_sha256": "04cd8b91884bb886fd17ad61e01bc66ff1c567d4924221162ab4b46fe63c2bff",
+      "reference_sha256": "3df8b55eb1f5cb06e3371eb88b4152b39ffafefa1ba919cf1fad3209884842f6",
+      "paragraphs": 123,
+      "tables": 0,
+      "text_nodes": 121,
+      "text_characters": 5123,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "747dc2849ca286605695e065a0dc1dd2da50b9c2c477413097106ba581e1ab55"
+    },
+    {
+      "id": "02",
+      "title": "肾内科基础医学文书与通用病程模板库",
+      "asset": "assets/02_肾内科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_肾内科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "7337271e67a57b90569ba9293027b3e46749ff4cdd2c7755564a953765c94424",
+      "reference_sha256": "af4aaedfd6c62b7cd3a143a42872ca1d1841f8ec115629f023221244f9eeae24",
+      "paragraphs": 434,
+      "tables": 0,
+      "text_nodes": 432,
+      "text_characters": 10420,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "9fe0abaf3d6bca890f9be7102d01b76ead4b037bd43bc3272202802f6db38774"
+    },
+    {
+      "id": "03",
+      "title": "肾内科专科查体尿液观察容量评估与肾功能评价模板库",
+      "asset": "assets/03_肾内科专科查体尿液观察容量评估与肾功能评价模板库.docx",
+      "reference": "references/03_肾内科专科查体尿液观察容量评估与肾功能评价模板库.md",
+      "asset_sha256": "acea989a4a6ba8b3069d3d07ad2f7b9d4645a7eeb356f22950bab24e1cdd2c3b",
+      "reference_sha256": "b38930fc55a33037308414ccc94112b3592d97c4c60861a572e4a31394f49e62",
+      "paragraphs": 106,
+      "tables": 0,
+      "text_nodes": 104,
+      "text_characters": 4686,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "601d4ccccb39c7c7923602e4066cf929253d50d2dec651d8f388f72eb01a6557"
+    },
+    {
+      "id": "04",
+      "title": "肾内科检验尿液肾功能影像肾脏病理及特殊检查分析模板库",
+      "asset": "assets/04_肾内科检验尿液肾功能影像肾脏病理及特殊检查分析模板库.docx",
+      "reference": "references/04_肾内科检验尿液肾功能影像肾脏病理及特殊检查分析模板库.md",
+      "asset_sha256": "a70e0383fb8ddf6c01a5edf35d8cc147442502a4be114d5e0ef66b29347a847d",
+      "reference_sha256": "fc232eaa2e4200f653fbee36f159cb34d3a0a52e507af0b814c95cd1db280a0c",
+      "paragraphs": 128,
+      "tables": 0,
+      "text_nodes": 126,
+      "text_characters": 5678,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "817ce018ee1c675f34e018e91b17163f808b3c1203ac55f9c5f303f865b81039"
+    },
+    {
+      "id": "05",
+      "title": "肾穿刺活检血液净化及肾脏诊疗操作医学文书模板库",
+      "asset": "assets/05_肾穿刺活检血液净化及肾脏诊疗操作医学文书模板库.docx",
+      "reference": "references/05_肾穿刺活检血液净化及肾脏诊疗操作医学文书模板库.md",
+      "asset_sha256": "807688ac082af4a44d62de07649e1d941b128d08f1eb8c24aed86427ce67df54",
+      "reference_sha256": "c97de3287ed28cdacdba96951081a55ea35faa60c15b1089b392ab32250c388c",
+      "paragraphs": 148,
+      "tables": 0,
+      "text_nodes": 146,
+      "text_characters": 5280,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "26056c26e90aea71e6eb80b87358ec6481828d8a11c41f9bdac8d95647076563"
+    },
+    {
+      "id": "06",
+      "title": "肾内科急危重症透析并发症及异常病情模板库",
+      "asset": "assets/06_肾内科急危重症透析并发症及异常病情模板库.docx",
+      "reference": "references/06_肾内科急危重症透析并发症及异常病情模板库.md",
+      "asset_sha256": "ebb7bd061be97b789ef0673861bfe652033e7b9c7e0a0eefca2eb91f523fa4ad",
+      "reference_sha256": "af3b195bfacc71d23c669599dbf58f6959640a1d7be462385aee58b6009c31d8",
+      "paragraphs": 125,
+      "tables": 0,
+      "text_nodes": 123,
+      "text_characters": 4880,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "cc09041a8f7dc13ca072f3c36bfb1d9bd8be8a6a231573b8c7de5f0370d14051"
+    },
+    {
+      "id": "07",
+      "title": "肾内科治疗决策肾脏保护药物透析处方及医嘱表达规则库",
+      "asset": "assets/07_肾内科治疗决策肾脏保护药物透析处方及医嘱表达规则库.docx",
+      "reference": "references/07_肾内科治疗决策肾脏保护药物透析处方及医嘱表达规则库.md",
+      "asset_sha256": "ced200e4ed47578f5042817f10251935135f14ae97d8fa9aefd3e1d09ce5a057",
+      "reference_sha256": "7800b83b7752a94a6d118300e47903ca95fe45ee137b6958aa3aab8c82073cbb",
+      "paragraphs": 122,
+      "tables": 0,
+      "text_nodes": 120,
+      "text_characters": 5638,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "4179289493f034d142a79fdf4f7e47a73fd95905902540ac6121bcb7b3369434"
+    },
+    {
+      "id": "08",
+      "title": "肾内科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_肾内科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_肾内科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "fdf27bb2e4250adb0673a3800f35927ddbec96c22733d99e351aaa301718f69a",
+      "reference_sha256": "c90928073076fb0ee5d4fca84fad0524cf7e6e7236724f19f4f99349f44a6b39",
+      "paragraphs": 145,
+      "tables": 0,
+      "text_nodes": 143,
+      "text_characters": 5927,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "3afa303bc4e12ba755963858d3e31e9ccff54a333469926a542696de963df69d"
+    },
+    {
+      "id": "09",
+      "title": "肾内科透析通路营养慢病管理出院及长期随访模板库",
+      "asset": "assets/09_肾内科透析通路营养慢病管理出院及长期随访模板库.docx",
+      "reference": "references/09_肾内科透析通路营养慢病管理出院及长期随访模板库.md",
+      "asset_sha256": "bb68dff7939d1d7f378de205579006b03e3f73b3c7172a8ada104b81db2f9412",
+      "reference_sha256": "9daa3632d03e5d7b8fa868dbca4fd0bd7a363dc5e063be3d7cf4ed629e9d722d",
+      "paragraphs": 175,
+      "tables": 0,
+      "text_nodes": 173,
+      "text_characters": 5953,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "e1adb6c37ec60d24142f513ad209c1d339e0ed3599726874f6ddd95f33f58aea"
+    },
+    {
+      "id": "10",
+      "title": "肾内科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_肾内科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_肾内科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "bb4365474bfed29f3659fba8be3078d5fd3749b3e82a801566757c0019660c0a",
+      "reference_sha256": "1902480ec5ed0898d520d0c20a0429f8db90ddbc70c6bce324ae28833402975b",
+      "paragraphs": 458,
+      "tables": 0,
+      "text_nodes": 456,
+      "text_characters": 15907,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "a37cd11a13f1002fcb43d64881763a8657f323708296ce752dc5fb782c53e16f"
+    },
+    {
+      "id": "11",
+      "title": "肾内科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_肾内科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_肾内科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "c1a3cee3b8a441e46a243de378e6dae19c3985e69d0d48b9c2f4cc67424f496b",
+      "reference_sha256": "cc8c53b1839bc58855e3b8d2ca707104c054b2cdd194272820e04994f09b413c",
+      "paragraphs": 92,
+      "tables": 0,
+      "text_nodes": 90,
+      "text_characters": 3807,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "d868b39f0884c0925a65aef081ec833767824a393738537dc5407ea6872bdd8d"
+    },
+    {
+      "id": "101",
+      "title": "急性肾损伤急性肾脏病及肾功能急性恶化专病模板库",
+      "asset": "assets/101_急性肾损伤急性肾脏病及肾功能急性恶化专病模板库.docx",
+      "reference": "references/101_急性肾损伤急性肾脏病及肾功能急性恶化专病模板库.md",
+      "asset_sha256": "e20c79f0e52e00e2abc5f4a39944fed13869dffb2413a358fdc40269954e48be",
+      "reference_sha256": "86c85b263fd3cac6a29d35ab4766c6a7173bb629502b877e6a4b48a56897d720",
+      "paragraphs": 421,
+      "tables": 0,
+      "text_nodes": 419,
+      "text_characters": 12566,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "43edc160543b37c4366adb9826843c16db39f0a92fa9f35b21d806d354ec9a0d"
+    },
+    {
+      "id": "102",
+      "title": "慢性肾脏病肾衰竭及CKD相关并发症专病模板库",
+      "asset": "assets/102_慢性肾脏病肾衰竭及CKD相关并发症专病模板库.docx",
+      "reference": "references/102_慢性肾脏病肾衰竭及CKD相关并发症专病模板库.md",
+      "asset_sha256": "75132cb38b55789db8b01ac1aff7ec317d160f4bbf64ef3328132a373fcc9b2b",
+      "reference_sha256": "709307903717b48a7dd7fd8776b73ac4a91b8c355c5986b57fc31c5d18cfe09d",
+      "paragraphs": 428,
+      "tables": 0,
+      "text_nodes": 426,
+      "text_characters": 12692,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "a7743126d5cb5f4eb5874c29e276d2b1a3708e4b5b64e650251532eff7cac501"
+    },
+    {
+      "id": "103",
+      "title": "原发性肾小球疾病肾病综合征及肾穿刺病理模板库",
+      "asset": "assets/103_原发性肾小球疾病肾病综合征及肾穿刺病理模板库.docx",
+      "reference": "references/103_原发性肾小球疾病肾病综合征及肾穿刺病理模板库.md",
+      "asset_sha256": "6552fb5a615e7313dc416e93596978dd2ca54ef9a85b39e149aa2b67e2919368",
+      "reference_sha256": "feaf9283e7ae52f303e09d4278002def05f1e8f026a9d2972ca121fdbecb1f17",
+      "paragraphs": 418,
+      "tables": 0,
+      "text_nodes": 416,
+      "text_characters": 11950,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "8eea3cb88540f4e81971e42ff8fe3c132c45d164e8af2d31b37233d7aa8cabdc"
+    },
+    {
+      "id": "104",
+      "title": "继发性肾小球疾病糖尿病肾脏病及免疫性肾病模板库",
+      "asset": "assets/104_继发性肾小球疾病糖尿病肾脏病及免疫性肾病模板库.docx",
+      "reference": "references/104_继发性肾小球疾病糖尿病肾脏病及免疫性肾病模板库.md",
+      "asset_sha256": "dd9fa4c03270be415c81729d5dce833fe2cb22f5825dcf499302f8c02473d892",
+      "reference_sha256": "f0a500270cacc85cc865d4774918a785f808a2535176e79d9a0e0928099e02a5",
+      "paragraphs": 417,
+      "tables": 0,
+      "text_nodes": 415,
+      "text_characters": 12015,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "8366d19572c105b0efd62aca9d0712c42f2659b2865e8bdb175fde23651034e5"
+    },
+    {
+      "id": "105",
+      "title": "肾小管间质疾病遗传性肾病及肾血管疾病模板库",
+      "asset": "assets/105_肾小管间质疾病遗传性肾病及肾血管疾病模板库.docx",
+      "reference": "references/105_肾小管间质疾病遗传性肾病及肾血管疾病模板库.md",
+      "asset_sha256": "b87820f11878cfc2c23d8cb0fbf4db44b77924ca007e6209e571e53758de1a74",
+      "reference_sha256": "54427d89a7c76bafeed91641a60913f5e3e0f4bfd260bb008bfbe0240d435ed9",
+      "paragraphs": 422,
+      "tables": 0,
+      "text_nodes": 420,
+      "text_characters": 11854,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "d005b37a5eaf91ff67e4336c54ca8b2fcc430200ffc323e946c18069885bc8da"
+    },
+    {
+      "id": "106",
+      "title": "血液透析血管通路及连续性肾脏替代治疗专病模板库",
+      "asset": "assets/106_血液透析血管通路及连续性肾脏替代治疗专病模板库.docx",
+      "reference": "references/106_血液透析血管通路及连续性肾脏替代治疗专病模板库.md",
+      "asset_sha256": "10890352065a6a2191c9b572aeacec9b38ad778483925676589f7e05c9a6ef13",
+      "reference_sha256": "52d468605eb88f04828382aee76e4b33893438e52cd51382c481af76bebd8959",
+      "paragraphs": 429,
+      "tables": 0,
+      "text_nodes": 427,
+      "text_characters": 12127,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "5e08c240471cfc5101304609cc4cd6b4d4f89d7dfdb37e046ebf24a22dd46a6b"
+    },
+    {
+      "id": "107",
+      "title": "腹膜透析腹膜透析相关感染及长期管理专病模板库",
+      "asset": "assets/107_腹膜透析腹膜透析相关感染及长期管理专病模板库.docx",
+      "reference": "references/107_腹膜透析腹膜透析相关感染及长期管理专病模板库.md",
+      "asset_sha256": "4dd509e028f4a72a5d63a6e3f93f5295952656287602c4d85160e21dc50f3c78",
+      "reference_sha256": "dd9fdc1d800786b7e4fefb5297079111cf1ab211e39ee0e750464bcaf0f46eaf",
+      "paragraphs": 422,
+      "tables": 0,
+      "text_nodes": 420,
+      "text_characters": 11895,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "1e946867fdf9f0c521078f3a75d9cc47444e997af2fd72d01cb0107bfa20fc68"
+    },
+    {
+      "id": "108",
+      "title": "肾移植后内科管理特殊人群及复杂罕见肾病模板库",
+      "asset": "assets/108_肾移植后内科管理特殊人群及复杂罕见肾病模板库.docx",
+      "reference": "references/108_肾移植后内科管理特殊人群及复杂罕见肾病模板库.md",
+      "asset_sha256": "cebeb2fc3c4d734773dbf002d2c1153018c6ef174f0da7b92ccbc76352402793",
+      "reference_sha256": "d01374921d58dee9dff9ccf43188d9fd81769fe12187771e99561ac59ba353d5",
+      "paragraphs": 424,
+      "tables": 0,
+      "text_nodes": 422,
+      "text_characters": 12329,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "6dd1c68e634a797aeb183486358fe4cd6ef154ecc690594c4a145c312ff6d5bd"
+    }
+  ]
+}

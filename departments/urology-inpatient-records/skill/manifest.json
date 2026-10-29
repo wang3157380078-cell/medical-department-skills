@@ -1,0 +1,369 @@
+{
+  "skill_name": "urology-inpatient-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-29",
+  "source_folder": "泌尿外科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "泌尿外科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_泌尿外科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_泌尿外科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "0c00f82d967382b8e516f7379cbafec7b8659833a0fea5f8a1dca1b15c29a6c1",
+      "reference_sha256": "713b169bea04c89809c9d2c2b2ea4395b56264a5a68fafb69c16880ae2cad454",
+      "paragraphs": 156,
+      "tables": 0,
+      "text_nodes": 179,
+      "text_characters": 8515,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "ea95f2fdf5d289aa3108cb07f0494fb506e3276b8c577250e730086a1e0601bb"
+    },
+    {
+      "id": "01",
+      "title": "泌尿外科病历书写助手最高执行指令",
+      "asset": "assets/01_泌尿外科病历书写助手最高执行指令.docx",
+      "reference": "references/01_泌尿外科病历书写助手最高执行指令.md",
+      "asset_sha256": "2a033d941df42620d6c066beda352308b48e389af6c5a3ae2a48c3615e1e49ca",
+      "reference_sha256": "5b74d1bd83a5dfcce9c4b16f3e5b1f5027175553143f01c0a6e8a592a0aaff28",
+      "paragraphs": 92,
+      "tables": 0,
+      "text_nodes": 104,
+      "text_characters": 3199,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "1f4bd78315ed54b37ab48a8a754d0eb9027e6e2cc4319449c7c8e1b3e5098c45"
+    },
+    {
+      "id": "02",
+      "title": "泌尿外科基础医学文书与通用病程模板库",
+      "asset": "assets/02_泌尿外科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_泌尿外科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "a3dcb9254c3a608873b22973ee858e9db22e9bbab4eec9dbf5b6084aa2916e39",
+      "reference_sha256": "9d130e7883daff74526653bcd85d71095fa86151462a8760872bff6e85045515",
+      "paragraphs": 321,
+      "tables": 0,
+      "text_nodes": 369,
+      "text_characters": 7369,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "7f357fd0d1a1aaed5fef6bcc2f11a997a46f243e5965bc2e3acd536e4f0fad31"
+    },
+    {
+      "id": "03",
+      "title": "泌尿外科专科检查排尿功能与尿路评估模板库",
+      "asset": "assets/03_泌尿外科专科检查排尿功能与尿路评估模板库.docx",
+      "reference": "references/03_泌尿外科专科检查排尿功能与尿路评估模板库.md",
+      "asset_sha256": "c93647e78fe99843d121fb3ce1555d723d465492efbde36a0c9bfa440922bda0",
+      "reference_sha256": "1bdba66a60ff15f31be20bfcc1189aba0b211180e42c492831245e1a59407761",
+      "paragraphs": 217,
+      "tables": 0,
+      "text_nodes": 228,
+      "text_characters": 6087,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "30fefb6d0ad59f2818b890211d3b9a956c40b89f4579268974e25570fa24fb7a"
+    },
+    {
+      "id": "04",
+      "title": "泌尿外科检验影像内镜尿动力病理及特殊检查分析模板库",
+      "asset": "assets/04_泌尿外科检验影像内镜尿动力病理及特殊检查分析模板库.docx",
+      "reference": "references/04_泌尿外科检验影像内镜尿动力病理及特殊检查分析模板库.md",
+      "asset_sha256": "4d1ac724da8a82051325ff2ae83234e0acea041a1d4862a87491597f79edcac7",
+      "reference_sha256": "94c6356d7fa8ad81765364f5fad7c8aaa1fa9f70a52d4f4d6c9e8c8c123c8c20",
+      "paragraphs": 369,
+      "tables": 0,
+      "text_nodes": 423,
+      "text_characters": 10973,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "8ff24d097e38149d07ada1c1a7e0d51558d9693efd7c842761990470f5870d01"
+    },
+    {
+      "id": "05",
+      "title": "泌尿外科高频术式腔内微创及围手术期医学文书模板库",
+      "asset": "assets/05_泌尿外科高频术式腔内微创及围手术期医学文书模板库.docx",
+      "reference": "references/05_泌尿外科高频术式腔内微创及围手术期医学文书模板库.md",
+      "asset_sha256": "bae561e5b1cfe06d276fc55033514235f1dbade99916045ffd37c967c30ed465",
+      "reference_sha256": "37176d646cd3c839a62cdf59627448bc7bb196625101fdbc1208334d193f66a9",
+      "paragraphs": 3645,
+      "tables": 0,
+      "text_nodes": 3703,
+      "text_characters": 80492,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "aa301d3b674bb6fa06ff0cc434167d499e10dfca60a4c78c43af88a4334d409f"
+    },
+    {
+      "id": "06",
+      "title": "泌尿外科术后并发症异常病情及危急重症模板库",
+      "asset": "assets/06_泌尿外科术后并发症异常病情及危急重症模板库.docx",
+      "reference": "references/06_泌尿外科术后并发症异常病情及危急重症模板库.md",
+      "asset_sha256": "ff518346b22f1ecebdb080fcb9e2be703fc89c8c767792c69210e9e7a3113ede",
+      "reference_sha256": "132230bc5ed4ea6b3dcfdacf79cf51108b7040fe7ec2243b8d3963018d5c722d",
+      "paragraphs": 316,
+      "tables": 0,
+      "text_nodes": 363,
+      "text_characters": 9520,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "e5eb674a16f2c9dfe41018435921690c50939e81ed38e068a1b141557326545f"
+    },
+    {
+      "id": "07",
+      "title": "泌尿外科治疗决策围手术期用药及医嘱表达规则库",
+      "asset": "assets/07_泌尿外科治疗决策围手术期用药及医嘱表达规则库.docx",
+      "reference": "references/07_泌尿外科治疗决策围手术期用药及医嘱表达规则库.md",
+      "asset_sha256": "6d701718d0e6594aebc2dfc97b27367b20814c070ba069da5f68e59033cba942",
+      "reference_sha256": "b49ecb5bdcc6d1c9b1fcf99a2abc095cbedba2af46ef74a12d04ed62e7f94eca",
+      "paragraphs": 225,
+      "tables": 0,
+      "text_nodes": 263,
+      "text_characters": 7664,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "8f893fd50cc32e8994071042abe266fedb121bf17304482d7a1604aca35f0cde"
+    },
+    {
+      "id": "08",
+      "title": "泌尿外科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_泌尿外科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_泌尿外科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "f132a4387facc473a180b54a521af24263c77937bc3ee2c6313e65089e688780",
+      "reference_sha256": "3a1f41f513191b4f5737843e5483e9ed22b840ac317a16ae24cb746f9eca19a6",
+      "paragraphs": 474,
+      "tables": 0,
+      "text_nodes": 504,
+      "text_characters": 14796,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "e8fefa5a9fbd5fe8dfb7326c207567dafe9cf20b7e42989c53f9486d6ddc16d3"
+    },
+    {
+      "id": "09",
+      "title": "泌尿外科管道造口排尿康复及出院随访模板库",
+      "asset": "assets/09_泌尿外科管道造口排尿康复及出院随访模板库.docx",
+      "reference": "references/09_泌尿外科管道造口排尿康复及出院随访模板库.md",
+      "asset_sha256": "398010f4fad706ff76c87dc09a3c75747b3474051fd2d087c950fa3be64a97e9",
+      "reference_sha256": "c172889e7b1fafc91521ec80c6ab15d2bbacbffa26438f24e0399fbacb9aa579",
+      "paragraphs": 266,
+      "tables": 0,
+      "text_nodes": 305,
+      "text_characters": 7724,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "efa796e3b866453bf4f16802daa6f57cb9d15d5d2a3a9d565c8d6d7be10137b6"
+    },
+    {
+      "id": "10",
+      "title": "泌尿外科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_泌尿外科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_泌尿外科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "fad1d034437bbd984b9901494a83876a6614e148de6275619574e0e9d0b33c57",
+      "reference_sha256": "7d709738f3d65c754e159aac5780fc3e39ccb242d090cb9c3f205c6db8e69190",
+      "paragraphs": 500,
+      "tables": 0,
+      "text_nodes": 557,
+      "text_characters": 14718,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "2fd1ba1c1970830b0128536ea102b4faabe6bea71877471bb9478e3bde0995c1"
+    },
+    {
+      "id": "11",
+      "title": "泌尿外科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_泌尿外科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_泌尿外科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "7ec5f4c2bb84ee23c8cb3e77f492220abcf76cd7d97c5eb9355aedf57bb7ca65",
+      "reference_sha256": "d8af98459c77498a1e0f6444c3bdeb3715724a2f3c498469129ae7c9abdda0ce",
+      "paragraphs": 74,
+      "tables": 0,
+      "text_nodes": 87,
+      "text_characters": 3506,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "f02504cd28e02890097a8d6378304f4a4012a92c5b2091fa7031f2c0160b57bb"
+    },
+    {
+      "id": "101",
+      "title": "泌尿系结石尿路梗阻及肾积水专病模板库",
+      "asset": "assets/101_泌尿系结石尿路梗阻及肾积水专病模板库.docx",
+      "reference": "references/101_泌尿系结石尿路梗阻及肾积水专病模板库.md",
+      "asset_sha256": "6f8082f388fb89c6622c6575efe83360b5c8a216133662e3f9c32fd42ae02a18",
+      "reference_sha256": "7a8886811d39fe903e52a8f81a8510ad666096320a5e59d9f04454870b03be1c",
+      "paragraphs": 540,
+      "tables": 0,
+      "text_nodes": 554,
+      "text_characters": 16354,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "7150e6a7ba150d947f52274dad395309df950455d08ee7d0ce236d96d66e3dbe"
+    },
+    {
+      "id": "102",
+      "title": "良性前列腺增生下尿路症状及尿潴留专病模板库",
+      "asset": "assets/102_良性前列腺增生下尿路症状及尿潴留专病模板库.docx",
+      "reference": "references/102_良性前列腺增生下尿路症状及尿潴留专病模板库.md",
+      "asset_sha256": "bf64b0f4d0d8b0ed08e7bc737eda98cb955efae866ff2982d126f9310ef33ecc",
+      "reference_sha256": "e4283bdd89b01f8dcbd18de307b718fec32ad7e9f4d74ba0531c5c2883bd6291",
+      "paragraphs": 342,
+      "tables": 0,
+      "text_nodes": 354,
+      "text_characters": 10503,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "6e307c1a412499b54dc8a334f1340ce93ccd1cce02dc81b2628940f1754d9465"
+    },
+    {
+      "id": "103",
+      "title": "肾脏肾上腺及上尿路肿瘤专病模板库",
+      "asset": "assets/103_肾脏肾上腺及上尿路肿瘤专病模板库.docx",
+      "reference": "references/103_肾脏肾上腺及上尿路肿瘤专病模板库.md",
+      "asset_sha256": "55dfaddef4a74c286ff60874cb9d9ba9cebbb98c712172a4dd89e8054eb08288",
+      "reference_sha256": "24d381252079a404c5584c446f3c3c1fabc5e9ffdc0700cf5bbdec8dc89a5ac0",
+      "paragraphs": 448,
+      "tables": 0,
+      "text_nodes": 463,
+      "text_characters": 13385,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "44bb7c773737cc62f4bb06e1c1ceb4f0c0656e58dd8bc9fea4a46a8c516c8afb"
+    },
+    {
+      "id": "104",
+      "title": "膀胱肿瘤及尿路上皮癌专病模板库",
+      "asset": "assets/104_膀胱肿瘤及尿路上皮癌专病模板库.docx",
+      "reference": "references/104_膀胱肿瘤及尿路上皮癌专病模板库.md",
+      "asset_sha256": "b3dfbea19a0ef079e6ab0235bdcc4528da849ebcd5e74a6605c27bfd591029c5",
+      "reference_sha256": "b392378d746bf27481b48945d97122fbdc32e5667338409ea884a376dd3cba99",
+      "paragraphs": 350,
+      "tables": 0,
+      "text_nodes": 364,
+      "text_characters": 10844,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "aff986e9ccce7877a2aa5c167fcc2decbd74509824c895dc1ba0c5096c53491f"
+    },
+    {
+      "id": "105",
+      "title": "前列腺癌PSA异常及前列腺穿刺专病模板库",
+      "asset": "assets/105_前列腺癌PSA异常及前列腺穿刺专病模板库.docx",
+      "reference": "references/105_前列腺癌PSA异常及前列腺穿刺专病模板库.md",
+      "asset_sha256": "5c4c4c15f1646b83e65bd49e4b9e1b17168777b5752c7e81f1538a134a6cdd91",
+      "reference_sha256": "77b2e1eaee9d29ebce7dc905194dd5721c63ed93e6b03f7cd12400c95a64e27c",
+      "paragraphs": 348,
+      "tables": 0,
+      "text_nodes": 362,
+      "text_characters": 10684,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "295c7b17f8d1f5da90a3fb99246b29cc7849b72b96871917e410b356ead4f31a"
+    },
+    {
+      "id": "106",
+      "title": "泌尿系统感染炎症及尿源性脓毒症专病模板库",
+      "asset": "assets/106_泌尿系统感染炎症及尿源性脓毒症专病模板库.docx",
+      "reference": "references/106_泌尿系统感染炎症及尿源性脓毒症专病模板库.md",
+      "asset_sha256": "8d2c5e3d99bcf8ba2369c359a577c43f2895031d14a3747de640cb0ed34bf368",
+      "reference_sha256": "1026290bd2290904949ab3b475a0122c257aa1827f038ce85a62fdacbc9acd96",
+      "paragraphs": 736,
+      "tables": 0,
+      "text_nodes": 752,
+      "text_characters": 21128,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "7bedd4d065e39fc9415e12349d6e8fda71b2c9c2f953a8ba411257cfb2b566c1"
+    },
+    {
+      "id": "107",
+      "title": "尿失禁神经源性膀胱女性泌尿及尿道重建专病模板库",
+      "asset": "assets/107_尿失禁神经源性膀胱女性泌尿及尿道重建专病模板库.docx",
+      "reference": "references/107_尿失禁神经源性膀胱女性泌尿及尿道重建专病模板库.md",
+      "asset_sha256": "4360f1de27ff8a065aa9fbdddc56eb189cdad731d343784cda63540ac363e412",
+      "reference_sha256": "da8b064db1ab1045aedd6d26cc4dc60d52ff6f47ff51c10f583a614ff8b4587d",
+      "paragraphs": 542,
+      "tables": 0,
+      "text_nodes": 556,
+      "text_characters": 15251,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "25c5502d4d6d2524b4ffa8965e15579063537cbd4b918c124ca047aa9eb505d4"
+    },
+    {
+      "id": "108",
+      "title": "男科男性生殖器泌尿创伤及儿童泌尿外科专病模板库",
+      "asset": "assets/108_男科男性生殖器泌尿创伤及儿童泌尿外科专病模板库.docx",
+      "reference": "references/108_男科男性生殖器泌尿创伤及儿童泌尿外科专病模板库.md",
+      "asset_sha256": "af94d0c73b1a620321d2bfdc8e285d999034db7157da26e16f7a5b27696dcb75",
+      "reference_sha256": "10fb065c427b6f909b3b9756f78ee1fcf95e843f8b519a6eb995a0ebe6a0975b",
+      "paragraphs": 1044,
+      "tables": 0,
+      "text_nodes": 1069,
+      "text_characters": 28855,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml"
+      ],
+      "text_stream_sha256": "020c370910c9dd3f30708f91428b9b28c69fa74e9987069320eb6574f8c2c663"
+    }
+  ]
+}
