@@ -1,0 +1,4 @@
+interface:
+  display_name: "妇产科病历书写"
+  short_description: "依据真实资料完成妇产科住院文书、专科分析、三级查房与最终质控"
+  default_prompt: "请使用 $obstetrics-gynecology-records，根据我提供的真实病例资料完成妇产科医学文书并质控。"

@@ -1,0 +1,389 @@
+{
+  "skill_name": "dermatology-medical-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-30",
+  "source_folder": "皮肤科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "皮肤科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_皮肤科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_皮肤科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "f1582d3d62e5c0f40381baa76a2684d6b6a0d44e10f7e5f7c82e3acc8a88713b",
+      "reference_sha256": "10b6f3df778ae709abb9a0ebff6e1350452a2c544ea2e2ff38faec682f027bda",
+      "paragraphs": 196,
+      "tables": 2,
+      "text_nodes": 233,
+      "text_characters": 11316,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ee38fba99a67459080fc9b76e7d918f8e5e0906de2dbc21260baa8c3a42fa68f"
+    },
+    {
+      "id": "01",
+      "title": "皮肤科病历书写助手最高执行指令",
+      "asset": "assets/01_皮肤科病历书写助手最高执行指令.docx",
+      "reference": "references/01_皮肤科病历书写助手最高执行指令.md",
+      "asset_sha256": "eac847b386170deaad8aa96de921ebfadb4d06fb61b8091cad64a4a70bfab185",
+      "reference_sha256": "e83ba1f2766e6595745d94ed2fa772c5aebfc5a69ddd8b6633f4f8c5fac4a3cd",
+      "paragraphs": 77,
+      "tables": 1,
+      "text_nodes": 80,
+      "text_characters": 3506,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "13d343c126c83a67928e9e4119ebe8e5f454eeae2ac90261f0c39283dec96f67"
+    },
+    {
+      "id": "02",
+      "title": "皮肤科基础医学文书与通用病程模板库",
+      "asset": "assets/02_皮肤科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_皮肤科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "d317ca5048d0e37547dc2fe3b5573885c3886960f9182c886ea744473188830d",
+      "reference_sha256": "73dfdef3df62b6437af73e175a009c40b03b53be9fb62901b0fe91380888e274",
+      "paragraphs": 377,
+      "tables": 0,
+      "text_nodes": 443,
+      "text_characters": 12939,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "e7cdd40f6022db65bdba0eba938feff968040beafb2e36f7155e8fdc563b7499"
+    },
+    {
+      "id": "03",
+      "title": "皮肤黏膜毛发甲专科检查与皮损定位形态模板库",
+      "asset": "assets/03_皮肤黏膜毛发甲专科检查与皮损定位形态模板库.docx",
+      "reference": "references/03_皮肤黏膜毛发甲专科检查与皮损定位形态模板库.md",
+      "asset_sha256": "61a01419fed43c8f7fc2fc4c7138156dc3b124a95685c4669235548106cfc9a8",
+      "reference_sha256": "d2d1cd6dacb0306a9c67f2bcff8f24c70bae3ae6e7c06bf87e40db435dc9772a",
+      "paragraphs": 165,
+      "tables": 2,
+      "text_nodes": 167,
+      "text_characters": 4668,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "bc4306dac1dd98289d44a9303b048296c2f1b53de372fbee904fc122bfe5bb2f"
+    },
+    {
+      "id": "04",
+      "title": "皮肤科检验皮肤镜病原学皮肤病理及免疫荧光分析模板库",
+      "asset": "assets/04_皮肤科检验皮肤镜病原学皮肤病理及免疫荧光分析模板库.docx",
+      "reference": "references/04_皮肤科检验皮肤镜病原学皮肤病理及免疫荧光分析模板库.md",
+      "asset_sha256": "e206bc7fb491025ef766edfa5aa458f32a037987117194db98d9080cb9fa9c6a",
+      "reference_sha256": "a678d5422c5b13b0d14e2f21e36a8d8b1b5925f27bdcde926aef39b32e92188a",
+      "paragraphs": 173,
+      "tables": 0,
+      "text_nodes": 177,
+      "text_characters": 6300,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "30cd5a1d6f49823fc45ba6506d51b2b23f6ac65f292f4ac985cf17ee8a51b2a4"
+    },
+    {
+      "id": "05",
+      "title": "皮肤活检冷冻光疗激光及皮肤外科围操作期文书模板库",
+      "asset": "assets/05_皮肤活检冷冻光疗激光及皮肤外科围操作期文书模板库.docx",
+      "reference": "references/05_皮肤活检冷冻光疗激光及皮肤外科围操作期文书模板库.md",
+      "asset_sha256": "190f846c533d2a423623314436573c6a36da4c47e575858ac3215b5b0e083251",
+      "reference_sha256": "78eb0b70c2f2cb81e8fb44ba016da5b5e7d527ab643e18c214372d07f93c1fb9",
+      "paragraphs": 483,
+      "tables": 0,
+      "text_nodes": 649,
+      "text_characters": 19643,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "945a4d5cf36a3a166199f648a0b6df3f7db40eff538145c8159f45802e473ac7"
+    },
+    {
+      "id": "06",
+      "title": "皮肤科重症药疹严重感染及急危重症病程模板库",
+      "asset": "assets/06_皮肤科重症药疹严重感染及急危重症病程模板库.docx",
+      "reference": "references/06_皮肤科重症药疹严重感染及急危重症病程模板库.md",
+      "asset_sha256": "932f9c47260ec38c984f99731209c50b7d5d887c0019ab8132e52fa6fee6bb9f",
+      "reference_sha256": "e834837965815f0072f7e711dd5cf83fcc5367be0fb6a07dccf8ba5d2cf66e45",
+      "paragraphs": 192,
+      "tables": 0,
+      "text_nodes": 196,
+      "text_characters": 7629,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ae6979394475429b9278ac3ffcfbf2ed666948291eae6474ec9019156bb64d8b"
+    },
+    {
+      "id": "07",
+      "title": "皮肤科外用系统治疗生物制剂及医嘱表达规则库",
+      "asset": "assets/07_皮肤科外用系统治疗生物制剂及医嘱表达规则库.docx",
+      "reference": "references/07_皮肤科外用系统治疗生物制剂及医嘱表达规则库.md",
+      "asset_sha256": "be01f3e417ba24658abf69b30a829996404b94d9695ffd573bbd8fb805ada3c9",
+      "reference_sha256": "9f68f30288af0df2d2e5c01a899970517ed9517c635d695f1a97c2fce6691557",
+      "paragraphs": 197,
+      "tables": 0,
+      "text_nodes": 201,
+      "text_characters": 8197,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "13a8bed306ca0d11167ffdd7de712f71c2f225afbeabe6c1a664500dc51f4fe7"
+    },
+    {
+      "id": "08",
+      "title": "皮肤科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_皮肤科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_皮肤科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "c4435fc16650e1f3f1ca7d690f53eeac0ab4017e828fe97fe7d8fb7bc28809c1",
+      "reference_sha256": "51cf636473d482d1ce168bf89ff016071f2ff614a4ae499a9e3f14e3dc4afe27",
+      "paragraphs": 467,
+      "tables": 1,
+      "text_nodes": 470,
+      "text_characters": 18043,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ae5bc1de9f9e6cb212b9d12b027807236e9dc2a2c1c7ce52c648879d302b3e3a"
+    },
+    {
+      "id": "09",
+      "title": "皮肤科创面护理慢病管理出院及长期随访模板库",
+      "asset": "assets/09_皮肤科创面护理慢病管理出院及长期随访模板库.docx",
+      "reference": "references/09_皮肤科创面护理慢病管理出院及长期随访模板库.md",
+      "asset_sha256": "1719110f090db616228cf331f87a0e71181e36c1e260320d611b96464d1c1745",
+      "reference_sha256": "a1526ec5aaf1c76b20f03b47314b32f79a4bd907c047d465eb63151151c9c32c",
+      "paragraphs": 223,
+      "tables": 0,
+      "text_nodes": 227,
+      "text_characters": 8063,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "8b5a7a41a959418cdeecfec4bd8deae2883754be9f03b182c181783eb3c3a304"
+    },
+    {
+      "id": "10",
+      "title": "皮肤科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_皮肤科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_皮肤科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "7d80a1339ccfde4b7dadfc2b4c55f42b356ee93e7fb6f346fee4735dd710e893",
+      "reference_sha256": "cb4ca110118c53b0de9244b4d34b75fa7ae7ace1d4efa14e0009c6eeb3fc23d3",
+      "paragraphs": 535,
+      "tables": 1,
+      "text_nodes": 558,
+      "text_characters": 21682,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "62c381282015e260d4eed32d31cb379408a2bd4c02435988aaf8db3229745559"
+    },
+    {
+      "id": "11",
+      "title": "皮肤科AI自动调用路由与病例状态管理规则库",
+      "asset": "assets/11_皮肤科AI自动调用路由与病例状态管理规则库.docx",
+      "reference": "references/11_皮肤科AI自动调用路由与病例状态管理规则库.md",
+      "asset_sha256": "08cb339a2455589ed9db268745c5ad0cc32e6bad0330ca2860ecba2b1213fba9",
+      "reference_sha256": "dcc9e5446c7cf334566367ac752de19ab0058892d193c7013604502bb0b5b25a",
+      "paragraphs": 129,
+      "tables": 2,
+      "text_nodes": 131,
+      "text_characters": 4657,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "0e2e2433bdbdcb7d3d89491a69d103a99960fd7a1f705e6cebb9320854524577"
+    },
+    {
+      "id": "101",
+      "title": "湿疹特应性皮炎接触性皮炎荨麻疹及瘙痒性疾病模板库",
+      "asset": "assets/101_湿疹特应性皮炎接触性皮炎荨麻疹及瘙痒性疾病模板库.docx",
+      "reference": "references/101_湿疹特应性皮炎接触性皮炎荨麻疹及瘙痒性疾病模板库.md",
+      "asset_sha256": "0e84786b98eae9ee41f62a1dbb75f37640b8923aca3ecab02e33abb7f11b8cdf",
+      "reference_sha256": "660794963df69746d6697cd47c1927df414274df20913861712e2eb342cbab02",
+      "paragraphs": 672,
+      "tables": 0,
+      "text_nodes": 772,
+      "text_characters": 34575,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "8ae6ebe8c8c594f4a9a336767c29e86d02b1a62e4b59c1e4083d5a3a78f078fe"
+    },
+    {
+      "id": "102",
+      "title": "银屑病及慢性炎症性角化性皮肤病模板库",
+      "asset": "assets/102_银屑病及慢性炎症性角化性皮肤病模板库.docx",
+      "reference": "references/102_银屑病及慢性炎症性角化性皮肤病模板库.md",
+      "asset_sha256": "f9db0dbf4ce6d0204fd4ffd9b67f5fb3e7ca59e3bc53c4c1fd4ff92da0bf6aa4",
+      "reference_sha256": "9cab99242212dde9788030cc6d1a82eedba5c9ca80d861412537f36c368eba9a",
+      "paragraphs": 664,
+      "tables": 0,
+      "text_nodes": 764,
+      "text_characters": 32839,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "52b6fb0acb424e08c16f912ba07f78e4e5dab82f962d2382eb59c2942ee716cd"
+    },
+    {
+      "id": "103",
+      "title": "细菌真菌病毒寄生虫及其他感染性皮肤病模板库",
+      "asset": "assets/103_细菌真菌病毒寄生虫及其他感染性皮肤病模板库.docx",
+      "reference": "references/103_细菌真菌病毒寄生虫及其他感染性皮肤病模板库.md",
+      "asset_sha256": "05ca4e82e982c4f11770ef011abb84a7d3c7ecd62b1499b5b178bbe065578ee0",
+      "reference_sha256": "af838be71ffb9f5c2f38c75b2b8ed22923768315076808ea084c9ea7e98cfcda",
+      "paragraphs": 823,
+      "tables": 0,
+      "text_nodes": 947,
+      "text_characters": 40656,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "d8ebf13c79c055189295aad97a1ad1245cf72704f3e52a198d2b16a112ae92d2"
+    },
+    {
+      "id": "104",
+      "title": "自身免疫性大疱病结缔组织病及皮肤血管炎模板库",
+      "asset": "assets/104_自身免疫性大疱病结缔组织病及皮肤血管炎模板库.docx",
+      "reference": "references/104_自身免疫性大疱病结缔组织病及皮肤血管炎模板库.md",
+      "asset_sha256": "4f33f1d3d7b78de542754affdcf1555dd8fe0dc21ca19063cb96758ed5c0ae20",
+      "reference_sha256": "9e3a620bac17b51ec2b1759e0eaab383960f05ca468aa8828538d2682cf880ca",
+      "paragraphs": 816,
+      "tables": 0,
+      "text_nodes": 940,
+      "text_characters": 40271,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "1767a903b4d13d903a3ea1a7d9a72cfa52f0b2ba1c26d955d7fd38c0222595a5"
+    },
+    {
+      "id": "105",
+      "title": "痤疮玫瑰痤疮毛发甲病及皮肤附属器疾病模板库",
+      "asset": "assets/105_痤疮玫瑰痤疮毛发甲病及皮肤附属器疾病模板库.docx",
+      "reference": "references/105_痤疮玫瑰痤疮毛发甲病及皮肤附属器疾病模板库.md",
+      "asset_sha256": "f8463a1b1a14d3ccf1dba5d1d72e7e76df34b09cac81a8f6978976b565340456",
+      "reference_sha256": "4ca114701e3e4dce8d5bf6264e948566bb37eab2563776ef79f5bd6120210b71",
+      "paragraphs": 748,
+      "tables": 0,
+      "text_nodes": 860,
+      "text_characters": 36821,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "1f0ea9abb8d3edb10715c1f8094eaad0d13a754427a13499371a0844ed7b3fb6"
+    },
+    {
+      "id": "106",
+      "title": "皮肤良恶性肿瘤色素痣及皮肤外科肿瘤模板库",
+      "asset": "assets/106_皮肤良恶性肿瘤色素痣及皮肤外科肿瘤模板库.docx",
+      "reference": "references/106_皮肤良恶性肿瘤色素痣及皮肤外科肿瘤模板库.md",
+      "asset_sha256": "24527e973f9e5029ee3d9adf49e6cd5df3e722d5f7311584cf09fa98d0e030e0",
+      "reference_sha256": "e28447f3f32dea492867781160578feb8f2e2164dfb0eb83eb00d94ae56c0df9",
+      "paragraphs": 669,
+      "tables": 0,
+      "text_nodes": 769,
+      "text_characters": 32551,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "d1dbb51f71fc34b190ab96cb69e645958d381274fbabdbd1eff31bef25b96ffd"
+    },
+    {
+      "id": "107",
+      "title": "白癜风色素障碍遗传性及儿童特殊皮肤病模板库",
+      "asset": "assets/107_白癜风色素障碍遗传性及儿童特殊皮肤病模板库.docx",
+      "reference": "references/107_白癜风色素障碍遗传性及儿童特殊皮肤病模板库.md",
+      "asset_sha256": "b1deec422c80bf5dadfa43456e13e8f9416768f0f0590ae58e4b9e7fb90024a4",
+      "reference_sha256": "61668f31ed638b854d32c47b47e4d46a015c469d916744e9511b5dfcb90de0b9",
+      "paragraphs": 745,
+      "tables": 0,
+      "text_nodes": 857,
+      "text_characters": 36397,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "8165f5b7eb60be06c0e02ad95695f4e1c7cf7c7b957671833b67ae19242db6a2"
+    },
+    {
+      "id": "108",
+      "title": "性传播感染及生殖器皮肤黏膜疾病模板库",
+      "asset": "assets/108_性传播感染及生殖器皮肤黏膜疾病模板库.docx",
+      "reference": "references/108_性传播感染及生殖器皮肤黏膜疾病模板库.md",
+      "asset_sha256": "9d8e0cea6b11765cc1134e842c34f86ff5b8d2dcf5890e37c8b6bf32b5b3c897",
+      "reference_sha256": "10e494034fe9d31bc652647f53d232468f0d661bcf7b7bfd66dc5248f14c9b32",
+      "paragraphs": 673,
+      "tables": 0,
+      "text_nodes": 773,
+      "text_characters": 33449,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "f8fc84820e78ec5d204edf96e0f4fb300fe7405b807aa9aa6bf659263e19c98f"
+    }
+  ]
+}

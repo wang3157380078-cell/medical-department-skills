@@ -1,0 +1,389 @@
+{
+  "skill_name": "obstetrics-gynecology-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-30",
+  "source_folder": "妇产科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "妇产科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_妇产科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_妇产科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "d6fa948ca8db9742e731bb30e05b2f73da05ec5a7ca5f26b86c5829bdd582038",
+      "reference_sha256": "d31c02232995c62f43a979bf3b9119eb6c18fb6cb1da6cd4ac2033c13c6d7ecc",
+      "paragraphs": 167,
+      "tables": 2,
+      "text_nodes": 172,
+      "text_characters": 6391,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "11baca11bbc71d4824010e57d5c776b5ecf522be4b488e22c5bbd56a1e332ee7"
+    },
+    {
+      "id": "01",
+      "title": "妇产科病历书写助手最高执行指令",
+      "asset": "assets/01_妇产科病历书写助手最高执行指令.docx",
+      "reference": "references/01_妇产科病历书写助手最高执行指令.md",
+      "asset_sha256": "5df0d6de5fe58a68b670ff19fd5ef80270ad3629beffc51c8c880134970c5c54",
+      "reference_sha256": "67f0bdc369107788a1fc0bb6b71c39fce94fcd410e8611dc83bfc1a036667bad",
+      "paragraphs": 84,
+      "tables": 1,
+      "text_nodes": 88,
+      "text_characters": 4667,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "b46271df60f653b9ea8485bc166a302a485e6c4af90c66b96bbf5148e77075f7"
+    },
+    {
+      "id": "02",
+      "title": "妇产科基础医学文书与通用病程模板库",
+      "asset": "assets/02_妇产科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_妇产科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "7c95dedbce1a3872c5172710d16f63bdb24c888dc195e9ee4bc4dd8aba05f9db",
+      "reference_sha256": "716e4235a0f3414c8d4dd5a9c7e8ba2019042691f57c24b6ca58f21e534d086a",
+      "paragraphs": 436,
+      "tables": 0,
+      "text_nodes": 522,
+      "text_characters": 15773,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "8386a73ac751efcc72495aef59fd01f8eeed64123813d24e33aada118cf502d5"
+    },
+    {
+      "id": "03",
+      "title": "妇产科专科检查孕周胎位及母胎状态评估模板库",
+      "asset": "assets/03_妇产科专科检查孕周胎位及母胎状态评估模板库.docx",
+      "reference": "references/03_妇产科专科检查孕周胎位及母胎状态评估模板库.md",
+      "asset_sha256": "5b0e94bb21d8663765f0c6f552b510d6816235890b43d55de70beca7327cebf6",
+      "reference_sha256": "43273839fd069a2ae01d7a966933aea6d8248a5d088de5b0e60a8ff280971ec7",
+      "paragraphs": 120,
+      "tables": 0,
+      "text_nodes": 135,
+      "text_characters": 5686,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "2061b3f80d096f8a508e60d2cc885815254b70f9a0a26ada1bb6f99d61dc0899"
+    },
+    {
+      "id": "04",
+      "title": "妇产科检验超声胎心监护影像病理及特殊检查分析模板库",
+      "asset": "assets/04_妇产科检验超声胎心监护影像病理及特殊检查分析模板库.docx",
+      "reference": "references/04_妇产科检验超声胎心监护影像病理及特殊检查分析模板库.md",
+      "asset_sha256": "efee84205da4f7a188414e37b7544c08dbdde9712e34d25115feca3f9216f600",
+      "reference_sha256": "6b4f05d20a16bec07254260b25a7eba12e3eebcafdb3e411316d3ea72e3053b6",
+      "paragraphs": 115,
+      "tables": 0,
+      "text_nodes": 130,
+      "text_characters": 6447,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "99b76d5019efbf438127c8afa998ed7b94372a80f95d7702e07903421589da93"
+    },
+    {
+      "id": "05",
+      "title": "妇产科高频术式分娩助产及围手术期医学文书模板库",
+      "asset": "assets/05_妇产科高频术式分娩助产及围手术期医学文书模板库.docx",
+      "reference": "references/05_妇产科高频术式分娩助产及围手术期医学文书模板库.md",
+      "asset_sha256": "4a2e10338e642dd54d7b32629112d697a44b5e12df9f367a8504782bd822dbbd",
+      "reference_sha256": "7a3ce8288477d849e1ff77331440a1564191fd4e42e13718e36b536bfc36b71e",
+      "paragraphs": 399,
+      "tables": 0,
+      "text_nodes": 536,
+      "text_characters": 14785,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "70a5ecc5ccaca36727766d0f8ea1a6a20d58aa55bbf9e7e05327e2091da36a54"
+    },
+    {
+      "id": "06",
+      "title": "妇产科急危重症并发症及抢救病程模板库",
+      "asset": "assets/06_妇产科急危重症并发症及抢救病程模板库.docx",
+      "reference": "references/06_妇产科急危重症并发症及抢救病程模板库.md",
+      "asset_sha256": "64174f076cb497f8659654697cd754fba72e5202078fb0a4dff970ef4f656d76",
+      "reference_sha256": "9efa3c3f3fe513bed9372fbeaded3ba49aa8c943600fe59643280476edf8641f",
+      "paragraphs": 284,
+      "tables": 0,
+      "text_nodes": 301,
+      "text_characters": 13042,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "6c65398f26c3b84f1a6f53e1b2b83c689810c73abfcbd4f93aa297d7c93e4216"
+    },
+    {
+      "id": "07",
+      "title": "妇产科治疗决策妊娠用药输血及医嘱表达规则库",
+      "asset": "assets/07_妇产科治疗决策妊娠用药输血及医嘱表达规则库.docx",
+      "reference": "references/07_妇产科治疗决策妊娠用药输血及医嘱表达规则库.md",
+      "asset_sha256": "abe771b35d1356c0871d9808849eca97c1fa57ca91c75114f84ba387ff1b0125",
+      "reference_sha256": "3e6a150273068c9ee2c7891de4d2c707882e2a3abd1d9c763615b475f9dfaa59",
+      "paragraphs": 232,
+      "tables": 1,
+      "text_nodes": 236,
+      "text_characters": 9646,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "d7ccf29ae4baf4393fc8567a1ba95dcef6b3be505717012efd85abad57f6af4d"
+    },
+    {
+      "id": "08",
+      "title": "妇产科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_妇产科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_妇产科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "bcd39718556e727177ba083d4ae857661dcf7e0dc529d46be8993da4be3157e8",
+      "reference_sha256": "c15cea717812a5d89d59072d893327b6c930dc8eab3016bb210fd9ffc920ed79",
+      "paragraphs": 503,
+      "tables": 1,
+      "text_nodes": 507,
+      "text_characters": 19383,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "636db1bf9d5007eb550d405300612f2100db93c0e569895907d67fdcf810dbaa"
+    },
+    {
+      "id": "09",
+      "title": "妇产科产褥康复母婴管理出院及长期随访模板库",
+      "asset": "assets/09_妇产科产褥康复母婴管理出院及长期随访模板库.docx",
+      "reference": "references/09_妇产科产褥康复母婴管理出院及长期随访模板库.md",
+      "asset_sha256": "4934ca058d0cfdd403a0bd090b55f36369794c320d1fc7e83c75ba17ebb1855c",
+      "reference_sha256": "9394d8d6ff66c13d7cb1d04fcc8342cb2f6254c46214e881ad5f726c0921b205",
+      "paragraphs": 143,
+      "tables": 0,
+      "text_nodes": 160,
+      "text_characters": 5215,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "c1733be615765f58ee1d5f5f1ac8220bf04cb0f3345ce9c40de545561a9c8ed4"
+    },
+    {
+      "id": "10",
+      "title": "妇产科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_妇产科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_妇产科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "a6d060dcda6adeaaf45eec1b22da52f2bdc0ebfd4d13ad7088564c12309ac6e2",
+      "reference_sha256": "c04dbdd6a24f2c2d0f9b00c839d93702da9bc89f861b9930ba141ebee4a8a410",
+      "paragraphs": 657,
+      "tables": 1,
+      "text_nodes": 748,
+      "text_characters": 46880,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "33d9a831bf772adf01a7297fe6558ac6408750cd1eb6d618f96d6202b503cc6d"
+    },
+    {
+      "id": "11",
+      "title": "妇产科AI自动调用路由与母胎病例状态管理规则库",
+      "asset": "assets/11_妇产科AI自动调用路由与母胎病例状态管理规则库.docx",
+      "reference": "references/11_妇产科AI自动调用路由与母胎病例状态管理规则库.md",
+      "asset_sha256": "8609f7df320d12e2709f5f1c75dc0b1d8ab392642d476e81abce0656b31f084b",
+      "reference_sha256": "b33d83c85be83a25d3fa88eb573606e3b26fb6635e2c2d8d464971ba1b743233",
+      "paragraphs": 181,
+      "tables": 2,
+      "text_nodes": 184,
+      "text_characters": 7229,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "a6af25c78fb7794f066b690f60a25e5955975167a8e77e4888ce23a705a403f5"
+    },
+    {
+      "id": "101",
+      "title": "正常妊娠产前保健高危妊娠及胎儿评估专病模板库",
+      "asset": "assets/101_正常妊娠产前保健高危妊娠及胎儿评估专病模板库.docx",
+      "reference": "references/101_正常妊娠产前保健高危妊娠及胎儿评估专病模板库.md",
+      "asset_sha256": "0688e9618af3d2481cbd2260a92f0b90f30ac277bc3c33064626a91b4f0a5b4b",
+      "reference_sha256": "3b146f10477837eb77f575498d8ff1e8e89e755c581c675a0d421699586a2c00",
+      "paragraphs": 720,
+      "tables": 1,
+      "text_nodes": 838,
+      "text_characters": 30260,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "441a971e0fc90216557d7ec5a548cb4eff8d68274f19abc1c32d98945dbe6e40"
+    },
+    {
+      "id": "102",
+      "title": "产程管理阴道分娩助产及剖宫产专病模板库",
+      "asset": "assets/102_产程管理阴道分娩助产及剖宫产专病模板库.docx",
+      "reference": "references/102_产程管理阴道分娩助产及剖宫产专病模板库.md",
+      "asset_sha256": "7528007ffc4bbe7c14bbe8b7a93944aacfdc3892fbf1b0e84a955cb4ea7dd17f",
+      "reference_sha256": "75a222f9161aa8d9b05bf9ab61301fc1104eddbfa776015a1028862d20f0a720",
+      "paragraphs": 865,
+      "tables": 1,
+      "text_nodes": 1013,
+      "text_characters": 34130,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "27ac7d57c72da8b0af9b4d1babac0d8cff5a06a81fa8c5e84ba32d3cabd49d20"
+    },
+    {
+      "id": "103",
+      "title": "妊娠期并发症妊娠终止及产科急危重症专病模板库",
+      "asset": "assets/103_妊娠期并发症妊娠终止及产科急危重症专病模板库.docx",
+      "reference": "references/103_妊娠期并发症妊娠终止及产科急危重症专病模板库.md",
+      "asset_sha256": "f1834d5ddae094c58a3021ae52b730996a05a184323a77941e82559e3ee3aefb",
+      "reference_sha256": "b042ccb843196cf2426b13d99e3eb51bed529b9f08689d1e09b267d6f0977f34",
+      "paragraphs": 1023,
+      "tables": 1,
+      "text_nodes": 1197,
+      "text_characters": 41816,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "50adb9e0a3205509c80eb34e2e22930443371e44f9b536f7bb1194a6c494071c"
+    },
+    {
+      "id": "104",
+      "title": "妊娠合并内外科疾病多胎妊娠及产褥期专病模板库",
+      "asset": "assets/104_妊娠合并内外科疾病多胎妊娠及产褥期专病模板库.docx",
+      "reference": "references/104_妊娠合并内外科疾病多胎妊娠及产褥期专病模板库.md",
+      "asset_sha256": "a7b87848300806b145e440902fbc301dc7e357ee8027cb61ad5c2c62d8e6deda",
+      "reference_sha256": "dbd29c5d8cab2697aded9cc80f87a06812a5ced89a8740d19f9072304df18d8f",
+      "paragraphs": 873,
+      "tables": 1,
+      "text_nodes": 1017,
+      "text_characters": 34592,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "136467b1b137fd9049032ebe75fbf6b252cc6f587fd8f771780e6429c2ed746c"
+    },
+    {
+      "id": "105",
+      "title": "妇科良性肿瘤子宫内膜异位症及宫腹腔镜专病模板库",
+      "asset": "assets/105_妇科良性肿瘤子宫内膜异位症及宫腹腔镜专病模板库.docx",
+      "reference": "references/105_妇科良性肿瘤子宫内膜异位症及宫腹腔镜专病模板库.md",
+      "asset_sha256": "bfc2332e473a9ff3af455b2845b5f428197ba7d1700bd7fef2dbdb4b3660ea3b",
+      "reference_sha256": "05472b6bdc71212bbf84d90975a55c34e078596039e516cd70132c366913749e",
+      "paragraphs": 771,
+      "tables": 1,
+      "text_nodes": 904,
+      "text_characters": 30943,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "e8316dcae74486b57e6422b0fd59aeedfc1bf8d0463fe06a4f6526bfede775fc"
+    },
+    {
+      "id": "106",
+      "title": "妇科恶性肿瘤癌前病变及妊娠滋养细胞疾病模板库",
+      "asset": "assets/106_妇科恶性肿瘤癌前病变及妊娠滋养细胞疾病模板库.docx",
+      "reference": "references/106_妇科恶性肿瘤癌前病变及妊娠滋养细胞疾病模板库.md",
+      "asset_sha256": "3d43eea25e8f9be0d59bd127920f626ad02d353da65939ee81241e852e56dcb4",
+      "reference_sha256": "d21676122e33d6cb16d678a7fded830863588a1889bed4b9393628683b9aa806",
+      "paragraphs": 698,
+      "tables": 1,
+      "text_nodes": 814,
+      "text_characters": 28251,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "b6f89011b4497255dedd976f8f22bf5dd2385b950277756f80af6ec160e5cefd"
+    },
+    {
+      "id": "107",
+      "title": "妇科感染月经异常生殖内分泌及不孕症专病模板库",
+      "asset": "assets/107_妇科感染月经异常生殖内分泌及不孕症专病模板库.docx",
+      "reference": "references/107_妇科感染月经异常生殖内分泌及不孕症专病模板库.md",
+      "asset_sha256": "2548d86052935d6e4f15b55fbadcb134daf53de35fc68677764867fc5d55c5c1",
+      "reference_sha256": "5399c60e7881bb4035ea7b581c9591bbf1bb46f24cce2a9e87c56a1930dc7c3e",
+      "paragraphs": 697,
+      "tables": 1,
+      "text_nodes": 813,
+      "text_characters": 28068,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "4830608ddd8bdc664f9eaf19dd9b0baac5788e764a9f02099269f661ce9cc76c"
+    },
+    {
+      "id": "108",
+      "title": "女性盆底功能障碍妇科泌尿及特殊人群专病模板库",
+      "asset": "assets/108_女性盆底功能障碍妇科泌尿及特殊人群专病模板库.docx",
+      "reference": "references/108_女性盆底功能障碍妇科泌尿及特殊人群专病模板库.md",
+      "asset_sha256": "2cf9dacf31542da8deb0d9f83b1ddb0df21db6fde1f18a6a0a0fb84d1ddc281b",
+      "reference_sha256": "9d9234575675227009af135549653ede253e065faf813b49f1152a59255b478f",
+      "paragraphs": 618,
+      "tables": 1,
+      "text_nodes": 722,
+      "text_characters": 24352,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "e011cefc6c96198e69718748038a2bdca7e574abdb71b65a62c2fc0b2afcf99b"
+    }
+  ]
+}

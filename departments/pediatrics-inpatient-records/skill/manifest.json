@@ -1,0 +1,389 @@
+{
+  "skill_name": "pediatrics-inpatient-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-30",
+  "source_folder": "儿科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "儿科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_儿科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_儿科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "bcaa5e949ce46426b6829bc661e026de5e545e56faee4a7804a710c6e252efce",
+      "reference_sha256": "78509e5000b639eeb5396a5456c3a2eadd615b62da1d51c43dfd730cf738c2cd",
+      "paragraphs": 150,
+      "tables": 0,
+      "text_nodes": 197,
+      "text_characters": 8030,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "3edf4ba0d1dcf3790fb4d251656edcb881dfadaaf4142e5f0decce581e482dc0"
+    },
+    {
+      "id": "01",
+      "title": "儿科病历书写助手最高执行指令",
+      "asset": "assets/01_儿科病历书写助手最高执行指令.docx",
+      "reference": "references/01_儿科病历书写助手最高执行指令.md",
+      "asset_sha256": "82831a60f269144985b087d25625b5b2729036c999d772a46614de08cc52bc65",
+      "reference_sha256": "8f7081633e24a5ec7592a7f4f2cd3dc3150651e0ea24515b6f69bf9b25650d7a",
+      "paragraphs": 133,
+      "tables": 0,
+      "text_nodes": 141,
+      "text_characters": 6012,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "a345a12b8b657558025db4bb67d97801056f7601153d6493ad859aed69904e7d"
+    },
+    {
+      "id": "02",
+      "title": "儿科基础医学文书新生儿记录与通用病程模板库",
+      "asset": "assets/02_儿科基础医学文书新生儿记录与通用病程模板库.docx",
+      "reference": "references/02_儿科基础医学文书新生儿记录与通用病程模板库.md",
+      "asset_sha256": "510be692f96c085eb5cdc4a85def226bd6ed9bda7f7d7a32fc82cd487c82c8f4",
+      "reference_sha256": "17f2c1cf561aff93743478d1e997f925ae9e32301b373a863fbe3a0ec11aa071",
+      "paragraphs": 479,
+      "tables": 0,
+      "text_nodes": 486,
+      "text_characters": 17780,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "b072c8c6e870fcea4a7a7c71bbc94fefb5f8e18fb65d9664152eef74f3fa6bd1"
+    },
+    {
+      "id": "03",
+      "title": "儿科专科检查年龄生长发育及营养状态评估模板库",
+      "asset": "assets/03_儿科专科检查年龄生长发育及营养状态评估模板库.docx",
+      "reference": "references/03_儿科专科检查年龄生长发育及营养状态评估模板库.md",
+      "asset_sha256": "2557a70a265b4e458cf9bc2543c6e1e5c42bb4b58287f5b778222f18069e379e",
+      "reference_sha256": "e2e35ff15606429ab6890ea430145e73844e5818d2a4b3b8bcbcd5f9ecda0fc6",
+      "paragraphs": 164,
+      "tables": 0,
+      "text_nodes": 171,
+      "text_characters": 7301,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "671c9ac12415b81685a9642c912f77318a209ab7260a262097e2d143d4af7600"
+    },
+    {
+      "id": "04",
+      "title": "儿科检验影像病原学遗传代谢及特殊检查分析模板库",
+      "asset": "assets/04_儿科检验影像病原学遗传代谢及特殊检查分析模板库.docx",
+      "reference": "references/04_儿科检验影像病原学遗传代谢及特殊检查分析模板库.md",
+      "asset_sha256": "708e4ce64efa320bf2e21534f01791fc06e92fb24c514a786db3935d7d8a0bbc",
+      "reference_sha256": "c46f20e95be273967cd6852118e2400e86c5b57124efbb367564a5fa4bc39c70",
+      "paragraphs": 231,
+      "tables": 0,
+      "text_nodes": 239,
+      "text_characters": 8560,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "a45798a6bcd5b335058be32b9727be8153acdf7d888660b2d1e3d3f1d0cd3506"
+    },
+    {
+      "id": "05",
+      "title": "儿科常见诊疗操作呼吸支持及围操作期医学文书模板库",
+      "asset": "assets/05_儿科常见诊疗操作呼吸支持及围操作期医学文书模板库.docx",
+      "reference": "references/05_儿科常见诊疗操作呼吸支持及围操作期医学文书模板库.md",
+      "asset_sha256": "45e666d7f52e0dfa81dc5b1e1579abd321dc32676e2162820ef39f550f3fbde8",
+      "reference_sha256": "fbf265a7dd3161ae7c679e98e03786cddfb3e64872acdbf6e854ebb03b29afa9",
+      "paragraphs": 645,
+      "tables": 0,
+      "text_nodes": 655,
+      "text_characters": 20512,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "5d5bf1214c81ce39bf5d17edcecec4dfe3430f1295ae2973d3fb1d3a2666bf09"
+    },
+    {
+      "id": "06",
+      "title": "儿科急危重症NICU与PICU异常病情及抢救模板库",
+      "asset": "assets/06_儿科急危重症NICU与PICU异常病情及抢救模板库.docx",
+      "reference": "references/06_儿科急危重症NICU与PICU异常病情及抢救模板库.md",
+      "asset_sha256": "5172a8e7a41d4ce51c0b05bedf89f5805e5db2bf922c2a31264b2f01b587a082",
+      "reference_sha256": "e598add7f244596b8770cdb7c25fb63451260c92b656ce6b49b181a559e062ba",
+      "paragraphs": 338,
+      "tables": 0,
+      "text_nodes": 349,
+      "text_characters": 15049,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "b7f9cf9254a6e8f927398c6816fe46b99d849f3a3ddb2eb838a99feca158aeae"
+    },
+    {
+      "id": "07",
+      "title": "儿科合理用药液体营养治疗及医嘱表达规则库",
+      "asset": "assets/07_儿科合理用药液体营养治疗及医嘱表达规则库.docx",
+      "reference": "references/07_儿科合理用药液体营养治疗及医嘱表达规则库.md",
+      "asset_sha256": "6a237b50a4c4fca9cca275e36d1a30cc3cfa4a13aa2fa13e6ecd64dff7ae752a",
+      "reference_sha256": "b6926b76d9e58cdc4afe6d1feed6e771b46ed8d4e0fcbb0decb70434d8ac2003",
+      "paragraphs": 144,
+      "tables": 0,
+      "text_nodes": 154,
+      "text_characters": 7443,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "9347a39a6ba16d8631e4c26cc5a5f24709c46fd617e125e35b4c2ea1be069356"
+    },
+    {
+      "id": "08",
+      "title": "儿科三级医师查房决策与层级表达模板库",
+      "asset": "assets/08_儿科三级医师查房决策与层级表达模板库.docx",
+      "reference": "references/08_儿科三级医师查房决策与层级表达模板库.md",
+      "asset_sha256": "1805de781a7269416e4698f14f2772a672ad8b2711cd10ea8403233662400423",
+      "reference_sha256": "347b6785a6687525b3d2a1c7d9c946a8eee0e8a8646a040a6e7ac0d61322e6cb",
+      "paragraphs": 519,
+      "tables": 0,
+      "text_nodes": 527,
+      "text_characters": 22238,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "6d588612b569d09c80b41a1acb3b6849b14389f03b410e19afad1a996f176d83"
+    },
+    {
+      "id": "09",
+      "title": "儿科喂养生长发育康复出院及长期随访模板库",
+      "asset": "assets/09_儿科喂养生长发育康复出院及长期随访模板库.docx",
+      "reference": "references/09_儿科喂养生长发育康复出院及长期随访模板库.md",
+      "asset_sha256": "bc7fb1abea6596bb8d0a250ea7f7dac0dad0af88af301a0f2831434835f0e590",
+      "reference_sha256": "7ce3e90d9bbc804d6519dda932db22c1a39b1c658162c0e0143943968ed3bf59",
+      "paragraphs": 278,
+      "tables": 0,
+      "text_nodes": 289,
+      "text_characters": 11781,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "0362719537c480d00f2914b84755f06a40df7c0183a655e967d80d031ec57651"
+    },
+    {
+      "id": "10",
+      "title": "儿科病历最终质控诊断修正及时间轴一致性审查库",
+      "asset": "assets/10_儿科病历最终质控诊断修正及时间轴一致性审查库.docx",
+      "reference": "references/10_儿科病历最终质控诊断修正及时间轴一致性审查库.md",
+      "asset_sha256": "d9650df801456f5882251936b071115e3420803e647c2c3be9ff707789f20c9c",
+      "reference_sha256": "a2f8ac996bf38004f22690a759546ea71f687c71cb7ee011c1b8aaa5e733f659",
+      "paragraphs": 771,
+      "tables": 0,
+      "text_nodes": 779,
+      "text_characters": 46883,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "0292036e16bd4d311fc389bd516ffbc9ea4837432f28720cd241f82adbf3d006"
+    },
+    {
+      "id": "11",
+      "title": "儿科AI自动调用路由与患儿病例状态管理规则库",
+      "asset": "assets/11_儿科AI自动调用路由与患儿病例状态管理规则库.docx",
+      "reference": "references/11_儿科AI自动调用路由与患儿病例状态管理规则库.md",
+      "asset_sha256": "b2465d5ef6fbc3a3e46d8f932aef431e1587307f9321dd8636ac0949b1b7e82e",
+      "reference_sha256": "5514b6d522468213a7918abc9da40bf52dd368b024b4ba19af22faff2298cd1f",
+      "paragraphs": 99,
+      "tables": 0,
+      "text_nodes": 106,
+      "text_characters": 6590,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ea9114ff4de342510ae00932ddf76e6814f9149d165c47ef635b86bc5db0c67e"
+    },
+    {
+      "id": "101",
+      "title": "新生儿常见疾病早产儿及NICU专病模板库",
+      "asset": "assets/101_新生儿常见疾病早产儿及NICU专病模板库.docx",
+      "reference": "references/101_新生儿常见疾病早产儿及NICU专病模板库.md",
+      "asset_sha256": "34d0767e86ac39b8728dcb6a0bcfe9e50435179db59beeb7b89cb4d49f2a0b48",
+      "reference_sha256": "2798d812e83773920bf3bb6b415e073bef2cc89fa944425994e3d3e0fa0b7648",
+      "paragraphs": 3152,
+      "tables": 0,
+      "text_nodes": 3170,
+      "text_characters": 114424,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "a890a16c6fd9a5f22f1582d98dda276dea69352cb285ec3c06c94c818c1bfe9d"
+    },
+    {
+      "id": "102",
+      "title": "儿童呼吸系统疾病及过敏性疾病专病模板库",
+      "asset": "assets/102_儿童呼吸系统疾病及过敏性疾病专病模板库.docx",
+      "reference": "references/102_儿童呼吸系统疾病及过敏性疾病专病模板库.md",
+      "asset_sha256": "5f5ca61bcd0a7319fd5e48ee85414f162180b93fd7c1a17da75eaecf00c24a2d",
+      "reference_sha256": "01f788216be80fed4734fa0aa81bbd03bd5ef0b4a3eead697ffc1fde19ac8d3b",
+      "paragraphs": 2692,
+      "tables": 0,
+      "text_nodes": 2702,
+      "text_characters": 93320,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "8e923cd75d124a87ddfb188f2d9d2657c5674b1a6dc81810860d2c419259297f"
+    },
+    {
+      "id": "103",
+      "title": "儿童感染性疾病传染病及感染相关急症模板库",
+      "asset": "assets/103_儿童感染性疾病传染病及感染相关急症模板库.docx",
+      "reference": "references/103_儿童感染性疾病传染病及感染相关急症模板库.md",
+      "asset_sha256": "5f29f0a29d6f3ed41eb635c407dde8131293e59917184a86adee2e65c75e6c0a",
+      "reference_sha256": "6e2c7626c8cc67cc7fb699f4c2972f253eddccc6ed9f3a88c4ae98610ab3d434",
+      "paragraphs": 2804,
+      "tables": 0,
+      "text_nodes": 2815,
+      "text_characters": 95417,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "3030d46bd32dd9a5bc909117a192eb389d18128eb0d5f196fffa7aae1867506e"
+    },
+    {
+      "id": "104",
+      "title": "儿童消化肝胆营养及喂养障碍专病模板库",
+      "asset": "assets/104_儿童消化肝胆营养及喂养障碍专病模板库.docx",
+      "reference": "references/104_儿童消化肝胆营养及喂养障碍专病模板库.md",
+      "asset_sha256": "f8ba3224db8f0ff375d76cfab0f762ddaaeb9bf522b3086a014e9c75d5ce2c34",
+      "reference_sha256": "2b37f7765f1ea982d741267b664fa9314b784163672d6249cf612ec2e90ef94c",
+      "paragraphs": 3122,
+      "tables": 0,
+      "text_nodes": 3130,
+      "text_characters": 104534,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "0ce2be7f77d51ef247657ee57888adbfabfe4ce7b7c6eaf99cf1fe38722aef31"
+    },
+    {
+      "id": "105",
+      "title": "儿童心血管肾脏泌尿及水电解质疾病模板库",
+      "asset": "assets/105_儿童心血管肾脏泌尿及水电解质疾病模板库.docx",
+      "reference": "references/105_儿童心血管肾脏泌尿及水电解质疾病模板库.md",
+      "asset_sha256": "87c082711d9db929c622396a094caa119f4ad21c4989ba67c8db032f1e1fb8de",
+      "reference_sha256": "0a1a50673072812d26dbf0c45ef11c9f870ca0d59b108abb4ab8cf39dfbd63d3",
+      "paragraphs": 3451,
+      "tables": 0,
+      "text_nodes": 3459,
+      "text_characters": 115585,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "bfd8abce283968970240b34c3d34a57fe7f8f1ba674f0d09ff3fd4c15b988c0e"
+    },
+    {
+      "id": "106",
+      "title": "儿童神经系统癫痫及发育行为疾病模板库",
+      "asset": "assets/106_儿童神经系统癫痫及发育行为疾病模板库.docx",
+      "reference": "references/106_儿童神经系统癫痫及发育行为疾病模板库.md",
+      "asset_sha256": "ac710ba0daf72450809b6fc73eca8bccef14fb049b5071bbd5b1b19e33be7732",
+      "reference_sha256": "cc889ea50245b20a3461d62de307c63e4f6120b8eafb85dd45e18f628a4201b5",
+      "paragraphs": 2798,
+      "tables": 0,
+      "text_nodes": 2807,
+      "text_characters": 95448,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "db569a77297ead66162f1faf270161b7f5d3e67e313b1cc1cd4e6d17f5ab32cc"
+    },
+    {
+      "id": "107",
+      "title": "儿童血液肿瘤免疫缺陷及风湿性疾病模板库",
+      "asset": "assets/107_儿童血液肿瘤免疫缺陷及风湿性疾病模板库.docx",
+      "reference": "references/107_儿童血液肿瘤免疫缺陷及风湿性疾病模板库.md",
+      "asset_sha256": "7aa61a8f14fd41dc69cd1814c9bcec4e689ea48797965b845ba9e8ea468e246b",
+      "reference_sha256": "c23588fb00a9652ad759ef31658ae5b068258f3948333a6e8d768f5cd21a2f52",
+      "paragraphs": 3017,
+      "tables": 0,
+      "text_nodes": 3025,
+      "text_characters": 101751,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "982c864a4cf4e72b01b856c18c67354dcfd0bdfd490ce5e39189f5d4680ca5dc"
+    },
+    {
+      "id": "108",
+      "title": "儿童内分泌遗传代谢及生长障碍专病模板库",
+      "asset": "assets/108_儿童内分泌遗传代谢及生长障碍专病模板库.docx",
+      "reference": "references/108_儿童内分泌遗传代谢及生长障碍专病模板库.md",
+      "asset_sha256": "c298607e00536b43eec16946df2604fbacce49592e64ea4f16dce1c441a50eb4",
+      "reference_sha256": "1bebf2351da38a81e69a0eb7096a6958215dc0a7440c516f19def9ee7ce1f2c5",
+      "paragraphs": 3125,
+      "tables": 0,
+      "text_nodes": 3134,
+      "text_characters": 106094,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "a1e3ab1eba523f2ca2f3f56c552e6968d40352af80b9ddfa46dbe7cbb4a90c79"
+    }
+  ]
+}
