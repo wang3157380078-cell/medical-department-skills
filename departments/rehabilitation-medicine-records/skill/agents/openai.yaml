@@ -1,0 +1,4 @@
+interface:
+  display_name: "康复医学科病历书写"
+  short_description: "依据真实资料完成康复医学科病历书写、功能评定与质控"
+  default_prompt: "请使用 $rehabilitation-medicine-records，根据真实资料草拟康复医学科文书并质控。"

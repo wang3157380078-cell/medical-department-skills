@@ -1,0 +1,389 @@
+{
+  "skill_name": "rehabilitation-medicine-records",
+  "version": "1.0.0",
+  "built_on": "2026-10-31",
+  "source_folder": "康复医学科AI病历书写系统V1.0",
+  "conversion": "complete-word-xml-text-v1",
+  "modules": [
+    {
+      "id": "00",
+      "title": "康复医学科AI病历系统总入口与模块调用索引",
+      "asset": "assets/00_康复医学科AI病历系统总入口与模块调用索引.docx",
+      "reference": "references/00_康复医学科AI病历系统总入口与模块调用索引.md",
+      "asset_sha256": "6b9c6b2c9cd882e550d960a1e006ef7f1d4922583c04016d17ef6d0d54fe4747",
+      "reference_sha256": "6fea47620dd6911bf6b6a27baa047c91e66230b408c921d9e2311d81009ddf02",
+      "paragraphs": 147,
+      "tables": 0,
+      "text_nodes": 168,
+      "text_characters": 6791,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ae3e38528ec604c75b8c2f2b83406845e7717f191aecad72294c6b7b55ff1957"
+    },
+    {
+      "id": "01",
+      "title": "康复医学科病历书写助手最高执行指令",
+      "asset": "assets/01_康复医学科病历书写助手最高执行指令.docx",
+      "reference": "references/01_康复医学科病历书写助手最高执行指令.md",
+      "asset_sha256": "deca36dbe8850274e55036ce372ef3d480218c63f693ef0ea6cb0d2cf72f51b8",
+      "reference_sha256": "01296759e968914231098f56e00fb2bcac0d02841da1338969292f2673a41c45",
+      "paragraphs": 146,
+      "tables": 0,
+      "text_nodes": 168,
+      "text_characters": 5818,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "8d2cff0a0f135154a8cefa0990667e6ed287825a1e82cdfb6805356b2c8296f8"
+    },
+    {
+      "id": "02",
+      "title": "康复医学科基础医学文书与通用病程模板库",
+      "asset": "assets/02_康复医学科基础医学文书与通用病程模板库.docx",
+      "reference": "references/02_康复医学科基础医学文书与通用病程模板库.md",
+      "asset_sha256": "a34e468d0494d3f536c76a23b7960eb1e62f6e818ade74c6c6e623b0ec87992c",
+      "reference_sha256": "63e0ae970fc92815ff69289d6a85147008e6a980ddc3341832d544539d39b767",
+      "paragraphs": 505,
+      "tables": 0,
+      "text_nodes": 522,
+      "text_characters": 16071,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "2415eae9b4e7ac305e67a2226e82571c321217e9805d7d226ce61ee897ab3a1c"
+    },
+    {
+      "id": "03",
+      "title": "康复功能评定ICF框架肌力关节活动度及ADL模板库",
+      "asset": "assets/03_康复功能评定ICF框架肌力关节活动度及ADL模板库.docx",
+      "reference": "references/03_康复功能评定ICF框架肌力关节活动度及ADL模板库.md",
+      "asset_sha256": "d336d40a773cd64a976bd08240072f022c9d8a53a631af3879e6640f5fd5315f",
+      "reference_sha256": "e45d642328ce733b1caa66abceb65e84d9484f0b5cdc8e028457b5644f220d0e",
+      "paragraphs": 215,
+      "tables": 0,
+      "text_nodes": 237,
+      "text_characters": 10308,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "860a557d6b3b8f930511d8bea627a092758883c09eb51dfdefa3b195377b9a79"
+    },
+    {
+      "id": "04",
+      "title": "康复医学科检验影像电生理吞咽及特殊检查分析模板库",
+      "asset": "assets/04_康复医学科检验影像电生理吞咽及特殊检查分析模板库.docx",
+      "reference": "references/04_康复医学科检验影像电生理吞咽及特殊检查分析模板库.md",
+      "asset_sha256": "f9ad81e50359b21779c78d55f43bc2cd36bfe584d3880f267480f28fbb5f5e36",
+      "reference_sha256": "09441edfb509b5080979aeabf563f8244a00d4f0ed7019a276f7f47753e6ed30",
+      "paragraphs": 151,
+      "tables": 0,
+      "text_nodes": 171,
+      "text_characters": 6078,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "427d88581d0e4309a444cfc5deb9f909213e472363a7484d61eacebd94804abd"
+    },
+    {
+      "id": "05",
+      "title": "PT_OT_ST康复处方治疗执行及特殊康复技术文书模板库",
+      "asset": "assets/05_PT_OT_ST康复处方治疗执行及特殊康复技术文书模板库.docx",
+      "reference": "references/05_PT_OT_ST康复处方治疗执行及特殊康复技术文书模板库.md",
+      "asset_sha256": "43b52aa96006af449646c980c2254783566d43e3e955e001eac08ed858f08924",
+      "reference_sha256": "52b7c8337dd6950c3362516416d568b6f072049adeb46654111db169881b13e1",
+      "paragraphs": 164,
+      "tables": 0,
+      "text_nodes": 184,
+      "text_characters": 7071,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "9d51ae2689fb7b1f2abb77078312e35b14e8fdab5ea089a775d4a4a747d8f998"
+    },
+    {
+      "id": "06",
+      "title": "康复治疗禁忌异常病情并发症及急危重症模板库",
+      "asset": "assets/06_康复治疗禁忌异常病情并发症及急危重症模板库.docx",
+      "reference": "references/06_康复治疗禁忌异常病情并发症及急危重症模板库.md",
+      "asset_sha256": "d76c841c85e4056ff95ac054150aa1b1369c3cb7404a709fc574968991781ae7",
+      "reference_sha256": "cd4f72cba04a1ce9eb0aa7911196e334cbd86aea4616d7739b654f9743c7382d",
+      "paragraphs": 155,
+      "tables": 0,
+      "text_nodes": 176,
+      "text_characters": 7232,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "2a501c7c0f9d3ba4395e6491a519f93502d309237ee514c213bb6bfa687ff1f8"
+    },
+    {
+      "id": "07",
+      "title": "康复治疗决策运动处方物理因子治疗及医嘱表达规则库",
+      "asset": "assets/07_康复治疗决策运动处方物理因子治疗及医嘱表达规则库.docx",
+      "reference": "references/07_康复治疗决策运动处方物理因子治疗及医嘱表达规则库.md",
+      "asset_sha256": "c92cc1586e9ac7e7e8be1d5c6081e710edf3ceac817a58731498caf9d3912cb4",
+      "reference_sha256": "46c160f0771bbf38bdc8b5311376d666e5d5217a474afc232aa5713dc2939347",
+      "paragraphs": 122,
+      "tables": 0,
+      "text_nodes": 145,
+      "text_characters": 5702,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "0ec6fdadb92a1b341ec872cc3cd2d013b52e563fc17c57f06520682940dd3709"
+    },
+    {
+      "id": "08",
+      "title": "康复医学科三级医师查房决策与多学科团队协作模板库",
+      "asset": "assets/08_康复医学科三级医师查房决策与多学科团队协作模板库.docx",
+      "reference": "references/08_康复医学科三级医师查房决策与多学科团队协作模板库.md",
+      "asset_sha256": "460e3efacae6f014015c2e5ac854967046086d4c2ae5edbf8ce9490f8c9ac576",
+      "reference_sha256": "66e8bac45c6383d55ba547e622b2392b8753ace262f50e72d3b9d69e43a283c7",
+      "paragraphs": 154,
+      "tables": 0,
+      "text_nodes": 174,
+      "text_characters": 7542,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "b8db77fe7d3dd48750ef39d560a4e6cae3ade771c41466c90eabc342106b3460"
+    },
+    {
+      "id": "09",
+      "title": "康复疗效复评功能目标出院计划及长期随访模板库",
+      "asset": "assets/09_康复疗效复评功能目标出院计划及长期随访模板库.docx",
+      "reference": "references/09_康复疗效复评功能目标出院计划及长期随访模板库.md",
+      "asset_sha256": "0ec1199c1604d87e53ad35aa933edb2fefb77b3dbb1e2caf35ab8f1017fbffaa",
+      "reference_sha256": "5d4af6c044257d1e528cc794fff3f7384792a2cd4a2d6e3eb812fee9fff1df6c",
+      "paragraphs": 129,
+      "tables": 0,
+      "text_nodes": 150,
+      "text_characters": 5623,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "541ca7618e1ffa005537c2a2adb9f941d20e90ecb9f173a9288877c43d47ec2d"
+    },
+    {
+      "id": "10",
+      "title": "康复医学科病历最终质控功能变化及时间轴一致性审查库",
+      "asset": "assets/10_康复医学科病历最终质控功能变化及时间轴一致性审查库.docx",
+      "reference": "references/10_康复医学科病历最终质控功能变化及时间轴一致性审查库.md",
+      "asset_sha256": "ea4ee86c980c4f7e2eb718d7c1193d1bf10b0060e593c3a80849abefd217b3a8",
+      "reference_sha256": "6b56b5efa338a030502f81d1c9b197b1fda1d7d2b6c1140594304e66d6d24d85",
+      "paragraphs": 648,
+      "tables": 0,
+      "text_nodes": 671,
+      "text_characters": 24078,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "c458ee2b870b2dbd6213c406fd4d6b5d07b4c4a5dde8309010e33c45ecb36140"
+    },
+    {
+      "id": "11",
+      "title": "康复医学科AI自动调用路由与康复病例状态管理规则库",
+      "asset": "assets/11_康复医学科AI自动调用路由与康复病例状态管理规则库.docx",
+      "reference": "references/11_康复医学科AI自动调用路由与康复病例状态管理规则库.md",
+      "asset_sha256": "2f71c96243b2f09f56e4f04265a09ff4a40d01fb57b43ed135092075d45ba902",
+      "reference_sha256": "a1e95b3b06327ba4e11af2992c4b8c9464f37438a848f94cec52abe53e21f2ca",
+      "paragraphs": 176,
+      "tables": 0,
+      "text_nodes": 200,
+      "text_characters": 7599,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "6c509afbf3409972d268fb3abe6d46e0cc09df9aedfe916a07f293c0c940086b"
+    },
+    {
+      "id": "101",
+      "title": "脑卒中颅脑损伤及中枢神经系统疾病康复模板库",
+      "asset": "assets/101_脑卒中颅脑损伤及中枢神经系统疾病康复模板库.docx",
+      "reference": "references/101_脑卒中颅脑损伤及中枢神经系统疾病康复模板库.md",
+      "asset_sha256": "649c285dc31660078086f9a03c12eb3c90d7c35ef9d07b0b0c40fc50a47082ee",
+      "reference_sha256": "e1bb7ff3c6db8a5af50d42adc0554bf946c39b5baaf4cd71949931b4a345a4df",
+      "paragraphs": 452,
+      "tables": 0,
+      "text_nodes": 473,
+      "text_characters": 15035,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "50a221705421f9be60b05ac20828e6eba03f1421b7ec9efc4c110a943e2f49c0"
+    },
+    {
+      "id": "102",
+      "title": "脊髓损伤周围神经损伤及神经肌肉疾病康复模板库",
+      "asset": "assets/102_脊髓损伤周围神经损伤及神经肌肉疾病康复模板库.docx",
+      "reference": "references/102_脊髓损伤周围神经损伤及神经肌肉疾病康复模板库.md",
+      "asset_sha256": "46e9ca65be031680e9fc43679a39ccf8d840a14d401e03128e0c5c8f61fa466f",
+      "reference_sha256": "266dddf6799f6d0424fd27125eda6de866e18d17b56efff1b3326a001e5c8932",
+      "paragraphs": 530,
+      "tables": 0,
+      "text_nodes": 549,
+      "text_characters": 17283,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "d9037f1895aa171764a5cc18d29ba161f93f616a9a1e69fad53c6d02211a8bb7"
+    },
+    {
+      "id": "103",
+      "title": "骨科创伤关节置换脊柱及运动系统疾病康复模板库",
+      "asset": "assets/103_骨科创伤关节置换脊柱及运动系统疾病康复模板库.docx",
+      "reference": "references/103_骨科创伤关节置换脊柱及运动系统疾病康复模板库.md",
+      "asset_sha256": "2bc9da6ac1705b9d60eb2375ffcb1e2107fb3ce164efa0bcf01fe99adfdf1d8a",
+      "reference_sha256": "c8de662a2a6032dda5947ea9884fc0c54fb214a8c4d8f2b8fbbac63fb8bee3af",
+      "paragraphs": 613,
+      "tables": 0,
+      "text_nodes": 631,
+      "text_characters": 19274,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "262636394b9ca180abd7665db7168dc5e1b67af6f82bf15fff57382c2e115e8c"
+    },
+    {
+      "id": "104",
+      "title": "吞咽言语认知神经心理及交流功能障碍康复模板库",
+      "asset": "assets/104_吞咽言语认知神经心理及交流功能障碍康复模板库.docx",
+      "reference": "references/104_吞咽言语认知神经心理及交流功能障碍康复模板库.md",
+      "asset_sha256": "093ab65922a5b1c321f11acf7f44ccbcb9ce5c1c4611aa36e32e78f038cd093d",
+      "reference_sha256": "2db34fc196476382a742277d6bbdb22303791b516406951d2ac9f2bac251562d",
+      "paragraphs": 447,
+      "tables": 0,
+      "text_nodes": 467,
+      "text_characters": 14687,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "d25565adf53b74ffb22b2b4109bcd72c248a529aa318c532e81b309655d71c2c"
+    },
+    {
+      "id": "105",
+      "title": "心脏呼吸系统重症及危重症后康复模板库",
+      "asset": "assets/105_心脏呼吸系统重症及危重症后康复模板库.docx",
+      "reference": "references/105_心脏呼吸系统重症及危重症后康复模板库.md",
+      "asset_sha256": "438daad6f2e201e47564e0b484958fa6b3f2b3bea53afca09ecb99cedc3da91b",
+      "reference_sha256": "56099e6d2036914f9ce4767b3fbed5f0f52d11dd4b3601512891953348c6487d",
+      "paragraphs": 530,
+      "tables": 0,
+      "text_nodes": 549,
+      "text_characters": 16967,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "4520dfc964b5d290e1b0e65956a357d748d18c2f9cba72847b3a7218b1e81f57"
+    },
+    {
+      "id": "106",
+      "title": "老年衰弱慢性疾病肿瘤及营养康复模板库",
+      "asset": "assets/106_老年衰弱慢性疾病肿瘤及营养康复模板库.docx",
+      "reference": "references/106_老年衰弱慢性疾病肿瘤及营养康复模板库.md",
+      "asset_sha256": "05ede19c335c28fc2ba02d6f5b633f93a553ebf12032d65a9a00c545b344b3be",
+      "reference_sha256": "f7109f972a34a751449eacb3a60deb920dac307ffb9c8836c2905b9480172336",
+      "paragraphs": 525,
+      "tables": 0,
+      "text_nodes": 543,
+      "text_characters": 16778,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "c0e85b6cc684ed81b6dc092a2bac431c9c870e8302cedb9c5a185011db3c1315"
+    },
+    {
+      "id": "107",
+      "title": "儿童脑瘫发育障碍及儿童专科康复模板库",
+      "asset": "assets/107_儿童脑瘫发育障碍及儿童专科康复模板库.docx",
+      "reference": "references/107_儿童脑瘫发育障碍及儿童专科康复模板库.md",
+      "asset_sha256": "2853afe1e5b5df4b2066715a8c2265f65822b6efc39322cc348120e5f724b177",
+      "reference_sha256": "5c80e1f30cb7492582f54ad4f6cbec0c12e461408e1be7f28e686f039d340335",
+      "paragraphs": 442,
+      "tables": 0,
+      "text_nodes": 461,
+      "text_characters": 14459,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "ca65a32418852f458182f28af86fe60d3d6c719a2258d606f9ee76f33a95ec60"
+    },
+    {
+      "id": "108",
+      "title": "慢性疼痛痉挛截肢假肢矫形器及盆底功能康复模板库",
+      "asset": "assets/108_慢性疼痛痉挛截肢假肢矫形器及盆底功能康复模板库.docx",
+      "reference": "references/108_慢性疼痛痉挛截肢假肢矫形器及盆底功能康复模板库.md",
+      "asset_sha256": "cbe6d46262b5420d48530681b173bd49d81aa26b608265e50b1a9101242e6967",
+      "reference_sha256": "0a490be3e7ed9240a4acb47ffcc1810ba88f94b3f09c136624584d3c5c3cfd6f",
+      "paragraphs": 447,
+      "tables": 0,
+      "text_nodes": 467,
+      "text_characters": 14766,
+      "media_files": 0,
+      "parts": [
+        "word/document.xml",
+        "word/footer1.xml",
+        "word/header1.xml"
+      ],
+      "text_stream_sha256": "7abdee81ba19aa763db67ecf53e5772ea9e6005467e5ee203c66e8fde6afd1bd"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 本公开仓库按科室独立组织。每个 `departments/<科室标识>/` 含完整的 `skill/` 与原始 `plugin.zip`；修改、选择或复制某科室时无需改动其他目录。
 
-## 科室目录（共16科）
+## 科室目录（共17科）
 
 | 科室 | 独立目录 | 精确调用名称 |
 |---|---|---|
@@ -22,6 +22,7 @@
 | 儿科 | [`pediatrics-inpatient-records`](departments/pediatrics-inpatient-records/) | `$pediatrics-inpatient-records` |
 | 皮肤科 | [`dermatology-medical-records`](departments/dermatology-medical-records/) | `$dermatology-medical-records` |
 | 妇产科 | [`obstetrics-gynecology-records`](departments/obstetrics-gynecology-records/) | `$obstetrics-gynecology-records` |
+| 康复医学科 | [`rehabilitation-medicine-records`](departments/rehabilitation-medicine-records/) | `$rehabilitation-medicine-records` |
 
 ## 单独接入
 
